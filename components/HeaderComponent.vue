@@ -12,28 +12,28 @@
 </script>
 <template>
     <header
-        class="bg-white py-8 px-8 flex justify-between items-center"
+        class="bg-white py-4 md:py-8 md:px-8 md:flex justify-between items-center"
     >
         <nuxt-link 
             to="/"
-            class="logo uppercase font-bold text-3xl tracking-widest"
+            class="logo uppercase font-bold text-3xl tracking-widest text-center block"
         >
             Sambawood
         </nuxt-link>
         <nav
-            class="flex gap-4 items-center navbar"
+            class="md:flex gap-4 items-center navbar mt-5 md:mt-0"
         >
             <ul
-                class="flex gap-4"
+                class="flex gap-4 h-10 md:h-auto overflow-x-auto w-full relative z-50"
             >
-                <li v-for="(item, index) in nav" :key="index" class="uppercase font-bold">
+                <li v-for="(item, index) in nav" :key="index" class="uppercase font-bold whitespace-nowrap md:whitespace-normal">
                     <nuxt-link :to="item.path">
                         {{ $t(item.name) }}
                     </nuxt-link>
                 </li>
             </ul>
             <form
-                class="bg-blue-900 text-white px-4 py-1 rounded-full"
+                class="bg-blue-900 text-white px-4 py-1 rounded-full mt-5 md:mt-0 w-20 m-auto"
             >
                 <select v-model="locale" class="uppercase bg-transparent outline:border-none focus:border-none active:border-none">
                     <option value="es">es</option>
