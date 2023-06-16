@@ -1,12 +1,12 @@
 <script setup>
     const boxes = [
         { 
-            img: '/grafik.jpg', 
+            img: 'grafik_l2npuh.jpg', 
             headline: 'home.sectionTwo.boxOne.headline',
             text: 'home.sectionTwo.boxOne.text',
         },
         { 
-            img: '/planing.jpg', 
+            img: 'planing_vu13mo.jpg', 
             headline: 'home.sectionTwo.boxTwo.headline',
             text: 'home.sectionTwo.boxTwo.text',
             list: [
@@ -24,7 +24,7 @@
             ]
         },
         { 
-            img: '/planing2.jpg', 
+            img: 'planing2_squdxd.jpg', 
             headline: 'home.sectionTwo.boxThree.headline',
             text: 'home.sectionTwo.boxThree.text' 
         },
@@ -45,7 +45,7 @@
             >
                 <nuxt-img 
                     class="w-full h-full object-cover object-center"
-                    src="group.jpg"
+                    src="group_pc69i6.jpg"
                     alt="team"
                 />
             </figure>

@@ -18,7 +18,15 @@ export default defineNuxtConfig({
           }]
     ],
     image: {
-      dir: 'assets/images'
+      provider: 'cloudinary',
+      cloudinary: {
+        baseURL: 'https://res.cloudinary.com/dmb4l3zfo/image/upload/v1686914083/sambawood/',
+        modifiers: {
+          format: 'webp',
+          effect: 'sharpen:100',
+          quality: 'auto:best',
+        }
+      }
     },
     css: ["plyr/dist/plyr.css"],
     i18n: {

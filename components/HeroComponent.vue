@@ -1,6 +1,6 @@
 <template>
     <Hero
-        class="bg-white text-white py-32 px-8 flex flex-col justify-center items-center relative bg-[url('/assets/images/hero.jpg')] bg-no-repeat bg-center bg-cover"
+        class="bg-white text-white py-32 px-8 flex flex-col justify-center items-center relative bg-[url('https://res.cloudinary.com/dmb4l3zfo/image/upload/v1686914083/sambawood/hero_n6iaqb.jpg')] bg-no-repeat bg-center bg-cover"
     >
         <h1
             class="text-3xl md:text-6xl font-bold uppercase bg-blue-900 p-2"

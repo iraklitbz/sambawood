@@ -2,7 +2,7 @@
     const team = [
         { 
             name: 'company.director.name',
-            image: 'jimmy.jpg',
+            image: 'jimmy_obuujj.jpg',
             ocupation: 'company.director.ocupation',
             lang: [
                 'ge', 'de', 'es', 'en', 'ru'
@@ -37,7 +37,7 @@
         </h1>
         <nuxt-img 
             class="w-full h-full object-cover object-center opacity-60"
-            src="planing3.jpg"
+            src="planing3_ypnjsp.jpg"
             alt="company" />
     </section>
     <section

@@ -1,33 +1,3 @@
-<script setup>
-    onMounted(async () => {
-        const Plyr = await import("plyr");
-        const newPlayer = new Plyr.default("#player");
-    });
-    const team = [
-        { 
-            name: 'company.director.name',
-            image: 'jimmy.jpg',
-            ocupation: 'company.director.ocupation',
-            lang: [
-                'ge', 'de', 'es', 'en', 'ru'
-            ],
-            social: [
-                {
-                    name: 'facebook',
-                    link: 'https://www.facebook.com/jgorgiladze1/'
-                },
-                {
-                    name: 'instagram',
-                    link: 'https://www.instagram.com/innovatioindesign/'
-                },
-                {
-                    name: 'gmail',
-                    link: 'mailto:gorgiladze@yahoo.de'
-                }
-            ]
-        }
-    ]
-</script>
 <template>
     <section
     class="bg-green-950 h-96 overflow-hidden relative"
@@ -41,7 +11,7 @@
         </h1>
         <nuxt-img 
             class="w-full h-full object-cover object-center opacity-60"
-            src="more.jpg"
+            src="more_faeyjo.jpg"
             alt="company" />
     </section>
     <section

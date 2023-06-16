@@ -7,7 +7,7 @@
     const services = [
         {  
             headline: 'services.sectionTwo.boxOne.headline',
-            image: '/1.jpg',
+            image: '1_ucyr4i.jpg',
             list: [
                 'services.sectionTwo.boxOne.list',
                 'services.sectionTwo.boxOne.list2'
@@ -15,7 +15,7 @@
         },
         {  
             headline: 'services.sectionTwo.boxTwo.headline',
-            image: '/2.jpg',
+            image: '2_jriqxj.jpg',
             list: [
                 'services.sectionTwo.boxTwo.list',
                 'services.sectionTwo.boxTwo.list2',
@@ -24,7 +24,7 @@
         },
         {  
             headline: 'services.sectionTwo.boxThree.headline',
-            image: '/3.jpg',
+            image: '3_tmnkej.jpg',
             list: [
                 'services.sectionTwo.boxThree.list',
                 'services.sectionTwo.boxThree.list2'
@@ -32,7 +32,7 @@
         },
         {  
             headline: 'services.sectionTwo.boxFour.headline',
-            image: '/4.jpg',
+            image: '4_nlerb5.jpg',
             list: [
                 'services.sectionTwo.boxFour.list',
                 'services.sectionTwo.boxFour.list2',
@@ -43,7 +43,7 @@
         },
         {  
             headline: 'services.sectionTwo.boxFive.headline',
-            image: '/5.jpg',
+            image: '5_vndlde.jpg',
             list: [
                 'services.sectionTwo.boxFive.list',
                 'services.sectionTwo.boxFive.list2',
@@ -52,7 +52,7 @@
         },
         {  
             headline: 'services.sectionTwo.boxSix.headline',
-            image: '/6.jpg',
+            image: '6_lha6j0.jpg',
             list: [
                 'services.sectionTwo.boxSix.list',
                 'services.sectionTwo.boxSix.list2',
@@ -61,7 +61,7 @@
         },
         {  
             headline: 'services.sectionTwo.boxSeven.headline',
-            image: '/7.jpg',
+            image: '7_lafzhw.jpg',
             list: [
                 'services.sectionTwo.boxSeven.list',
                 'services.sectionTwo.boxSeven.list2',
@@ -71,7 +71,7 @@
         },
         {  
             headline: 'services.sectionTwo.boxEight.headline',
-            image: '/8.jpg',
+            image: '8_rmggom.jpg',
             list: [
                 'services.sectionTwo.boxEight.list',
                 'services.sectionTwo.boxEight.list2'
@@ -79,7 +79,7 @@
         },
         {  
             headline: 'services.sectionTwo.boxNine.headline',
-            image: '/9.jpg',
+            image: '9_ayukf9.jpg',
             list: [
                 'services.sectionTwo.boxNine.list',
                 'services.sectionTwo.boxNine.list2',
@@ -88,14 +88,14 @@
         },
         {  
             headline: 'services.sectionTwo.boxTen.headline',
-            image: '/10.jpg',
+            image: '10_x5umxf.jpg',
             list: [
                 'services.sectionTwo.boxTen.list'
             ]
         },
         {  
             headline: 'services.sectionTwo.boxEleven.headline',
-            image: '/11.jpg',
+            image: '11_dbcluo.jpg',
             list: [
                 'services.sectionTwo.boxEleven.list',
                 'services.sectionTwo.boxEleven.list2'
@@ -103,7 +103,7 @@
         },
         {  
             headline: 'services.sectionTwo.boxTwelve.headline',
-            image: '/12.jpg',
+            image: '12_jekome.jpg',
             list: [
                 'services.sectionTwo.boxTen.list',
                 'services.sectionTwo.boxTwelve.list2'
@@ -124,7 +124,7 @@
         </h1>
         <nuxt-img 
             class="w-full h-full object-cover object-center opacity-60"
-            src="service.jpg"
+            src="service_x5ge89.jpg"
             alt="company" />
     </section>
     <section
@@ -138,7 +138,7 @@
             >
                 <nuxt-img 
                     class="w-full h-full object-cover object-center"
-                    src="planing3.jpg"
+                    src="planing3_ypnjsp.jpg"
                     alt="team"
                 />
             </figure>

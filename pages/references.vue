@@ -15,7 +15,7 @@
         </h1>
         <nuxt-img 
             class="w-full h-full object-cover object-center opacity-60"
-            src="reference.jpg"
+            src="reference_cqh6le.jpg"
             alt="company" />
     </section>
     <section
