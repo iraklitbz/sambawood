@@ -1,5 +1,5 @@
 <template>
-    <Hero
+    <div
         class="bg-white text-white py-32 px-8 flex flex-col justify-center items-center relative bg-[url('https://res.cloudinary.com/dmb4l3zfo/image/upload/v1686914083/sambawood/hero_n6iaqb.jpg')] bg-no-repeat bg-center bg-cover"
     >
         <h1
@@ -17,5 +17,5 @@
         >
             {{ $t('home.hero.subHeadline') }}
         </h2>
-    </Hero>
+    </div>
 </template>

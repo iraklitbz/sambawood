@@ -1,0 +1,494 @@
+{
+    "navbar": {
+      "home": "Home",
+      "company": "Company",
+      "service": "Services",
+      "more": "and more",
+      "references": "References",
+      "medium": "Media",
+      "contact": "Contact"
+    },
+    "home": {
+      "hero": {
+        "bigHeadline": "Shopfitting",
+        "smallHeadline": "Project Coordination",
+        "subHeadline": "and more"
+      },
+      "sectionOne": {
+        "headline": "„Service means to see the whole business through the eyes of the client.“ – Axel Haitzer",
+        "text": "This is our moto because we comply with your plans and wishes in order to satisfy you. Choosing our team, you have a reliable and competent partner by your side with technical skills and expertise resulting from long-term experiences at an international level. We have been working in the fields of project management and shop fitting for more than 16 years, especially in cooperation with IKEA. We carry out big projects as well as small projects with great passion. Our extensive references and the feedback from our clients are a proof of this.",
+        "text2": "We are convinced that your projects are in good hands if you choose us.",
+        "text3": "Have we also convinced you?"
+      },
+      "sectionTwo": {
+        "boxOne": {
+          "headline": "A team with international experience and a variety of language skills",
+          "text": "Our team disposes of a comprehensive experience due to their international works. Furthermore, we have knowledge of at least three different languages so that a smooth communication can take place in foreign countries."
+        },
+        "boxTwo": {
+          "headline": "Our services at a glance",
+          "text": "Our experienced team devotes itself to different working areas to transform ideas into qualitative spaces. These are some of our services:",
+          "list": "Interior design",
+          "list2": "Shop fitting",
+          "list3": "Renovation and restructuring",
+          "list4": "Professional assembly and dismantling",
+          "list5": "Illumination",
+          "list6": "Decoration",
+          "list7": "Graphic works",
+          "list8": "Merchandise presentation",
+          "list9": "Wall assembly",
+          "list10": "Painting",
+          "list11": "Flooring works"
+        },
+        "boxThree": {
+          "headline": "High load capacity and flexibility",
+          "text": "These are two qualities that define us because we always strive for customer satisfaction, no matter how difficult the conditions are. It is not always easy but, nevertheless, it is not impossible to complete a project in time in critical situations according to the plans and wishes of our clients. We adapt to the given circumstances in any regard: No matter what time it is; you can always count on us. Furthermore, we are poised to do additional work if necessary."
+        }
+      }
+    },
+    "company": {
+      "headline": "The company",
+      "director": {
+        "name": "Jemal Gorgiladze",
+        "ocupation": "Managing director"
+      },
+      "text": "Sambawood is based in Spain, but the office is located in Germany. The company Sambawood is based on 16 years of experience. Starting as a German company, Sambawood is now mainly working as a subcontractor for various IKEA projects. Other activities relate to private buildings and renovation works.",
+      "text2": "Due to the multifaceted activities in shop fitting, the company brings expertise in numerous areas. Our skills are diverse and range from construction works to sewing and furniture assembly.",
+      "languages": "Languages"
+    },
+    "services": {
+      "headline": "Services",
+      "sectionOne": {
+        "headline": "Sambawood: a company with professional versatility",
+        "text": "Our company sets highest priority in professional consulting for the realisation of projects in different areas. We collaborate with our clients to find the best possible solutions. Therefore, we apply all our planning competences and manual experiences. We accompany our clients from the planning to the realisation and we are constantly seeking to implement projects and plans at our costumer’s option. Even in difficult conditions we carry out our works conscientiously and professionally.",
+        "text2": "This is the reason why we are characterized by a high load capacity and flexibility.",
+        "headlineTwo": "Consulting",
+        "list": "Individual consulting in terms of planning",
+        "list2": "Coordination of subcontractors",
+        "list3": "Project leadership and management"
+      },
+      "sectionTwo": {
+        "boxOne": {
+          "headline": "Ceiling works",
+          "list": "Modification and adaptation of existing ceilings",
+          "list2": "Installation of different ceiling systems"
+        },
+        "boxTwo": {
+          "headline": "Indoor market construction",
+          "list": "Assembly and dismantling of shelving systems",
+          "list2": "Setting up partition walls",
+          "list3": "Positioning merchandise"
+        },
+        "boxThree": {
+          "headline": "Wall works",
+          "list": "Setting up and manufacturing exhibition walls",
+          "list2": "Installation of doors, windows, etc."
+        },
+        "boxFour": {
+          "headline": "Painting works",
+          "list": "Levelling",
+          "list2": "Priming",
+          "list3": "Wallpapering",
+          "list4": "Painting",
+          "list5": "Varnishing"
+        },
+        "boxFive": {
+          "headline": "Tiling works",
+          "list": "Removal of old tiles",
+          "list2": "Preparation works for tiling",
+          "list3": "Tiling"
+        },
+        "boxSix": {
+          "headline": "Flooring works",
+          "list": "Levelling of uneven floors",
+          "list2": "Removal of old floors",
+          "list3": "Laying laminate, parquet, vinyl flooring and tiles"
+        },
+        "boxSeven": {
+          "headline": "Kitchen installations",
+          "list": "Modification of existing kitchen exhibitions",
+          "list2": "Modification of furniture and worktops",
+          "list3": "Professional montage of furniture",
+          "list4": "Conceptual construction and design of kitchen studios"
+        },
+        "boxEight": {
+          "headline": "Furniture assembly",
+          "list": "Professional assembly of furniture",
+          "list2": "Modification of furniture"
+        },
+        "boxNine": {
+          "headline": "Decoration works",
+          "list": "Application of price tags",
+          "list2": "Illumination",
+          "list3": "Setting up billboards"
+        },
+        "boxTen": {
+          "headline": "Graphic works",
+          "list": "Application of advertising and information materials"
+        },
+        "boxEleven": {
+          "headline": "Presentation of merchandise and logistics",
+          "list": "Positioning merchandise",
+          "list2": "Filling and emptying sales areas"
+        },
+        "boxTwelve": {
+          "headline": "Sewing works",
+          "list": "Manufacturing curtains and textiles",
+          "list2": "Manufacturing different decoration elements"
+        }
+      }
+    },
+    "more": {
+      "headline": "And more",
+      "sectionOne": {
+        "headline": "Restructuring and renovation",
+        "text": "Apart from shop fittings we also devote ourselves with great passion to the restructuring and renovation of different spaces. Therefore, we accompany our clients from the initial conception through to the final touch. Following the motto “Creativity has no limits”, our creative team transforms your dreams into unique spaces. Don’t just take our word for it – have a look at our creations!"
+      },
+      "sectionTwo": {
+        "headline": "Unique elements for indoor and outdoor areas",
+        "text": "Our style of furnishing is characterized by the revival of old and unusable materials. We recycle them in order to create unique, aesthetic and high-quality furniture. So why throw them away? Using these, you can create spaces in an industrial or a rustic and natural design. Whether if wood, steel or glass, we transform any kind of material in a piece of jewelry for your home."
+      }
+    },
+    "references": {
+      "headline": "References",
+      "sectionOne": {
+        "text": "Over the past few years, Sambawood has participated as subcontractor in numerous national and international projects with IKEA which are listed  in the table below. Apart from big projects we also realised smaller projects which , however are not mentioned in the table.",
+        "table": {
+          "year": "2004",
+          "list": {
+            "city": "Bilbao",
+            "county": "Spain",
+            "work": "New building",
+            "proyect": "Market hall"
+          }
+        },
+        "table2": {
+          "year": "2005",
+          "list": {
+            "city": "Osnabrück",
+            "county": "Germay",
+            "work": "New building",
+            "proyect": "Market hall"
+          }
+        },
+        "table3": {
+          "year": "2006",
+          "list": {
+            "city": "Murcia",
+            "county": "Spain",
+            "work": "New building",
+            "proyect": "Market hall"
+          }
+        },
+        "table4": {
+          "year": "2007",
+          "list": {
+            "city": "Madrid",
+            "county": "Spain",
+            "work": "New building",
+            "proyect": "Market hall/Ceiling"
+          },
+          "list2": {
+            "city": "Málaga",
+            "county": "Spain",
+            "work": "New building",
+            "proyect": "Market hall/Ceiling"
+          },
+          "list3": {
+            "city": "Porto",
+            "county": "Portugal",
+            "work": "New building",
+            "proyect": "Market hall"
+          },
+          "list4": {
+            "city": "Barcelona",
+            "county": "Spain",
+            "work": "New building",
+            "proyect": "Textile and carpets area"
+          }
+        },
+        "table5": {
+          "year": "2008",
+          "list": {
+            "city": "Sevilla",
+            "county": "Spain",
+            "work": "Rebuild",
+            "proyect": "Market hall"
+          },
+          "list2": {
+            "city": "Parma",
+            "county": "Italy",
+            "work": "New building",
+            "proyect": "Market hall"
+          },
+          "list3": {
+            "city": "Lucerna / Aubonne",
+            "county": "Suiza",
+            "work": "Rebuild",
+            "proyect": "Furniture assembly"
+          },
+          "list4": {
+            "city": "Friburgo",
+            "county": "Germay",
+            "work": "Rebuild",
+            "proyect": "Furniture assembly"
+          }
+        },
+        "table6": {
+          "year": "2009",
+          "list": {
+            "city": "Lisbon",
+            "county": "Portugal",
+            "work": "Rebuild",
+            "proyect": "Lampenbereich"
+          },
+          "list2": {
+            "city": "Florence",
+            "county": "Italy",
+            "work": "New building",
+            "proyect": "Market hall"
+          }
+        },
+        "table7": {
+          "year": "2010",
+          "list": {
+            "city": "Lisbon",
+            "county": "Portugal",
+            "work": "New building",
+            "proyect": "Market hall"
+          },
+          "list2": {
+            "city": "Ginebra",
+            "county": "Suiza",
+            "work": "Rebuild",
+            "proyect": "Market hall"
+          }
+        },
+        "table8": {
+          "year": "2011",
+          "list": {
+            "city": "Bilbao",
+            "county": "Spain",
+            "work": "Rebuild",
+            "proyect": "Küchenabteilung"
+          },
+          "list2": {
+            "city": "Copenhagen",
+            "county": "Denmark",
+            "work": "Rebuild",
+            "proyect": "Showroom"
+          },
+          "list3": {
+            "city": "Lucerna",
+            "county": "Swiza",
+            "work": "Rebuild",
+            "proyect": "Market hall"
+          },
+          "list4": {
+            "city": "Copenhagen",
+            "county": "Denmark",
+            "work": "Rebuild",
+            "proyect": "Market hall"
+          },
+          "list5": {
+            "city": "Brussels",
+            "county": "Belgium",
+            "work": "Rebuild",
+            "proyect": "Market hall"
+          },
+          "list6": {
+            "city": "Lisbon",
+            "county": "Portugal",
+            "work": "Rebuild",
+            "proyect": "Market hall"
+          },
+          "list7": {
+            "city": "Lisbon",
+            "county": "Portugal",
+            "work": "Rebuild",
+            "proyect": "Market hall"
+          }
+        },
+        "table9": {
+          "year": "2012",
+          "list": {
+            "city": "Brussels – Anderlecht",
+            "county": "Belgium",
+            "work": "Rebuild",
+            "proyect": "Market hall"
+          }
+        },
+        "table10": {
+          "year": "2013",
+          "list": {
+            "city": "Brussels – Zaventem",
+            "county": "Belgium",
+            "work": "Rebuild",
+            "proyect": "Market hall"
+          },
+          "list2": {
+            "city": "Lieja",
+            "county": "Belgium",
+            "work": "Rebuild",
+            "proyect": "Market hall"
+          },
+          "list3": {
+            "city": "Graz",
+            "county": "Austria",
+            "work": "Rebuild",
+            "proyect": "Market hall"
+          }
+        },
+        "table11": {
+          "year": "2014",
+          "list": {
+            "city": "Arhus",
+            "county": "Denmark",
+            "work": "New building",
+            "proyect": "Market hall / Showroom"
+          },
+          "list2": {
+            "city": "Gante",
+            "county": "Belgium",
+            "work": "Rebuild",
+            "proyect": "Market hall"
+          }
+        },
+        "table12": {
+          "year": "2015",
+          "list": {
+            "city": "Berlin",
+            "county": "Germay",
+            "work": "Rebuild",
+            "proyect": "Market hall"
+          },
+          "list2": {
+            "city": "Kuwait",
+            "county": "Kuwait",
+            "work": "Rebuild",
+            "proyect": "Market hall"
+          }
+        },
+        "table13": {
+          "year": "2016",
+          "list": {
+            "city": "Haaselt",
+            "county": "Belgium",
+            "work": "New building",
+            "proyect": "Market hall / Restaurant / offices"
+          },
+          "list2": {
+            "city": "Mons",
+            "county": "Belgium",
+            "work": "New building",
+            "proyect": "Market hall / Restaurant / offices"
+          },
+          "list3": {
+            "city": "Haarlem",
+            "county": "Países bajos",
+            "work": "Rebuild",
+            "proyect": "Market hall"
+          },
+          "list4": {
+            "city": "Wuppertal",
+            "county": "Germay",
+            "work": "Rebuild",
+            "proyect": "Market hall / Showroom"
+          },
+          "list5": {
+            "city": "Kaarst",
+            "county": "Germay",
+            "work": "Rebuild",
+            "proyect": "Lampenbereich"
+          }
+        },
+        "table14": {
+          "year": "2017",
+          "list": {
+            "city": "Osnabrück",
+            "county": "Germay",
+            "work": "Rebuild",
+            "proyect": "Market hall / Ceiling / Swedish Food Market"
+          },
+          "list2": {
+            "city": "Kaarst",
+            "county": "Germay",
+            "work": "New building",
+            "proyect": "Market hall / Ceiling / Swedish Food Market"
+          },
+          "list3": {
+            "city": "Hannover",
+            "county": "Germay",
+            "work": "Rebuild",
+            "proyect": "Restaurant"
+          }
+        },
+        "table15": {
+          "year": "2018",
+          "list": {
+            "city": "Amsterdam",
+            "county": "Países bajos",
+            "work": "Rebuild",
+            "proyect": "Market hall / Ceiling"
+          },
+          "list2": {
+            "city": "Amsterdam",
+            "county": "Países bajos",
+            "work": "Rebuild",
+            "proyect": "Store entrance"
+          }
+        },
+        "table16": {
+          "year": "2019",
+          "list": {
+            "city": "Bielefeld",
+            "county": "Germay",
+            "work": "Rebuild",
+            "proyect": "Showroom / Beds and mattresses area"
+          },
+          "list2": {
+            "city": "Kaarst",
+            "county": "Germay",
+            "work": "Rebuild",
+            "proyect": "Showroom / Beds and mattresses area"
+          }
+        },
+        "table17": {
+          "year": "2020",
+          "list": {
+            "city": "Karlsruhe",
+            "county": "Germay",
+            "work": "New building",
+            "proyect": "Market hall"
+          },
+          "list2": {
+            "city": "Amsterdam",
+            "county": "Países bajos",
+            "work": "New building",
+            "proyect": "online shop office"
+          }
+        }
+      }
+    },
+    "media": {
+      "headline": "Media"
+    },
+    "contact": {
+      "headline": "Contact",
+      "smallheadline": "How can we help you?",
+      "manager": "Manager",
+      "company": "Company",
+      "office": "Office",
+      "email": "Email",
+      "phone": "Phone",
+      "or": "or via the contact form",
+      "youemail": "Your email",
+      "subject": "Subject",
+      "message": "Your message",
+      "send": "Send"
+    },
+    "footer": {
+      "legal": "Imprint",
+      "privacy": "Privicy policy"
+    }
+  }

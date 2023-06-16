@@ -1,0 +1,494 @@
+{
+    "navbar": {
+      "home": "Inicio",
+      "company": "Empresa",
+      "service": "Servicios",
+      "more": "y más",
+      "references": "Referencias",
+      "medium": "Media",
+      "contact": "Contacto"
+    },
+    "home": {
+      "hero": {
+        "bigHeadline": "Montaje de tiendas",
+        "smallHeadline": "coordinación de proyectos",
+        "subHeadline": "y más"
+      },
+      "sectionOne": {
+        "headline": "“El servicio significa ver todo el negocio a través de los ojos del cliente.” – Axel Haitzer",
+        "text": "Este es nuestro lema porque siempre nos orientamos por sus planes y deseos para asegurar su satisfacción. Con nuestro equipo tiene un socio fiable y competente que trae conocimientos artesanales por su larga experiencia a nivel internacional. Durante más de 16 años realizamos negocios en el ámbito de gestión de proyectos y construcción retail, especialmente en cooperación con IKEA, y gestionamos tanto grandes proyectos como prequeños proyectos con una gran pasión. Nuestra amplia lista de referencia y el feedback de nuestros clientes lo demuestran.",
+        "text2": "Estamos convencidos de que sus proyectos estarán en buenas manos, si eligen nuestra empresa.",
+        "text3": "¿También le hemos convencido a usted?"
+      },
+      "sectionTwo": {
+        "boxOne": {
+          "headline": "Un equipo de montadores con experiencia internacional y una variedad de conocimientos lingüísticas",
+          "text": "Nuestro equipo tiene una larga experiencia a causa de sus trabajos a nivel mundial. Además, se caracteriza por el dominio de al menos tres lenguas diferentes así que también podemos realizar una comunicación fluida en el extranjero."
+        },
+        "boxTwo": {
+          "headline": "Nuestros servicios de un vistazo",
+          "text": "Nuestro equipo experimentado se dedica a diferentes ámbitos de trabajo para transformar ideas en espacios de calidad. Estas son algunas de nuestras actividades profesionales: ",
+          "list": "Diseño de interiores",
+          "list2": "Construcción retail",
+          "list3": "Renovación y saneamiento",
+          "list4": "Montaje y desmontaje profesional",
+          "list5": "Iluminación",
+          "list6": "Decoración",
+          "list7": "Trabajos gráficos",
+          "list8": "Presentación de mercancía",
+          "list9": "Montaje de paredes",
+          "list10": "Trabajos de pintura",
+          "list11": "Colocación de suelos"
+        },
+        "boxThree": {
+          "headline": "Alta resistencia y flexibilidad.",
+          "text": "Estas son dos características que nos distinguen de otras empresas porque siempre nos esforzamos por la satisfacción de nuestros clientes, si bien las condiciones son difíciles. Muchas veces no es fácil. Sin embargo, no es imposible terminar a tiempo un proyecto de acuerdo con los planes y deseos de nuestros clientes en situaciones críticas. Nos adaptamos a las condiciones determinadas en todos los respectos: Puede contar con nosotros a cualquier hora. Además, estamos dispuestos a realizar trabajo adicional, si es necesario. "
+        }
+      }
+    },
+    "company": {
+      "headline": "La empresa",
+      "director": {
+        "name": "Jemal Gorgiladze",
+        "ocupation": "Director general"
+      },
+      "text": "Sambawood tiene su sede en España, pero la oficina se encuentra en Alemania. La empresa se basa en 16 años de experiencia. Comenzó como una empresa alemana. Ahora trabaja principalmente como subcontratista para varios proyectos de IKEA. También nos dedicamos al saneamiento y a la renovación de edificios privados.",
+      "text2": "Debido a las actividades multifacéticas en la construcción retail, la compañía aporta experiencia en numerosas áreas. Nuestras habilidades son diversas y van desde trabajos de construcción hasta costura y montaje de muebles.",
+      "languages": "Idiomas"
+    },
+    "services": {
+      "headline": "Servicios",
+      "sectionOne": {
+        "headline": "Sambawood: una empresa con una variedad profesional",
+        "text": "Nuestra empresa promueve un asesoramiento profesional para la realización de proyectos en diferentes ámbitos. Colaboramos con nuestros clientes para encontrar las mejores soluciones posibles. Para ello, utilizamos nuestras competencias de planificación y todas nuestras experiencias manuales para asegurar la satisfacción de nuestros clientes.",
+        "text2": "Acompañamos a nuestros clientes desde la planificación hasta la realización y siempre nos esforzamos para realizar los proyectos y planes según las necesidades de nuestros clientes. Siempre ejercemos nuestros trabajos de manera profesional y diligente, incluso si las condiciones son duras. Por ello, nos caracterizamos por una alta flexibilidad y resistencia.",
+        "headlineTwo": "Asesoramiento",
+        "list": "Asesoramiento individual en la planificación",
+        "list2": "Coordinación de subcontratistas",
+        "list3": "Liderazgo y gestión de proyectos"
+      },
+      "sectionTwo": {
+        "boxOne": {
+          "headline": "Trabajos de techos",
+          "list": "Modificación y adaptación de paredes",
+          "list2": "Instalación de sistemas de techo diferentes"
+        },
+        "boxTwo": {
+          "headline": "Construcción de mercado interior",
+          "list": "Montaje y desmontaje de sistemas de estanterías",
+          "list2": "Colocación de tabiques",
+          "list3": "Presentación de mercancía"
+        },
+        "boxThree": {
+          "headline": "Trabajos de pared",
+          "list": "Fabricación y colocación de paredes expositivas",
+          "list2": "Instalación de puertas, ventanas, etc."
+        },
+        "boxFour": {
+          "headline": "Trabajos de pintura",
+          "list": "Lucir",
+          "list2": "Imprimar",
+          "list3": "Empapelar",
+          "list4": "Pintar",
+          "list5": "Barnizar"
+        },
+        "boxFive": {
+          "headline": "Alicatado",
+          "list": "Eliminación de viejos azulejos",
+          "list2": "Preparación de paredes para el alicatado",
+          "list3": "Colocación de azulejos"
+        },
+        "boxSix": {
+          "headline": "Trabajos de terreno",
+          "list": "Nivelación de suelos irregulares",
+          "list2": "Retirada de pavimento",
+          "list3": "Colocación de lámina, parquet, suelo vinílico y azulejo"
+        },
+        "boxSeven": {
+          "headline": "Monataje de cocina",
+          "list": "Modificación de exposiciones de cocinas existentes",
+          "list2": "Adaptación de muebles y encimeras",
+          "list3": "Montaje profesional de muebles",
+          "list4": "Diseño conceptual de estudios de cocina"
+        },
+        "boxEight": {
+          "headline": "Montaje de muebles",
+          "list": "Montaje profesional de muebles",
+          "list2": "Modificación de muebles"
+        },
+        "boxNine": {
+          "headline": "Trabajos decorativos",
+          "list": "Colocación de etiquetas de precio",
+          "list2": "Instalación de iluminación",
+          "list3": "Colocación de paneles publicitarios"
+        },
+        "boxTen": {
+          "headline": "Trabajos gráficos",
+          "list": "Colocación de materiales publicitarios e informativos"
+        },
+        "boxEleven": {
+          "headline": "Presentación de mercancía y logística",
+          "list": "Llenar y vaciar áreas de venta",
+          "list2": "Colocación de mercancía"
+        },
+        "boxTwelve": {
+          "headline": "Trabajos de costura",
+          "list": "Fabricación de cortinas y textiles",
+          "list2": "Fabricación de diferentes elementos decorativos"
+        }
+      }
+    },
+    "more": {
+      "headline": "Y más",
+      "sectionOne": {
+        "headline": "Saneamiento y renovación",
+        "text": "Además de la construcción retail, nos dedicamos con una gran pasión al saneamiento y a la renovación de diferentes espacios. Para ello, acompañamos a nuestros clientes desde la planificación hasta el pulido final. Según el lema “La creatividad no tiene límites”, nuestro equipo creativo transforma sus sueños en espacios únicos. ¡Compruebe usted mismo nuestras creaciones!"
+      },
+      "sectionTwo": {
+        "headline": "Elementos únicos para el interior y el exterior",
+        "text": "Nuestro estilo interior se caracteriza por la revitalización de materiales viejos e inutilizables. Los reciclamos para crear muebles únicos, estéticos y cualitativos. Entonces, i por qué deberíamos tirarlos? Usándolos, se puede crear espacios con un diseño industrial o rustical y natural. Ya sea madera, acero o cristal, transformamos cualquier tipo de material en una joya para su hogar. "
+      }
+    },
+    "references": {
+      "headline": "Referencias",
+      "sectionOne": {
+        "text": "Durante les últimas años , Sambawood ha participado como subcontratista en numerosos proyectos nacionales e internacionales de IKEA que aparecen en la siguiente tabla. Además de los grandes proyectos , también se han implementado proyectos pequeños, pero, no obstante , no se mencionan aquí.",
+        "table": {
+          "year": "2004",
+          "list": {
+            "city": "Bilbao",
+            "county": "España",
+            "work": "Nueva construcción",
+            "proyect": "Market Hall"
+          }
+        },
+        "table2": {
+          "year": "2005",
+          "list": {
+            "city": "Osnabrück",
+            "county": "Alemania",
+            "work": "Nueva construcción",
+            "proyect": "Market Hall"
+          }
+        },
+        "table3": {
+          "year": "2006",
+          "list": {
+            "city": "Murcia",
+            "county": "España",
+            "work": "Nueva construcción",
+            "proyect": "Market Hall"
+          }
+        },
+        "table4": {
+          "year": "2007",
+          "list": {
+            "city": "Madrid",
+            "county": "España",
+            "work": "Nueva construcción",
+            "proyect": "Market Hall/Techo"
+          },
+          "list2": {
+            "city": "Málaga",
+            "county": "España",
+            "work": "Nueva construcción",
+            "proyect": "Market Hall/Techo"
+          },
+          "list3": {
+            "city": "Porto",
+            "county": "Portugal",
+            "work": "Nueva construcción",
+            "proyect": "Market Hall"
+          },
+          "list4": {
+            "city": "Barcelona",
+            "county": "España",
+            "work": "Nueva construcción",
+            "proyect": "Área de textiles y alfombras"
+          }
+        },
+        "table5": {
+          "year": "2008",
+          "list": {
+            "city": "Sevilla",
+            "county": "España",
+            "work": "Reconstrucción",
+            "proyect": "Market Hall"
+          },
+          "list2": {
+            "city": "Parma",
+            "county": "Italia",
+            "work": "Nueva construcción",
+            "proyect": "Market Hall"
+          },
+          "list3": {
+            "city": "Lucerna / Aubonne",
+            "county": "Suiza",
+            "work": "Reconstrucción",
+            "proyect": "Montaje de muebles"
+          },
+          "list4": {
+            "city": "Friburgo",
+            "county": "Alemania",
+            "work": "Reconstrucción",
+            "proyect": "Montaje de muebles"
+          }
+        },
+        "table6": {
+          "year": "2009",
+          "list": {
+            "city": "Lisboa",
+            "county": "Portugal",
+            "work": "Reconstrucción",
+            "proyect": "Área de iluminación"
+          },
+          "list2": {
+            "city": "Florencia",
+            "county": "Italia",
+            "work": "Nueva construcción",
+            "proyect": "Market Hall"
+          }
+        },
+        "table7": {
+          "year": "2010",
+          "list": {
+            "city": "Lisboa",
+            "county": "Portugal",
+            "work": "Nueva construcción",
+            "proyect": "Market Hall"
+          },
+          "list2": {
+            "city": "Ginebra",
+            "county": "Suiza",
+            "work": "Reconstrucción",
+            "proyect": "Market Hall"
+          }
+        },
+        "table8": {
+          "year": "2011",
+          "list": {
+            "city": "Bilbao",
+            "county": "España",
+            "work": "Reconstrucción",
+            "proyect": "Área de cocinas"
+          },
+          "list2": {
+            "city": "Copenhague",
+            "county": "Dinamarca",
+            "work": "Reconstrucción",
+            "proyect": "Sala de exposición"
+          },
+          "list3": {
+            "city": "Lucerna",
+            "county": "Swiza",
+            "work": "Reconstrucción",
+            "proyect": "Market Hall"
+          },
+          "list4": {
+            "city": "Copenhague",
+            "county": "Dinamarca",
+            "work": "Reconstrucción",
+            "proyect": "Market Hall"
+          },
+          "list5": {
+            "city": "Bruselas",
+            "county": "Bélgica",
+            "work": "Reconstrucción",
+            "proyect": "Market Hall"
+          },
+          "list6": {
+            "city": "Lisboa",
+            "county": "Portugal",
+            "work": "Reconstrucción",
+            "proyect": "Market Hall"
+          },
+          "list7": {
+            "city": "Lisboa",
+            "county": "Portugal",
+            "work": "Reconstrucción",
+            "proyect": "Market Hall"
+          }
+        },
+        "table9": {
+          "year": "2012",
+          "list": {
+            "city": "Bruselas – Anderlecht",
+            "county": "Bélgica",
+            "work": "Reconstrucción",
+            "proyect": "Market Hall"
+          }
+        },
+        "table10": {
+          "year": "2013",
+          "list": {
+            "city": "Bruselas – Zaventem",
+            "county": "Bélgica",
+            "work": "Reconstrucción",
+            "proyect": "Market Hall"
+          },
+          "list2": {
+            "city": "Lieja",
+            "county": "Bélgica",
+            "work": "Reconstrucción",
+            "proyect": "Market Hall"
+          },
+          "list3": {
+            "city": "Graz",
+            "county": "Austria",
+            "work": "Reconstrucción",
+            "proyect": "Market Hall"
+          }
+        },
+        "table11": {
+          "year": "2014",
+          "list": {
+            "city": "Arhus",
+            "county": "Dinamarca",
+            "work": "Nueva construcción",
+            "proyect": "Market Hall / Sala de exposición"
+          },
+          "list2": {
+            "city": "Gante",
+            "county": "Bélgica",
+            "work": "Reconstrucción",
+            "proyect": "Market Hall"
+          }
+        },
+        "table12": {
+          "year": "2015",
+          "list": {
+            "city": "Berlín",
+            "county": "Alemania",
+            "work": "Reconstrucción",
+            "proyect": "Market Hall"
+          },
+          "list2": {
+            "city": "Kuwait",
+            "county": "Kuwait",
+            "work": "Reconstrucción",
+            "proyect": "Market Hall"
+          }
+        },
+        "table13": {
+          "year": "2016",
+          "list": {
+            "city": "Haaselt",
+            "county": "Bélgica",
+            "work": "Nueva construcción",
+            "proyect": "Market Hall / Restaurante / Oficinas de Servicios"
+          },
+          "list2": {
+            "city": "Mons",
+            "county": "Bélgica",
+            "work": "Nueva construcción",
+            "proyect": "Market Hall / Restaurante / Oficinas de Servicios"
+          },
+          "list3": {
+            "city": "Haarlem",
+            "county": "Países bajos",
+            "work": "Reconstrucción",
+            "proyect": "Market Hall"
+          },
+          "list4": {
+            "city": "Wuppertal",
+            "county": "Alemania",
+            "work": "Reconstrucción",
+            "proyect": "Market Hall / Sala de exposición"
+          },
+          "list5": {
+            "city": "Kaarst",
+            "county": "Alemania",
+            "work": "Reconstrucción",
+            "proyect": "Área de iluminación"
+          }
+        },
+        "table14": {
+          "year": "2017",
+          "list": {
+            "city": "Osnabrück",
+            "county": "Alemania",
+            "work": "Reconstrucción",
+            "proyect": "Market Hall / Techo / Swedish Food Market"
+          },
+          "list2": {
+            "city": "Kaarst",
+            "county": "Alemania",
+            "work": "Nueva construcción",
+            "proyect": "Market Hall / Techo / Swedish Food Market"
+          },
+          "list3": {
+            "city": "Hannover",
+            "county": "Alemania",
+            "work": "Reconstrucción",
+            "proyect": "Restaurante"
+          }
+        },
+        "table15": {
+          "year": "2018",
+          "list": {
+            "city": "Amsterdam",
+            "county": "Países bajos",
+            "work": "Reconstrucción",
+            "proyect": "Market Hall / Techo"
+          },
+          "list2": {
+            "city": "Amsterdam",
+            "county": "Países bajos",
+            "work": "Reconstrucción",
+            "proyect": "Hall de entrada"
+          }
+        },
+        "table16": {
+          "year": "2019",
+          "list": {
+            "city": "Bielefeld",
+            "county": "Alemania",
+            "work": "Reconstrucción",
+            "proyect": "Sala de exposición / Área de camas y colchones"
+          },
+          "list2": {
+            "city": "Kaarst",
+            "county": "Alemania",
+            "work": "Reconstrucción",
+            "proyect": "Sala de exposición / Área de camas y colchones"
+          }
+        },
+        "table17": {
+          "year": "2020",
+          "list": {
+            "city": "Karlsruhe",
+            "county": "Alemania",
+            "work": "Nueva construcción",
+            "proyect": "Market Hall"
+          },
+          "list2": {
+            "city": "Amsterdam",
+            "county": "Países bajos",
+            "work": "Nueva construcción",
+            "proyect": "Oficina de mercado online"
+          }
+        }
+      }
+    },
+    "media": {
+      "headline": "Medios"
+    },
+    "contact": {
+      "headline": "Contacto",
+      "smallheadline": "¿Cómo le podemos ayudar?",
+      "manager": "Director",
+      "company": "Sede de la empresa:",
+      "office": "Sede de la oficina:",
+      "email": "Email",
+      "phone": "Tel",
+      "or": "o a través del formulario de contacto",
+      "youemail": "Su Email",
+      "subject": "Asunto",
+      "message": "Su mensaje",
+      "send": "Enviar"
+    },
+    "footer": {
+      "legal": "Aviso legal",
+      "privacy": "Política de privacidad"
+    }
+  }

@@ -11,7 +11,7 @@
     ]
 </script>
 <template>
-    <Header
+    <header
         class="bg-white py-8 px-8 flex justify-between items-center"
     >
         <nuxt-link 
@@ -42,7 +42,7 @@
                 </select>
             </form>
         </nav>
-    </Header>
+    </header>
 </template>
 
 <style scoped>

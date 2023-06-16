@@ -1,0 +1,494 @@
+{
+    "navbar": {
+      "home": "Home",
+      "company": "Firma",
+      "service": "Services",
+      "more": "und mehr",
+      "references": "Referenzen",
+      "medium": "Medien",
+      "contact": "Kontakt"
+    },
+    "home": {
+      "hero": {
+        "bigHeadline": "Ladenbau",
+        "smallHeadline": "Projekkoordination",
+        "subHeadline": "und mehr"
+      },
+      "sectionOne": {
+        "headline": "„Service heißt, das ganze Geschäft mit den Augen des Kunden zu sehen“. – Axel Haitzer",
+        "text": "So lautet unser Motto, denn wir richten uns nach Ihren Plänen und Wünschen, um Sie zufrieden zu stellen. Mit unserem Team haben Sie einen zuverlässigen und kompetenten Partner an Ihrer Seite, der durch langjährige Erfahrungen im internationalen Bereich handwerkliches Fachwissen und Expertise mitbringt. Seit über 16 Jahren sind wir im Bereich Projektmanagement und Ladenbau – insbesondere in Kooperation mit IKEA – tätig und führen sowohl große als auch kleine Projekte mit großer Leidenschaft aus.",
+        "text2": "Das zeigen unsere umfangreiche Referenzliste und das Feedback unserer Kunden. Wir sind überzeugt, dass Ihre Projekte bei uns in guten Händen sind.",
+        "text3": "Haben wir auch Sie überzeugt?"
+      },
+      "sectionTwo": {
+        "boxOne": {
+          "headline": "Ein Team  mit internationaler Erfahrung und umfangreichen Sprachkenntnissen",
+          "text": "Unser Team verfügt über zahlreiche Erfahrungen durch ihre Tätigkeiten im internationalen Bereich. Sie zeichnet sich weiterhin durch die Beherrschung von mindestens drei verschiedenen Sprachen aus, sodass auch im Ausland eine reibungslose Kommunikation stattfinden kann."
+        },
+        "boxTwo": {
+          "headline": "Unsere Leistungen auf einen Blick",
+          "text": "Unser eingespieltes Team widmet sich unterschiedlichen Arbeitsbereichen, um aus Ideen qualitative Räume zu schaffen. Das sind einige unserer Tätigkeiten: ",
+          "list": "Innnenraumgestaltung",
+          "list2": "Ladenbau",
+          "list3": "Renovierung und Sanierung",
+          "list4": "Professionelle Montage und Demontage",
+          "list5": "Beleuchtung",
+          "list6": "Dekoration",
+          "list7": "Grafische Arbeiten",
+          "list8": "Warenpräsentation",
+          "list9": "Wandmontage",
+          "list10": "Malertätigkeiten",
+          "list11": "Bodenarbeiten"
+        },
+        "boxThree": {
+          "headline": "Hohe Belastbarkeit und Flexibilität",
+          "text": "Das sind zwei Eigenschaften, die uns auszeichnen, denn wir sind stets bemüht, unsere Kunden zufriedenzustellen, auch wenn die Bedingungen mal schwierig sind. Es ist oft nicht einfach, aber dennoch nicht unmöglich, ein Projekt in kritischen Situationen entsprechend den Plänen und Wünschen unserer Kunden rechtzeitig zu vollenden. Wir passen uns in jeglicher Hinsicht an die gegebenen Umstände an: Egal zu welcher Arbeitszeit, mit uns können Sie jederzeit rechnen. Auch sind wir – sofern nötig – durchaus bereit, Mehrarbeit zu leisten."
+        }
+      }
+    },
+    "company": {
+      "headline": "Die Firma",
+      "director": {
+        "name": "Jemal Gorgiladze",
+        "ocupation": "Geschäftsführer"
+      },
+      "text": "Der Sitz der Firma Sambawood ist in Spanien, das Büro sitzt jedoch in Deutschland. Sambawood basiert auf insgesamt 16 Jahren Erfahrung. Angefangen als deutsche Firma ist Sambawood nun hauptsächlich als Subunternehmen in unterschiedlichen IKEA-Projekten tätig. Weitere Tätigkeiten beziehen sich auf Privatbauten und Sanierungsarbeiten.",
+      "text2": "Durch die facettenreichen Tätigkeiten im Ladenbau bringt die Firma Expertise in zahlreichen Bereichen mit. Unsere Kompetenzen sind vielseitig und reichen von Bauarbeiten bis hin zu Näharbeiten und Möbelmontage.",
+      "languages": "Sprachen"
+    },
+    "services": {
+      "headline": "Service",
+      "sectionOne": {
+        "headline": "Sambawood: eine Firma mit professioneller Vielseitigkeit",
+        "text": "Unsere Firma setzt auf professionelle Beratungen für die Realisierung von Projekten in unterschiedlichen Bereichen. Wir kollaborieren mit unseren Kunden, um bestmögliche Lösungen zu finden. Hierfür setzen wir unsere Planungskompetenz und all unsere handwerklichen Erfahrungen ein. Wir begleiten unsere Kunden von der Planung bis hin zur Umsetzung und wir sind stets darum bemüht, Projekte und Pläne nach den Wünschen unserer Kunden zu richten.",
+        "text2": "Auch bei schwersten Bedingungen führen wir unsere Arbeiten gewissenhaft und professionell aus, sodass wir uns durch eine hohe Flexibilität und Belastbarkeit auszeichnen.",
+        "headlineTwo": "Beratung",
+        "list": "Individuelle Beratung bei der Planung",
+        "list2": "Koordination von Subunternehmern",
+        "list3": "Projektleitung und -management"
+      },
+      "sectionTwo": {
+        "boxOne": {
+          "headline": "Deckenarbeiten",
+          "list": "Änderung und Anpassung bestehender Decken",
+          "list2": "Einbau unterschiedlicher Deckensysteme"
+        },
+        "boxTwo": {
+          "headline": "Markthallenbau",
+          "list": "Montage und Demontage von Regalsystemen",
+          "list2": "Aufstellung von Zwischenwänden",
+          "list3": "Warenlegung"
+        },
+        "boxThree": {
+          "headline": "Wandarbeiten",
+          "list": "Anfertigung und Aufbau von Ausstellungswänden",
+          "list2": "Einbau von Türen, Fenstern, etc."
+        },
+        "boxFour": {
+          "headline": "Malerarbeiten",
+          "list": "Spachteln",
+          "list2": "Grundieren",
+          "list3": "Tapezieren",
+          "list4": "Streichen",
+          "list5": "Lackieren"
+        },
+        "boxFive": {
+          "headline": "Fliesenarbeiten",
+          "list": "Entfernung alter Fliesen",
+          "list2": "Vorbereitungsarbeiten für die Fliesenverlegung",
+          "list3": "Verlegearbeiten"
+        },
+        "boxSix": {
+          "headline": "Bodenarbeiten",
+          "list": "Ausgleich von unebenen Böden",
+          "list2": "Entfernung alter Bodenbeläge",
+          "list3": "Verlegen von Laminat, Parkett, Kunststoffbelägen und Fliesen"
+        },
+        "boxSeven": {
+          "headline": "Küchenmontage",
+          "list": "Änderungsarbeiten an bestehenden Küchenausstellungen",
+          "list2": "Änderung von Möbeln und Arbeitsplatten",
+          "list3": "Professionelle Möbelmontage",
+          "list4": "Konzeptionelle Erstellung und Gestaltung von Küchenstudios"
+        },
+        "boxEight": {
+          "headline": "Möbelmontage",
+          "list": "Professionelle Möbelmontage",
+          "list2": "Änderungsarbeiten an Möbeln"
+        },
+        "boxNine": {
+          "headline": "Dekorationsarbeiten",
+          "list": "Anbringen von Preisschildern und -auszeichnungen",
+          "list2": "Anbringen von Beleuchtung",
+          "list3": "Aufstellen von Werbetafeln"
+        },
+        "boxTen": {
+          "headline": "Grafische Arbeiten",
+          "list": "Anbringen von Werbe- und Informationsmaterialien"
+        },
+        "boxEleven": {
+          "headline": "Warenpräsentation und Logistik",
+          "list": "Warenlegung",
+          "list2": "Ein- und Ausräumen von Verkaufsplätzen"
+        },
+        "boxTwelve": {
+          "headline": "Näharbeiten",
+          "list": "Anfertigung von Gardinen und Textilien",
+          "list2": "Anfertigung unterschiedlicher Dekoelemente"
+        }
+      }
+    },
+    "more": {
+      "headline": "Und Mehr",
+      "sectionOne": {
+        "headline": "Sanierung und Renovierung",
+        "text": "Neben Ladenbauten widmen wir uns auch mit großer Leidenschaft der Sanierung und Renovierung unterschiedlicher Räumlichkeiten. Dabei begleiten wir unsere Kunden von der Planung bis hin zum Feinschliff. Entsprechend dem Motto „Der Kreativität sind keine Grenzen gesetzt“ verwandelt unser kreatives Team Ihre Träume in einzigartige Räume. Überzeugen Sie sich selbst von den bisher verwirklichten (T)räumen."
+      },
+      "sectionTwo": {
+        "headline": "Einzigartige Elemente für den Innen- und Außenbereich",
+        "text": "Unser Einrichtungsstil kennzeichnet sich durch die Wiederbelebung von altem und unbrauchbarem Material, indem wir es recyceln, um daraus einzigartige, ästhetische und hochwertige Möbel herzustellen. Warum also wegschmeißen, wenn man damit Räumen einen stilvollen industriellen oder rustikalen Touch verleihen kann? Ob Holz, Stahl oder Glas, wir machen aus jeglichem Material ein Schmuckstück für Ihr Zuhause."
+      }
+    },
+    "references": {
+      "headline": "Referenzen",
+      "sectionOne": {
+        "text": "Sambawood hat über die letzten Jahre an zahlreichen nationalen und internationalen IKEA-Projekten als Subunternehmer mitgewirkt, welche in der untenstehenden Tabelle aufgelistet sind. Neben großen und umfangreichen Projekten sind auch kleinere Projekte realisiert worden, die hier jedoch keine Erwähnung finden.",
+        "table": {
+          "year": "2004",
+          "list": {
+            "city": "Bilbao",
+            "county": "Spanien",
+            "work": "Neubau",
+            "proyect": "Markthalle"
+          }
+        },
+        "table2": {
+          "year": "2005",
+          "list": {
+            "city": "Osnabrück",
+            "county": "Alemania",
+            "work": "Neubau",
+            "proyect": "Markthalle"
+          }
+        },
+        "table3": {
+          "year": "2006",
+          "list": {
+            "city": "Murcia",
+            "county": "Spanien",
+            "work": "Neubau",
+            "proyect": "Markthalle"
+          }
+        },
+        "table4": {
+          "year": "2007",
+          "list": {
+            "city": "Madrid",
+            "county": "Spanien",
+            "work": "Neubau",
+            "proyect": "Markthalle/Rasterdecke"
+          },
+          "list2": {
+            "city": "Málaga",
+            "county": "Spanien",
+            "work": "Neubau",
+            "proyect": "Markthalle/Rasterdecke"
+          },
+          "list3": {
+            "city": "Porto",
+            "county": "Portugal",
+            "work": "Neubau",
+            "proyect": "Markthalle"
+          },
+          "list4": {
+            "city": "Barcelona",
+            "county": "Spanien",
+            "work": "Neubau",
+            "proyect": "Área de textiles y alfombras"
+          }
+        },
+        "table5": {
+          "year": "2008",
+          "list": {
+            "city": "Sevilla",
+            "county": "Spanien",
+            "work": "Umbau",
+            "proyect": "Markthalle"
+          },
+          "list2": {
+            "city": "Parma",
+            "county": "Italien",
+            "work": "Neubau",
+            "proyect": "Markthalle"
+          },
+          "list3": {
+            "city": "Lucerna / Aubonne",
+            "county": "Suiza",
+            "work": "Umbau",
+            "proyect": "Montaje de muebles"
+          },
+          "list4": {
+            "city": "Friburgo",
+            "county": "Alemania",
+            "work": "Umbau",
+            "proyect": "Montaje de muebles"
+          }
+        },
+        "table6": {
+          "year": "2009",
+          "list": {
+            "city": "Lissabon",
+            "county": "Portugal",
+            "work": "Umbau",
+            "proyect": "Lampenbereich"
+          },
+          "list2": {
+            "city": "Florenz",
+            "county": "Italien",
+            "work": "Neubau",
+            "proyect": "Markthalle"
+          }
+        },
+        "table7": {
+          "year": "2010",
+          "list": {
+            "city": "Lissabon",
+            "county": "Portugal",
+            "work": "Neubau",
+            "proyect": "Markthalle"
+          },
+          "list2": {
+            "city": "Ginebra",
+            "county": "Suiza",
+            "work": "Umbau",
+            "proyect": "Markthalle"
+          }
+        },
+        "table8": {
+          "year": "2011",
+          "list": {
+            "city": "Bilbao",
+            "county": "Spanien",
+            "work": "Umbau",
+            "proyect": "Küchenabteilung"
+          },
+          "list2": {
+            "city": "Koppenhagen",
+            "county": "Dänemark",
+            "work": "Umbau",
+            "proyect": "Showroom"
+          },
+          "list3": {
+            "city": "Lucerna",
+            "county": "Swiza",
+            "work": "Umbau",
+            "proyect": "Markthalle"
+          },
+          "list4": {
+            "city": "Koppenhagen",
+            "county": "Dänemark",
+            "work": "Umbau",
+            "proyect": "Markthalle"
+          },
+          "list5": {
+            "city": "Brüssel",
+            "county": "Belgien",
+            "work": "Umbau",
+            "proyect": "Markthalle"
+          },
+          "list6": {
+            "city": "Lissabon",
+            "county": "Portugal",
+            "work": "Umbau",
+            "proyect": "Markthalle"
+          },
+          "list7": {
+            "city": "Lissabon",
+            "county": "Portugal",
+            "work": "Umbau",
+            "proyect": "Markthalle"
+          }
+        },
+        "table9": {
+          "year": "2012",
+          "list": {
+            "city": "Brüssel – Anderlecht",
+            "county": "Belgien",
+            "work": "Umbau",
+            "proyect": "Markthalle"
+          }
+        },
+        "table10": {
+          "year": "2013",
+          "list": {
+            "city": "Brüssel – Zaventem",
+            "county": "Belgien",
+            "work": "Umbau",
+            "proyect": "Markthalle"
+          },
+          "list2": {
+            "city": "Lieja",
+            "county": "Belgien",
+            "work": "Umbau",
+            "proyect": "Markthalle"
+          },
+          "list3": {
+            "city": "Graz",
+            "county": "Österreich",
+            "work": "Umbau",
+            "proyect": "Markthalle"
+          }
+        },
+        "table11": {
+          "year": "2014",
+          "list": {
+            "city": "Arhus",
+            "county": "Dänemark",
+            "work": "Neubau",
+            "proyect": "Markthalle / Showroom"
+          },
+          "list2": {
+            "city": "Gante",
+            "county": "Belgien",
+            "work": "Umbau",
+            "proyect": "Markthalle"
+          }
+        },
+        "table12": {
+          "year": "2015",
+          "list": {
+            "city": "Berlín",
+            "county": "Alemania",
+            "work": "Umbau",
+            "proyect": "Markthalle"
+          },
+          "list2": {
+            "city": "Kuwait",
+            "county": "Kuwait",
+            "work": "Umbau",
+            "proyect": "Markthalle"
+          }
+        },
+        "table13": {
+          "year": "2016",
+          "list": {
+            "city": "Haaselt",
+            "county": "Belgien",
+            "work": "Neubau",
+            "proyect": "Markthalle / Restaurant / offices"
+          },
+          "list2": {
+            "city": "Mons",
+            "county": "Belgien",
+            "work": "Neubau",
+            "proyect": "Markthalle / Restaurant / offices"
+          },
+          "list3": {
+            "city": "Haarlem",
+            "county": "Países bajos",
+            "work": "Umbau",
+            "proyect": "Markthalle"
+          },
+          "list4": {
+            "city": "Wuppertal",
+            "county": "Alemania",
+            "work": "Umbau",
+            "proyect": "Markthalle / Showroom"
+          },
+          "list5": {
+            "city": "Kaarst",
+            "county": "Alemania",
+            "work": "Umbau",
+            "proyect": "Lampenbereich"
+          }
+        },
+        "table14": {
+          "year": "2017",
+          "list": {
+            "city": "Osnabrück",
+            "county": "Alemania",
+            "work": "Umbau",
+            "proyect": "Markthalle / Rasterdecke / Swedish Food Market"
+          },
+          "list2": {
+            "city": "Kaarst",
+            "county": "Alemania",
+            "work": "Neubau",
+            "proyect": "Markthalle / Rasterdecke / Swedish Food Market"
+          },
+          "list3": {
+            "city": "Hannover",
+            "county": "Alemania",
+            "work": "Umbau",
+            "proyect": "Restaurant"
+          }
+        },
+        "table15": {
+          "year": "2018",
+          "list": {
+            "city": "Amsterdam",
+            "county": "Países bajos",
+            "work": "Umbau",
+            "proyect": "Markthalle / Rasterdecke"
+          },
+          "list2": {
+            "city": "Amsterdam",
+            "county": "Países bajos",
+            "work": "Umbau",
+            "proyect": "Eingangshalle"
+          }
+        },
+        "table16": {
+          "year": "2019",
+          "list": {
+            "city": "Bielefeld",
+            "county": "Alemania",
+            "work": "Umbau",
+            "proyect": "Showroom / Bett und Matrazenbereich"
+          },
+          "list2": {
+            "city": "Kaarst",
+            "county": "Alemania",
+            "work": "Umbau",
+            "proyect": "Showroom / Bett und Matrazenbereich"
+          }
+        },
+        "table17": {
+          "year": "2020",
+          "list": {
+            "city": "Karlsruhe",
+            "county": "Alemania",
+            "work": "Neubau",
+            "proyect": "Markthalle"
+          },
+          "list2": {
+            "city": "Amsterdam",
+            "county": "Países bajos",
+            "work": "Neubau",
+            "proyect": "Office für Onlinehandel"
+          }
+        }
+      }
+    },
+    "media": {
+      "headline": "Medien"
+    },
+    "contact": {
+      "headline": "Kontakt",
+      "smallheadline": "Wie können wir Ihnen helfen?",
+      "manager": "Geschäftsführer",
+      "company": "Sitz der Firma:",
+      "office": "Sitz des Büros",
+      "email": "Email",
+      "phone": "Tel",
+      "or": "oder über das Kontaktformular",
+      "youemail": "Ihre Email",
+      "subject": "Betreff",
+      "message": "Ihre Nachricht",
+      "send": "Senden"
+    },
+    "footer": {
+      "legal": "Impressum",
+      "privacy": "Datenschutz"
+    }
+  }
