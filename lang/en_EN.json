@@ -385,7 +385,7 @@
           },
           "list3": {
             "city": "Haarlem",
-            "county": "Países bajos",
+            "county": "Niederlande",
             "work": "Rebuild",
             "proyect": "Market hall"
           },
@@ -427,13 +427,13 @@
           "year": "2018",
           "list": {
             "city": "Amsterdam",
-            "county": "Países bajos",
+            "county": "Niederlande",
             "work": "Rebuild",
             "proyect": "Market hall / Ceiling"
           },
           "list2": {
             "city": "Amsterdam",
-            "county": "Países bajos",
+            "county": "Niederlande",
             "work": "Rebuild",
             "proyect": "Store entrance"
           }
@@ -463,9 +463,78 @@
           },
           "list2": {
             "city": "Amsterdam",
-            "county": "Países bajos",
+            "county": "Niederlande",
             "work": "New building",
             "proyect": "online shop office"
+          },
+          "list3": {
+            "city": "Delft",
+            "county": "Niederlande",
+            "work": "Rebuild",
+            "proyect": "Children section"
+          },
+          "list4": {
+            "city": "Köln",
+            "county": "Germany",
+            "work": "Rebuild",
+            "proyect": "Bathroom section"
+          },
+          "list5": {
+            "city": "Osnabrük",
+            "county": "Germany",
+            "work": "Rebuild",
+            "proyect": "Bathroom section"
+          }
+        },
+        "table18": {
+          "year": "2021",
+          "list": {
+            "city": "Berlin",
+            "county": "Germany",
+            "work": "Rebuild",
+            "proyect": "Workspace"
+          },
+          "list2": {
+            "city": "Amsterdam",
+            "county": "Niederlande",
+            "work": "Rebuild",
+            "proyect": "Internal office"
+          }
+        },
+        "table19": {
+          "year": "2022",
+          "list": {
+            "city": "Amsterdam",
+            "county": "Niederlande",
+            "work": "Rebuild",
+            "proyect": "kitchen/dining"
+          },
+          "list2": {
+            "city": "Brno",
+            "county": "Tschechien",
+            "work": "Rebuild",
+            "proyect": "Complete store"
+          }
+        },
+        "table20": {
+          "year": "2023",
+          "list": {
+            "city": "Würzburg",
+            "county": "Germany",
+            "work": "Rebuild",
+            "proyect": "Children section"
+          },
+          "list2": {
+            "city": "Hamburg",
+            "county": "Germany",
+            "work": "Rebuild",
+            "proyect": "Moorflet-kitchen/dining"
+          },
+          "list3": {
+            "city": "Hamburg",
+            "county": "Germany",
+            "work": "Rebuild",
+            "proyect": "Schnelsen-kitchen/dining"
           }
         }
       }

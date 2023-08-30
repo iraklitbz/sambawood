@@ -30,6 +30,24 @@ export default defineNuxtConfig({
     },
     css: ["plyr/dist/plyr.css"],
     i18n: {
+      locales: [
+        {
+          code: 'es',
+          name: 'español',
+          label: 'ES'
+        },
+        {
+          code: 'en',
+          name: 'English',
+          label: 'EN'
+        },
+        {
+          code: 'de',
+          name: 'Deutsch',
+          label: 'DE'
+        }
+      ],
+      defaultLocale: 'en',
       vueI18n: './i18n.config.ts'
     }
 })

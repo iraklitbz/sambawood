@@ -1,5 +1,5 @@
 <script setup>
-    const { locale } = useI18n()
+    const { locale, locales, setLocale } = useI18n()
     const nav = [
         { name: 'navbar.home', path: '/' },
         { name: 'navbar.company', path: '/company' },
@@ -9,6 +9,15 @@
         // { name: 'navbar.medium', path: '/medium' },
         { name: 'navbar.contact', path: '/contact' }
     ]
+    const availableLocales = computed(() => {
+        return (locales.value).map((item) => {
+            return {
+                value: item.code,
+                label: item.label,
+                name: item.name
+            }
+        })
+    })
 </script>
 <template>
     <header
@@ -32,15 +41,26 @@
                     </nuxt-link>
                 </li>
             </ul>
-            <form
-                class="bg-blue-900 text-white px-4 py-1 rounded-full mt-5 md:mt-0 w-20 m-auto"
+            <ul
+                class="flex items-center justify-center md:justify-end gap-2 ml-7 mt-5 md:mt-0"
             >
-                <select v-model="locale" class="uppercase bg-transparent outline:border-none focus:border-none active:border-none">
-                    <option value="es">es</option>
-                    <option value="de">de</option>
-                    <option value="en">en</option>
-                </select>
-            </form>
+                <li
+                    v-for="(localeItem, index) in availableLocales"
+                    :key="index"
+                >
+                    <button
+                        type="button"
+                        @click="() => setLocale(localeItem.value)"
+                        class="p-1 rounded-md"
+                        :class="{
+                            'bg-blue-900 text-white font-bold': localeItem.value === locale,
+                            'text-gray-500': localeItem.value !== locale
+                        }"
+                    >
+                        {{ localeItem.label }}
+                    </button>
+                </li>
+            </ul>
         </nav>
     </header>
 </template>

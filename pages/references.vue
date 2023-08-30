@@ -33,7 +33,7 @@
                     class="mt-10"
                 >
                     <h2
-                        class="font-bold text-blue-900 mb-2 text-base md:text-xl"
+                        class="font-bold text-blue-900 mb-2 text-base md:text-xl bg-blue-100 p-1 px-2 rounded-md"
                     >
                         {{
                             2004 + index
@@ -43,7 +43,6 @@
                         v-for="(item, key) in row.list"
                         :key="item.year"
                         class="flex gap-5 mb-2 text-sm md:text-lg px-2 py-1 rounded-md justify-between items-center"
-                        :class="key % 2 === 0 ? 'bg-black/5' : ''"
                     >
                         <div
                             class="font-bold flex-1"
@@ -72,6 +71,187 @@
                             {{
                                 $t(item.proyect)
                             }}
+                        </div>
+                    </div>
+                    <div
+                        class="flex gap-5 mb-2 text-sm md:text-lg px-2 py-1 rounded-md justify-between items-center"
+                    >
+                        <div class="font-bold flex-1">
+                            Deflt
+                        </div>
+                        <div class="text-left flex-1">
+                            Neederland
+                        </div>
+                        <div class="text-left flex-1">
+                            New building
+                        </div>
+                        <div class="text-left flex-1">
+                            Children section
+                        </div>
+                    </div>
+                    <div
+                        class="flex gap-5 mb-2 text-sm md:text-lg px-2 py-1 rounded-md justify-between items-center"
+                    >
+                        <div class="font-bold flex-1">
+                            Köln
+                        </div>
+                        <div class="text-left flex-1">
+                            Germany
+                        </div>
+                        <div class="text-left flex-1">
+                            New building
+                        </div>
+                        <div class="text-left flex-1">
+                            Bathroom section
+                        </div>
+                    </div>
+                    <div
+                        class="flex gap-5 mb-2 text-sm md:text-lg px-2 py-1 rounded-md justify-between items-center"
+                    >
+                        <div class="font-bold flex-1">
+                            Osnabrük
+                        </div>
+                        <div class="text-left flex-1">
+                            Germany
+                        </div>
+                        <div class="text-left flex-1">
+                            New building
+                        </div>
+                        <div class="text-left flex-1">
+                            Bathroom section
+                        </div>
+                    </div>
+                </div>
+                <div
+                    class="mt-10"
+                >
+                    <h2 class="font-bold text-blue-900 mb-2 text-base md:text-xl bg-blue-100 p-1 px-2 rounded-md">
+                        2021
+                    </h2>
+                    <div
+                        class="flex gap-5 mb-2 text-sm md:text-lg px-2 py-1 rounded-md justify-between items-center"
+                    >
+                        <div class="font-bold flex-1">
+                            Berlin
+                        </div>
+                        <div class="text-left flex-1">
+                            Germany
+                        </div>
+                        <div class="text-left flex-1">
+                            New building
+                        </div>
+                        <div class="text-left flex-1">
+                            Workspace
+                        </div>
+                    </div>
+                    <div
+                        class="flex gap-5 mb-2 text-sm md:text-lg px-2 py-1 rounded-md justify-between items-center"
+                    >
+                        <div class="font-bold flex-1">
+                            Amsterdam
+                        </div>
+                        <div class="text-left flex-1">
+                            Neederland
+                        </div>
+                        <div class="text-left flex-1">
+                            New building
+                        </div>
+                        <div class="text-left flex-1">
+                            Internal office
+                        </div>
+                    </div>
+                </div>
+                <div
+                    class="mt-10"
+                >
+                    <h2 class="font-bold text-blue-900 mb-2 text-base md:text-xl bg-blue-100 p-1 px-2 rounded-md">
+                        2022
+                    </h2>
+                    <div
+                        class="flex gap-5 mb-2 text-sm md:text-lg px-2 py-1 rounded-md justify-between items-center"
+                    >
+                        <div class="font-bold flex-1">
+                            Amsterdam
+                        </div>
+                        <div class="text-left flex-1">
+                            Neederland
+                        </div>
+                        <div class="text-left flex-1">
+                            New building
+                        </div>
+                        <div class="text-left flex-1">
+                            Kitchen/dining
+                        </div>
+                    </div>
+                    <div
+                        class="flex gap-5 mb-2 text-sm md:text-lg px-2 py-1 rounded-md justify-between items-center"
+                    >
+                        <div class="font-bold flex-1">
+                            Brno
+                        </div>
+                        <div class="text-left flex-1">
+                            Czech Republic
+                        </div>
+                        <div class="text-left flex-1">
+                            New building
+                        </div>
+                        <div class="text-left flex-1">
+                            Complete store
+                        </div>
+                    </div>
+                </div>
+                <div
+                    class="mt-10"
+                >
+                    <h2 class="font-bold text-blue-900 mb-2 text-base md:text-xl bg-blue-100 p-1 px-2 rounded-md">
+                        2023
+                    </h2>
+                    <div
+                        class="flex gap-5 mb-2 text-sm md:text-lg px-2 py-1 rounded-md justify-between items-center"
+                    >
+                        <div class="font-bold flex-1">
+                            Würzburg
+                        </div>
+                        <div class="text-left flex-1">
+                            Germany
+                        </div>
+                        <div class="text-left flex-1">
+                            New building
+                        </div>
+                        <div class="text-left flex-1">
+                            Children section
+                        </div>
+                    </div>
+                    <div
+                        class="flex gap-5 mb-2 text-sm md:text-lg px-2 py-1 rounded-md justify-between items-center"
+                    >
+                        <div class="font-bold flex-1">
+                            Hamburg
+                        </div>
+                        <div class="text-left flex-1">
+                            Germany
+                        </div>
+                        <div class="text-left flex-1">
+                            New building
+                        </div>
+                        <div class="text-left flex-1">
+                            Moorflet-kitchen/dining
+                        </div>
+                    </div>
+                    <div
+                        class="flex gap-5 mb-2 text-sm md:text-lg px-2 py-1 rounded-md justify-between items-center"
+                    >
+                        <div class="font-bold flex-1">
+                            Hamburg
+                        </div>
+                        <div class="text-left flex-1">
+                            Germany
+                        </div>
+                        <div class="text-left flex-1">
+                            New building
+                        </div>
+                        <div class="text-left flex-1">
+                            Schnelsen-kitchen/dining
                         </div>
                     </div>
                 </div>
