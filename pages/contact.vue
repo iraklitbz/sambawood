@@ -90,7 +90,7 @@
                         {{ $t('contact.phone') }} : 0049 172 1577536 | +34 639 280 243
                     </li>
                     <li>
-                        {{ $t('contact.email') }} : nina@sambawood.com {{ $t('contact.or') }}
+                        {{ $t('contact.email') }} : info@sambawood.com {{ $t('contact.or') }}
                     </li>
                 </ul>
             </div>

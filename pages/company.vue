@@ -10,7 +10,7 @@
             social: [
                 {
                     name: 'facebook',
-                    link: 'https://www.facebook.com/jgorgiladze1/'
+                    link: 'https://www.facebook.com/profile.php?id=100057214969394'
                 },
                 {
                     name: 'instagram',
@@ -18,7 +18,7 @@
                 },
                 {
                     name: 'gmail',
-                    link: 'mailto:gorgiladze@yahoo.de'
+                    link: 'mailto:info@sambawood.com'
                 }
             ]
         }
