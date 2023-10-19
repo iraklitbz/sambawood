@@ -1,5 +1,21 @@
-import { defineNuxtConfig } from "nuxt/config"
 export default defineNuxtConfig({
+  app: {
+    pageTransition: { name: 'page', mode: 'out-in' },
+    head: {
+      script: [
+        {
+          src: 'https://www.googletagmanager.com/gtag/js?id=G-8KXY4K9G02',
+          async: true
+        },
+        {
+          innerHTML: `window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-8KXY4K9G02');`
+        }
+      ]
+    }
+  },
     modules: [
         'nuxt-icons',
         '@nuxtjs/tailwindcss',
@@ -28,8 +44,13 @@ export default defineNuxtConfig({
         }
       }
     },
+    tailwindcss: {
+      exposeConfig: true,
+      cssPath: '~/assets/scss/main.scss'
+    },
     css: ["plyr/dist/plyr.css"],
     i18n: {
+      strategy: 'prefix_except_default',
       locales: [
         {
           code: 'es',
@@ -47,7 +68,10 @@ export default defineNuxtConfig({
           label: 'DE'
         }
       ],
-      defaultLocale: 'en',
-      vueI18n: './i18n.config.ts'
+      vueI18n: './i18n.config.ts',
+      defaultLocale: 'en'
+    },
+    nitro: {
+      compressPublicAssets: true
     }
 })

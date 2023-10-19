@@ -1,5 +1,6 @@
 <template>
-    <section
+    <div>
+        <section
     class="bg-green-950 h-96 overflow-hidden relative"
     >
         <h1
@@ -99,4 +100,5 @@
             </div>
         </div>
     </section>
+    </div>
 </template>

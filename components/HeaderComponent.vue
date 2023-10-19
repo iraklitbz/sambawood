@@ -1,5 +1,6 @@
 <script setup>
     const { locale, locales, setLocale } = useI18n()
+    const localePath = useLocalePath()
     const nav = [
         { name: 'navbar.home', path: '/' },
         { name: 'navbar.company', path: '/company' },
@@ -36,7 +37,7 @@
                 class="flex gap-4 h-10 md:h-auto overflow-x-auto w-full relative z-50"
             >
                 <li v-for="(item, index) in nav" :key="index" class="uppercase font-bold whitespace-nowrap md:whitespace-normal">
-                    <nuxt-link :to="item.path">
+                    <nuxt-link :to="localePath(item.path, locale)">
                         {{ $t(item.name) }}
                     </nuxt-link>
                 </li>
