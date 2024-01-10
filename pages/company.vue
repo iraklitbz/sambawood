@@ -69,7 +69,7 @@
                         }}
                     </h5>
                     <h2
-                        class="text-3xl font-bold text-blue-900"
+                        class="text-3xl font-bold text-black"
                     >
                         {{
                             $t(member.ocupation)

@@ -34,7 +34,7 @@
                             class="mt-10"
                         >
                             <h2
-                                class="font-bold text-blue-900 mb-2 text-base md:text-xl bg-blue-100 p-1 px-2 rounded-md"
+                                class="font-bold text-black mb-2 text-base md:text-xl bg-blue-100 p-1 px-2 rounded-md"
                             >
                                 {{
                                     2004 + index
@@ -126,7 +126,7 @@
                         <div
                             class="mt-10"
                         >
-                            <h2 class="font-bold text-blue-900 mb-2 text-base md:text-xl bg-blue-100 p-1 px-2 rounded-md">
+                            <h2 class="font-bold text-black mb-2 text-base md:text-xl bg-blue-100 p-1 px-2 rounded-md">
                                 2021
                             </h2>
                             <div
@@ -165,7 +165,7 @@
                         <div
                             class="mt-10"
                         >
-                            <h2 class="font-bold text-blue-900 mb-2 text-base md:text-xl bg-blue-100 p-1 px-2 rounded-md">
+                            <h2 class="font-bold text-black mb-2 text-base md:text-xl bg-blue-100 p-1 px-2 rounded-md">
                                 2022
                             </h2>
                             <div
@@ -204,7 +204,7 @@
                         <div
                             class="mt-10"
                         >
-                            <h2 class="font-bold text-blue-900 mb-2 text-base md:text-xl bg-blue-100 p-1 px-2 rounded-md">
+                            <h2 class="font-bold text-black mb-2 text-base md:text-xl bg-blue-100 p-1 px-2 rounded-md">
                                 2023
                             </h2>
                             <div

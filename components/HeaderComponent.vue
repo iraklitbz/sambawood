@@ -54,7 +54,7 @@
                         @click="() => setLocale(localeItem.value)"
                         class="p-1 rounded-md"
                         :class="{
-                            'bg-blue-900 text-white font-bold': localeItem.value === locale,
+                            'bg-black text-white font-bold': localeItem.value === locale,
                             'text-gray-500': localeItem.value !== locale
                         }"
                     >

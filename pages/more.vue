@@ -20,7 +20,7 @@
         >
             <div>
                 <h2
-                    class="text-2xl font-bold text-center mb-5 text-blue-900"
+                    class="text-2xl font-bold text-center mb-5 text-black"
                 >
                     {{
                         $t('more.sectionOne.headline')
@@ -66,7 +66,7 @@
             </div>
             <div>
                 <h2
-                    class="text-2xl font-bold text-center mb-5 text-blue-900"
+                    class="text-2xl font-bold text-center mb-5 text-black"
                 >
                     {{
                         $t('more.sectionTwo.headline')

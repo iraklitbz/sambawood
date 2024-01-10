@@ -52,7 +52,7 @@
                 </figure>
                 <div>
                     <h2
-                        class="text-xl md:text-2xl font-bold text-blue-900"
+                        class="text-xl md:text-2xl font-bold text-black"
                     >
                         {{
                             $t('home.sectionOne.headline')
@@ -100,7 +100,7 @@
                         class="p-5"
                     >
                         <h2
-                            class="text-xl font-bold mb-5 text-blue-900"
+                            class="text-xl font-bold mb-5 text-black"
                         >
                             {{
                                 $t(box.headline)

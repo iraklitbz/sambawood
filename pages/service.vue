@@ -145,7 +145,7 @@
             </figure>
             <div>
                 <h2
-                    class="text-2xl font-bold text-blue-900"
+                    class="text-2xl font-bold text-black"
                 >
                     {{
                         $t('services.sectionOne.headline')
@@ -166,7 +166,7 @@
                     }}
                 </p>
                 <h2
-                    class="text-2xl font-bold mt-10 text-blue-900"
+                    class="text-2xl font-bold mt-10 text-black"
                 >
                     {{
                         $t('services.sectionOne.headlineTwo')
@@ -207,7 +207,7 @@
                     class="p-5"
                 >
                     <h2
-                        class="text-xl font-bold mb-5 text-blue-900"
+                        class="text-xl font-bold mb-5 text-black"
                     >
                         {{
                             $t(service.headline)

@@ -19,7 +19,7 @@
         class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20"
     >
     <h5
-        class="text-xl md:text-4xl font-bold text-blue-900 text-center mb-10"
+        class="text-xl md:text-4xl font-bold text-black text-center mb-10"
     >
         {{
             $t('contact.smallheadline')
