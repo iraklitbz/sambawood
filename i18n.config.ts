@@ -471,6 +471,57 @@ export default defineI18nConfig(() => ({
                             work: 'Nueva construcción',
                             proyect: 'Oficina de mercado online'
                         }
+                    },
+                    table18: {
+                        year: '2021',
+                        list: {
+                            city: 'Berlin',
+                            county: 'Alemania',
+                            work: 'Nueva construcción',
+                            proyect: 'Workspace'
+                        },
+                        list2: {
+                            city: 'Amsterdam',
+                            county: 'Países bajos',
+                            work: 'Nueva construcción',
+                            proyect: 'Officinas internas'
+                        }
+                    },
+                    table19: {
+                        year: '2022',
+                        list: {
+                            city: 'Amsterdam',
+                            county: 'Países bajos',
+                            work: 'Nueva construcción',
+                            proyect: 'Cocina/comedor'
+                        },
+                        list2: {
+                            city: 'Brno',
+                            county: 'República Checa',
+                            work: 'Nueva construcción',
+                            proyect: 'Toda la tienda'
+                        }
+                    },
+                    table20: {
+                        year: '2023',
+                        list: {
+                            city: 'Würzburg',
+                            county: 'Alemania',
+                            work: 'Nueva construcción',
+                            proyect: 'Sección de niños'
+                        },
+                        list2: {
+                            city: 'Hamburg',
+                            county: 'Alemania',
+                            work: 'Nueva construcción',
+                            proyect: 'Moorflet - Cocina/comedor'
+                        },
+                        list3: {
+                            city: 'Hamburg',
+                            county: 'Alemania',
+                            work: 'Nueva construcción',
+                            proyect: 'Schnelsen - Cocina/comedor'
+                        }
                     }
                 }
             },
@@ -664,7 +715,7 @@ export default defineI18nConfig(() => ({
                         year: '2005',
                         list: {
                             city: 'Osnabrück',
-                            county: 'Alemania',
+                            county: 'Deutschland',
                             work: 'Neubau',
                             proyect: 'Markthalle'
                         }
@@ -727,7 +778,7 @@ export default defineI18nConfig(() => ({
                         },
                         list4: {
                             city: 'Friburgo',
-                            county: 'Alemania',
+                            county: 'Deutschland',
                             work: 'Umbau',
                             proyect: 'Montaje de muebles'
                         }
@@ -856,7 +907,7 @@ export default defineI18nConfig(() => ({
                         year: '2015',
                         list: {
                             city: 'Berlín',
-                            county: 'Alemania',
+                            county: 'Deutschland',
                             work: 'Umbau',
                             proyect: 'Markthalle'
                         },
@@ -883,19 +934,19 @@ export default defineI18nConfig(() => ({
                         },
                         list3: {
                             city: 'Haarlem',
-                            county: 'Países bajos',
+                            county: 'Niederlande',
                             work: 'Umbau',
                             proyect: 'Markthalle'
                         },
                         list4: {
                             city: 'Wuppertal',
-                            county: 'Alemania',
+                            county: 'Deutschland',
                             work: 'Umbau',
                             proyect: 'Markthalle / Showroom'
                         },
                         list5: {
                             city: 'Kaarst',
-                            county: 'Alemania',
+                            county: 'Deutschland',
                             work: 'Umbau',
                             proyect: 'Lampenbereich'
                         }
@@ -904,19 +955,19 @@ export default defineI18nConfig(() => ({
                         year: '2017',
                         list: {
                             city: 'Osnabrück',
-                            county: 'Alemania',
+                            county: 'Deutschland',
                             work: 'Umbau',
                             proyect: 'Markthalle / Rasterdecke / Swedish Food Market'
                         },
                         list2: {
                             city: 'Kaarst',
-                            county: 'Alemania',
+                            county: 'Deutschland',
                             work: 'Neubau',
                             proyect: 'Markthalle / Rasterdecke / Swedish Food Market'
                         },
                         list3: {
                             city: 'Hannover',
-                            county: 'Alemania',
+                            county: 'Deutschland',
                             work: 'Umbau',
                             proyect: 'Restaurant'
                         }
@@ -925,13 +976,13 @@ export default defineI18nConfig(() => ({
                         year: '2018',
                         list: {
                             city: 'Amsterdam',
-                            county: 'Países bajos',
+                            county: 'Niederlande',
                             work: 'Umbau',
                             proyect: 'Markthalle / Rasterdecke'
                         },
                         list2: {
                             city: 'Amsterdam',
-                            county: 'Países bajos',
+                            county: 'Niederlande',
                             work: 'Umbau',
                             proyect: 'Eingangshalle'
                         }
@@ -940,13 +991,13 @@ export default defineI18nConfig(() => ({
                         year: '2019',
                         list: {
                             city: 'Bielefeld',
-                            county: 'Alemania',
+                            county: 'Deutschland',
                             work: 'Umbau',
                             proyect: 'Showroom / Bett und Matrazenbereich'
                         },
                         list2: {
                             city: 'Kaarst',
-                            county: 'Alemania',
+                            county: 'Deutschland',
                             work: 'Umbau',
                             proyect: 'Showroom / Bett und Matrazenbereich'
                         }
@@ -955,15 +1006,66 @@ export default defineI18nConfig(() => ({
                         year: '2020',
                         list: {
                             city: 'Karlsruhe',
-                            county: 'Alemania',
+                            county: 'Deutschland',
                             work: 'Neubau',
                             proyect: 'Markthalle'
                         },
                         list2: {
                             city: 'Amsterdam',
-                            county: 'Países bajos',
+                            county: 'Niederlande',
                             work: 'Neubau',
                             proyect: 'Office für Onlinehandel'
+                        }
+                    },
+                    table18: {
+                        year: '2021',
+                        list: {
+                            city: 'Berlin',
+                            county: 'Deutschland',
+                            work: 'Neubau',
+                            proyect: 'Workspace'
+                        },
+                        list2: {
+                            city: 'Amsterdam',
+                            county: 'Niederlande',
+                            work: 'Neubau',
+                            proyect: 'Interne Büros'
+                        }
+                    },
+                    table19: {
+                        year: '2022',
+                        list: {
+                            city: 'Amsterdam',
+                            county: 'Niederlande',
+                            work: 'Neubau',
+                            proyect: 'Küche / Essbereich'
+                        },
+                        list2: {
+                            city: 'Brno',
+                            county: 'Tschechische Republik',
+                            work: 'Neubau',
+                            proyect: 'Gesamte Filiale'
+                        }
+                    },
+                    table20: {
+                        year: '2023',
+                        list: {
+                            city: 'Würzburg',
+                            county: 'Deutschland',
+                            work: 'Neubau',
+                            proyect: 'Kinderbereich'
+                        },
+                        list2: {
+                            city: 'Hamburg',
+                            county: 'Deutschland',
+                            work: 'Neubau',
+                            proyect: 'Moorflet - Küche/Essbereich'
+                        },
+                        list3: {
+                            city: 'Hamburg',
+                            county: 'Deutschland',
+                            work: 'Neubau',
+                            proyect: 'Schnelsen - Küche/Essbereich'
                         }
                     }
                 }
@@ -1158,7 +1260,7 @@ export default defineI18nConfig(() => ({
                         year: '2005',
                         list: {
                             city: 'Osnabrück',
-                            county: 'Germay',
+                            county: 'Gernany',
                             work: 'New building',
                             proyect: 'Market hall'
                         }
@@ -1350,7 +1452,7 @@ export default defineI18nConfig(() => ({
                         year: '2015',
                         list: {
                             city: 'Berlin',
-                            county: 'Germay',
+                            county: 'Germany',
                             work: 'Rebuild',
                             proyect: 'Market hall'
                         },
@@ -1377,19 +1479,19 @@ export default defineI18nConfig(() => ({
                         },
                         list3: {
                             city: 'Haarlem',
-                            county: 'Países bajos',
+                            county: 'Netherlands',
                             work: 'Rebuild',
                             proyect: 'Market hall'
                         },
                         list4: {
                             city: 'Wuppertal',
-                            county: 'Germay',
+                            county: 'Germnay',
                             work: 'Rebuild',
                             proyect: 'Market hall / Showroom'
                         },
                         list5: {
                             city: 'Kaarst',
-                            county: 'Germay',
+                            county: 'Germnay',
                             work: 'Rebuild',
                             proyect: 'Lampenbereich'
                         }
@@ -1404,13 +1506,13 @@ export default defineI18nConfig(() => ({
                         },
                         list2: {
                             city: 'Kaarst',
-                            county: 'Germay',
+                            county: 'Germnay',
                             work: 'New building',
                             proyect: 'Market hall / Ceiling / Swedish Food Market'
                         },
                         list3: {
                             city: 'Hannover',
-                            county: 'Germay',
+                            county: 'Germnay',
                             work: 'Rebuild',
                             proyect: 'Restaurant'
                         }
@@ -1419,13 +1521,13 @@ export default defineI18nConfig(() => ({
                         year: '2018',
                         list: {
                             city: 'Amsterdam',
-                            county: 'Países bajos',
+                            county: 'Netherlands',
                             work: 'Rebuild',
                             proyect: 'Market hall / Ceiling'
                         },
                         list2: {
                             city: 'Amsterdam',
-                            county: 'Países bajos',
+                            county: 'Netherlands',
                             work: 'Rebuild',
                             proyect: 'Store entrance'
                         }
@@ -1434,13 +1536,13 @@ export default defineI18nConfig(() => ({
                         year: '2019',
                         list: {
                             city: 'Bielefeld',
-                            county: 'Germay',
+                            county: 'Germany',
                             work: 'Rebuild',
                             proyect: 'Showroom / Beds and mattresses area'
                         },
                         list2: {
                             city: 'Kaarst',
-                            county: 'Germay',
+                            county: 'Germany',
                             work: 'Rebuild',
                             proyect: 'Showroom / Beds and mattresses area'
                         }
@@ -1449,15 +1551,66 @@ export default defineI18nConfig(() => ({
                         year: '2020',
                         list: {
                             city: 'Karlsruhe',
-                            county: 'Germay',
+                            county: 'Germany',
                             work: 'New building',
                             proyect: 'Market hall'
                         },
                         list2: {
                             city: 'Amsterdam',
-                            county: 'Países bajos',
+                            county: 'Netherlands',
                             work: 'New building',
                             proyect: 'online shop office'
+                        }
+                    },
+                    table18: {
+                        year: '2021',
+                        list: {
+                            city: 'Berlin',
+                            county: 'Germay',
+                            work: 'New building',
+                            proyect: 'Workspace'
+                        },
+                        list2: {
+                            city: 'Amsterdam',
+                            county: 'Netherlands',
+                            work: 'New building',
+                            proyect: 'Internal offices'
+                        }
+                    },
+                    table19: {
+                        year: '2022',
+                        list: {
+                            city: 'Amsterdam',
+                            county: 'Netherlands',
+                            work: 'New building',
+                            proyect: 'Kitchen / Dining area'
+                        },
+                        list2: {
+                            city: 'Brno',
+                            county: 'Czech Republic',
+                            work: 'New building',
+                            proyect: 'Whole store'
+                        }
+                    },
+                    table20: {
+                        year: '2023',
+                        list: {
+                            city: 'Wurzburg',
+                            county: 'Germany',
+                            work: 'New building',
+                            proyect: 'Children area'
+                        },
+                        list2: {
+                            city: 'Hamburg',
+                            county: 'Germany',
+                            work: 'New building',
+                            proyect: 'Moorflet - Kitchen/Dining area'
+                        },
+                        list3: {
+                            city: 'Hamburg',
+                            county: 'Germany',
+                            work: 'New building',
+                            proyect: 'Schnelsen - Kitchen/Dining area'
                         }
                     }
                 }

@@ -374,5 +374,66 @@ export const table = [
                 proyect: 'references.sectionOne.table17.list2.proyect'
             }
         ]
+    },
+    {
+        list: [
+            {
+                year: 'references.sectionOne.table18.year',
+                city: 'references.sectionOne.table18.list.city',
+                country: 'references.sectionOne.table18.list.county',
+                work: 'references.sectionOne.table18.list.work',
+                proyect: 'references.sectionOne.table18.list.proyect'
+            },
+            {
+                year: 'references.sectionOne.table18.year',
+                city: 'references.sectionOne.table18.list2.city',
+                country: 'references.sectionOne.table18.list2.county',
+                work: 'references.sectionOne.table18.list2.work',
+                proyect: 'references.sectionOne.table18.list2.proyect'
+            }
+        ]
+    },
+    {
+        list: [
+            {
+                year: 'references.sectionOne.table19.year',
+                city: 'references.sectionOne.table19.list.city',
+                country: 'references.sectionOne.table19.list.county',
+                work: 'references.sectionOne.table19.list.work',
+                proyect: 'references.sectionOne.table19.list.proyect'
+            },
+            {
+                year: 'references.sectionOne.table19.year',
+                city: 'references.sectionOne.table19.list2.city',
+                country: 'references.sectionOne.table19.list2.county',
+                work: 'references.sectionOne.table19.list2.work',
+                proyect: 'references.sectionOne.table19.list2.proyect'
+            }
+        ]
+    },
+    {
+        list: [
+            {
+                year: 'references.sectionOne.table20.year',
+                city: 'references.sectionOne.table20.list.city',
+                country: 'references.sectionOne.table20.list.county',
+                work: 'references.sectionOne.table20.list.work',
+                proyect: 'references.sectionOne.table20.list.proyect'
+            },
+            {
+                year: 'references.sectionOne.table20.year',
+                city: 'references.sectionOne.table20.list2.city',
+                country: 'references.sectionOne.table20.list2.county',
+                work: 'references.sectionOne.table20.list2.work',
+                proyect: 'references.sectionOne.table20.list2.proyect'
+            },
+            {
+                year: 'references.sectionOne.table20.year',
+                city: 'references.sectionOne.table20.list3.city',
+                country: 'references.sectionOne.table20.list3.county',
+                work: 'references.sectionOne.table20.list3.work',
+                proyect: 'references.sectionOne.table20.list3.proyect'
+            }
+        ]
     }
 ]
