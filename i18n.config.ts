@@ -171,7 +171,7 @@ export default defineI18nConfig(() => ({
                             city: 'Osnabrück',
                             county: 'Alemania',
                             work: 'Nueva construcción',
-                            proyect: 'Market Hall'
+                            proyect: 'Market hall'
                         }
                     },
                     table3: {
@@ -180,7 +180,7 @@ export default defineI18nConfig(() => ({
                             city: 'Murcia',
                             county: 'España',
                             work: 'Nueva construcción',
-                            proyect: 'Market Hall'
+                            proyect: 'Market hall'
                         }
                     },
                     table4: {
@@ -189,19 +189,19 @@ export default defineI18nConfig(() => ({
                             city: 'Madrid',
                             county: 'España',
                             work: 'Nueva construcción',
-                            proyect: 'Market Hall/Techo'
+                            proyect: 'Market hall / Grid ceiling'
                         },
                         list2: {
                             city: 'Málaga',
                             county: 'España',
                             work: 'Nueva construcción',
-                            proyect: 'Market Hall/Techo'
+                            proyect: 'Market hall / Grid ceiling'
                         },
                         list3: {
                             city: 'Porto',
                             county: 'Portugal',
                             work: 'Nueva construcción',
-                            proyect: 'Market Hall'
+                            proyect: 'Market hall'
                         },
                         list4: {
                             city: 'Barcelona',
@@ -215,25 +215,25 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Sevilla',
                             county: 'España',
-                            work: 'Reconstrucción',
-                            proyect: 'Market Hall'
+                            work: 'Reforma',
+                            proyect: 'Market hall'
                         },
                         list2: {
                             city: 'Parma',
                             county: 'Italia',
                             work: 'Nueva construcción',
-                            proyect: 'Market Hall'
+                            proyect: 'Market hall'
                         },
                         list3: {
                             city: 'Lucerna / Aubonne',
                             county: 'Suiza',
-                            work: 'Reconstrucción',
+                            work: 'Reforma',
                             proyect: 'Montaje de muebles'
                         },
                         list4: {
                             city: 'Friburgo',
                             county: 'Alemania',
-                            work: 'Reconstrucción',
+                            work: 'Reforma',
                             proyect: 'Montaje de muebles'
                         }
                     },
@@ -242,14 +242,14 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Lisboa',
                             county: 'Portugal',
-                            work: 'Reconstrucción',
-                            proyect: 'Área de iluminación'
+                            work: 'Reforma',
+                            proyect: 'Departamiento de iluminación'
                         },
                         list2: {
                             city: 'Florencia',
                             county: 'Italia',
                             work: 'Nueva construcción',
-                            proyect: 'Market Hall'
+                            proyect: 'Market hall'
                         }
                     },
                     table7: {
@@ -258,13 +258,13 @@ export default defineI18nConfig(() => ({
                             city: 'Lisboa',
                             county: 'Portugal',
                             work: 'Nueva construcción',
-                            proyect: 'Market Hall'
+                            proyect: 'Market hall'
                         },
                         list2: {
                             city: 'Ginebra',
                             county: 'Suiza',
-                            work: 'Reconstrucción',
-                            proyect: 'Market Hall'
+                            work: 'Reforma',
+                            proyect: 'Market hall'
                         }
                     },
                     table8: {
@@ -272,44 +272,44 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Bilbao',
                             county: 'España',
-                            work: 'Reconstrucción',
-                            proyect: 'Área de cocinas'
+                            work: 'Reforma',
+                            proyect: 'Departamiento cocina'
                         },
                         list2: {
-                            city: 'Copenhague',
+                            city: 'Copenhaguen',
                             county: 'Dinamarca',
-                            work: 'Reconstrucción',
-                            proyect: 'Sala de exposición'
+                            work: 'Reforma',
+                            proyect: 'Showroom'
                         },
                         list3: {
                             city: 'Lucerna',
-                            county: 'Swiza',
-                            work: 'Reconstrucción',
-                            proyect: 'Market Hall'
+                            county: 'Suiza',
+                            work: 'Reforma',
+                            proyect: 'Market hall'
                         },
                         list4: {
-                            city: 'Copenhague',
+                            city: 'Copenhaguen',
                             county: 'Dinamarca',
-                            work: 'Reconstrucción',
-                            proyect: 'Market Hall'
+                            work: 'Reforma',
+                            proyect: 'Market hall'
                         },
                         list5: {
                             city: 'Bruselas',
                             county: 'Bélgica',
-                            work: 'Reconstrucción',
-                            proyect: 'Market Hall'
+                            work: 'Reforma',
+                            proyect: 'Market hall'
                         },
                         list6: {
                             city: 'Lisboa',
                             county: 'Portugal',
-                            work: 'Reconstrucción',
-                            proyect: 'Market Hall'
+                            work: 'Reforma',
+                            proyect: 'Market hall'
                         },
                         list7: {
                             city: 'Lisboa',
                             county: 'Portugal',
-                            work: 'Reconstrucción',
-                            proyect: 'Market Hall'
+                            work: 'Reforma',
+                            proyect: 'Market hall'
                         }
                     },
                     table9: {
@@ -317,8 +317,8 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Bruselas – Anderlecht',
                             county: 'Bélgica',
-                            work: 'Reconstrucción',
-                            proyect: 'Market Hall'
+                            work: 'Reforma',
+                            proyect: 'Market hall'
                         }
                     },
                     table10: {
@@ -326,20 +326,20 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Bruselas – Zaventem',
                             county: 'Bélgica',
-                            work: 'Reconstrucción',
-                            proyect: 'Market Hall'
+                            work: 'Reforma',
+                            proyect: 'Market hall'
                         },
                         list2: {
                             city: 'Lieja',
                             county: 'Bélgica',
-                            work: 'Reconstrucción',
-                            proyect: 'Market Hall'
+                            work: 'Reforma',
+                            proyect: 'Market hall'
                         },
                         list3: {
                             city: 'Graz',
                             county: 'Austria',
-                            work: 'Reconstrucción',
-                            proyect: 'Market Hall'
+                            work: 'Reforma',
+                            proyect: 'Market hall'
                         }
                     },
                     table11: {
@@ -348,28 +348,28 @@ export default defineI18nConfig(() => ({
                             city: 'Arhus',
                             county: 'Dinamarca',
                             work: 'Nueva construcción',
-                            proyect: 'Market Hall / Sala de exposición'
+                            proyect: 'Market hall / Showroom'
                         },
                         list2: {
                             city: 'Gante',
                             county: 'Bélgica',
-                            work: 'Reconstrucción',
-                            proyect: 'Market Hall'
+                            work: 'Reforma',
+                            proyect: 'Market hall'
                         }
                     },
                     table12: {
                         year: '2015',
                         list: {
-                            city: 'Berlín',
+                            city: 'Berlin',
                             county: 'Alemania',
-                            work: 'Reconstrucción',
-                            proyect: 'Market Hall'
+                            work: 'Reforma',
+                            proyect: 'Market hall'
                         },
                         list2: {
                             city: 'Kuwait',
                             county: 'Kuwait',
-                            work: 'Reconstrucción',
-                            proyect: 'Market Hall'
+                            work: 'Reforma',
+                            proyect: 'Market hall'
                         }
                     },
                     table13: {
@@ -378,31 +378,31 @@ export default defineI18nConfig(() => ({
                             city: 'Haaselt',
                             county: 'Bélgica',
                             work: 'Nueva construcción',
-                            proyect: 'Market Hall / Restaurante / Oficinas de Servicios'
+                            proyect: 'Market hall / Restaurante / oficinas'
                         },
                         list2: {
                             city: 'Mons',
-                            county: 'Bélgica',
+                            county: 'Belgica',
                             work: 'Nueva construcción',
-                            proyect: 'Market Hall / Restaurante / Oficinas de Servicios'
+                            proyect: 'Market hall / Restaurante / oficinas'
                         },
                         list3: {
                             city: 'Haarlem',
-                            county: 'Países bajos',
-                            work: 'Reconstrucción',
-                            proyect: 'Market Hall'
+                            county: 'Holanda',
+                            work: 'Reforma',
+                            proyect: 'Market hall'
                         },
                         list4: {
                             city: 'Wuppertal',
                             county: 'Alemania',
-                            work: 'Reconstrucción',
-                            proyect: 'Market Hall / Sala de exposición'
+                            work: 'Reforma',
+                            proyect: 'Market hall / Showroom'
                         },
                         list5: {
                             city: 'Kaarst',
                             county: 'Alemania',
-                            work: 'Reconstrucción',
-                            proyect: 'Área de iluminación'
+                            work: 'Reforma',
+                            proyect: 'Departamiento iluminación'
                         }
                     },
                     table14: {
@@ -410,19 +410,19 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Osnabrück',
                             county: 'Alemania',
-                            work: 'Reconstrucción',
-                            proyect: 'Market Hall / Techo / Swedish Food Market'
+                            work: 'Reforma',
+                            proyect: 'Market hall / Grid ceiling / Tienda Suecia'
                         },
                         list2: {
                             city: 'Kaarst',
                             county: 'Alemania',
                             work: 'Nueva construcción',
-                            proyect: 'Market Hall / Techo / Swedish Food Market'
+                            proyect: 'Market hall / Grid ceiling / Tienda Suecia'
                         },
                         list3: {
                             city: 'Hannover',
                             county: 'Alemania',
-                            work: 'Reconstrucción',
+                            work: 'Reforma',
                             proyect: 'Restaurante'
                         }
                     },
@@ -430,15 +430,15 @@ export default defineI18nConfig(() => ({
                         year: '2018',
                         list: {
                             city: 'Amsterdam',
-                            county: 'Países bajos',
-                            work: 'Reconstrucción',
-                            proyect: 'Market Hall / Techo'
+                            county: 'Holanda',
+                            work: 'Reforma',
+                            proyect: 'Market hall / Grid ceiling'
                         },
                         list2: {
                             city: 'Amsterdam',
-                            county: 'Países bajos',
-                            work: 'Reconstrucción',
-                            proyect: 'Hall de entrada'
+                            county: 'Holanda',
+                            work: 'Reforma',
+                            proyect: 'Pasillo principal'
                         }
                     },
                     table16: {
@@ -446,14 +446,14 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Bielefeld',
                             county: 'Alemania',
-                            work: 'Reconstrucción',
-                            proyect: 'Sala de exposición / Área de camas y colchones'
+                            work: 'Reforma',
+                            proyect: 'Departamiento iluminación'
                         },
                         list2: {
                             city: 'Kaarst',
                             county: 'Alemania',
-                            work: 'Reconstrucción',
-                            proyect: 'Sala de exposición / Área de camas y colchones'
+                            work: 'Reforma',
+                            proyect: 'Departamiento iluminación'
                         }
                     },
                     table17: {
@@ -462,13 +462,13 @@ export default defineI18nConfig(() => ({
                             city: 'Karlsruhe',
                             county: 'Alemania',
                             work: 'Nueva construcción',
-                            proyect: 'Market Hall'
+                            proyect: 'Market hall'
                         },
                         list2: {
                             city: 'Amsterdam',
-                            county: 'Países bajos',
+                            county: 'Holanda',
                             work: 'Nueva construcción',
-                            proyect: 'Oficina de mercado online'
+                            proyect: 'Oficinas de tienda online'
                         }
                     },
                     table18: {
@@ -476,29 +476,29 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Berlin',
                             county: 'Alemania',
-                            work: 'Nueva construcción',
+                            work: 'Reforma',
                             proyect: 'Workspace'
                         },
                         list2: {
                             city: 'Amsterdam',
-                            county: 'Países bajos',
+                            county: 'Holanda',
                             work: 'Nueva construcción',
-                            proyect: 'Officinas internas'
+                            proyect: 'Oficinas internas'
                         }
                     },
                     table19: {
                         year: '2022',
                         list: {
                             city: 'Amsterdam',
-                            county: 'Países bajos',
-                            work: 'Nueva construcción',
-                            proyect: 'Cocina/comedor'
+                            county: 'Holanda',
+                            work: 'Reforma',
+                            proyect: 'Cocina / Comedor'
                         },
                         list2: {
                             city: 'Brno',
                             county: 'República Checa',
-                            work: 'Nueva construcción',
-                            proyect: 'Toda la tienda'
+                            work: 'Reforma',
+                            proyect: 'Tienda completa'
                         }
                     },
                     table20: {
@@ -506,20 +506,20 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Würzburg',
                             county: 'Alemania',
-                            work: 'Nueva construcción',
-                            proyect: 'Sección de niños'
+                            work: 'Reforma',
+                            proyect: 'Departamiento de niños'
                         },
                         list2: {
-                            city: 'Hamburg',
+                            city: 'Hamburg - Moorflet',
                             county: 'Alemania',
-                            work: 'Nueva construcción',
-                            proyect: 'Moorflet - Cocina/comedor'
+                            work: 'Reforma',
+                            proyect: 'Cocina / Comedor'
                         },
                         list3: {
-                            city: 'Hamburg',
+                            city: 'Hamburg - Schnelsen',
                             county: 'Alemania',
-                            work: 'Nueva construcción',
-                            proyect: 'Schnelsen - Cocina/comedor'
+                            work: 'Reforma',
+                            proyect: 'Cocina / Comedor'
                         }
                     }
                 }
@@ -768,7 +768,7 @@ export default defineI18nConfig(() => ({
                             city: 'Barcelona',
                             county: 'Spanien',
                             work: 'Neubau',
-                            proyect: 'Área de textiles y alfombras'
+                            proyect: 'Textil- und Teppichbereich'
                         }
                     },
                     table5: {
@@ -786,16 +786,16 @@ export default defineI18nConfig(() => ({
                             proyect: 'Markthalle'
                         },
                         list3: {
-                            city: 'Lucerna / Aubonne',
-                            county: 'Suiza',
+                            city: 'Lucern / Aubonne',
+                            county: 'Schweiz',
                             work: 'Umbau',
-                            proyect: 'Montaje de muebles'
+                            proyect: 'Möbelbau'
                         },
                         list4: {
-                            city: 'Friburgo',
+                            city: 'Freiburg',
                             county: 'Deutschland',
                             work: 'Umbau',
-                            proyect: 'Montaje de muebles'
+                            proyect: 'Möbelbau'
                         }
                     },
                     table6: {
@@ -822,8 +822,8 @@ export default defineI18nConfig(() => ({
                             proyect: 'Markthalle'
                         },
                         list2: {
-                            city: 'Ginebra',
-                            county: 'Suiza',
+                            city: 'Genf',
+                            county: 'Schweiz',
                             work: 'Umbau',
                             proyect: 'Markthalle'
                         }
@@ -843,8 +843,8 @@ export default defineI18nConfig(() => ({
                             proyect: 'Showroom'
                         },
                         list3: {
-                            city: 'Lucerna',
-                            county: 'Swiza',
+                            city: 'Lucern',
+                            county: 'Schweiz',
                             work: 'Umbau',
                             proyect: 'Markthalle'
                         },
@@ -1008,13 +1008,13 @@ export default defineI18nConfig(() => ({
                             city: 'Bielefeld',
                             county: 'Deutschland',
                             work: 'Umbau',
-                            proyect: 'Showroom / Bett und Matrazenbereich'
+                            proyect: 'Bett und Matrazenbereich'
                         },
                         list2: {
                             city: 'Kaarst',
                             county: 'Deutschland',
                             work: 'Umbau',
-                            proyect: 'Showroom / Bett und Matrazenbereich'
+                            proyect: 'Bett und Matrazenbereich'
                         }
                     },
                     table17: {
@@ -1037,7 +1037,7 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Berlin',
                             county: 'Deutschland',
-                            work: 'Neubau',
+                            work: 'Umbau',
                             proyect: 'Workspace'
                         },
                         list2: {
@@ -1052,13 +1052,13 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Amsterdam',
                             county: 'Niederlande',
-                            work: 'Neubau',
+                            work: 'Umbau',
                             proyect: 'Küche / Essbereich'
                         },
                         list2: {
                             city: 'Brno',
                             county: 'Tschechische Republik',
-                            work: 'Neubau',
+                            work: 'Umbau',
                             proyect: 'Gesamte Filiale'
                         }
                     },
@@ -1067,20 +1067,20 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Würzburg',
                             county: 'Deutschland',
-                            work: 'Neubau',
+                            work: 'Umbau',
                             proyect: 'Kinderbereich'
                         },
                         list2: {
-                            city: 'Hamburg',
+                            city: 'Hamburg - Moorflet',
                             county: 'Deutschland',
-                            work: 'Neubau',
-                            proyect: 'Moorflet - Küche/Essbereich'
+                            work: 'Umbau',
+                            proyect: 'Küche/Essbereich'
                         },
                         list3: {
-                            city: 'Hamburg',
+                            city: 'Hamburg - Schnelsen',
                             county: 'Deutschland',
-                            work: 'Neubau',
-                            proyect: 'Schnelsen - Küche/Essbereich'
+                            work: 'Umbau',
+                            proyect: 'Küche/Essbereich'
                         }
                     }
                 }
@@ -1270,7 +1270,7 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Bilbao',
                             county: 'Spain',
-                            work: 'New building',
+                            work: 'New construction',
                             proyect: 'Market hall'
                         }
                     },
@@ -1278,8 +1278,8 @@ export default defineI18nConfig(() => ({
                         year: '2005',
                         list: {
                             city: 'Osnabrück',
-                            county: 'Gernany',
-                            work: 'New building',
+                            county: 'Germany',
+                            work: 'New construction',
                             proyect: 'Market hall'
                         }
                     },
@@ -1288,7 +1288,7 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Murcia',
                             county: 'Spain',
-                            work: 'New building',
+                            work: 'New construction',
                             proyect: 'Market hall'
                         }
                     },
@@ -1297,26 +1297,26 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Madrid',
                             county: 'Spain',
-                            work: 'New building',
-                            proyect: 'Market hall/Ceiling'
+                            work: 'New construction',
+                            proyect: 'Market hall / Grid ceiling'
                         },
                         list2: {
-                            city: 'Málaga',
+                            city: 'Malaga',
                             county: 'Spain',
-                            work: 'New building',
-                            proyect: 'Market hall/Ceiling'
+                            work: 'New construction',
+                            proyect: 'Market hall / Grid ceiling'
                         },
                         list3: {
                             city: 'Porto',
                             county: 'Portugal',
-                            work: 'New building',
+                            work: 'New construction',
                             proyect: 'Market hall'
                         },
                         list4: {
                             city: 'Barcelona',
                             county: 'Spain',
-                            work: 'New building',
-                            proyect: 'Textile and carpets area'
+                            work: 'New construction',
+                            proyect: 'Textile and carpet department'
                         }
                     },
                     table5: {
@@ -1330,18 +1330,18 @@ export default defineI18nConfig(() => ({
                         list2: {
                             city: 'Parma',
                             county: 'Italy',
-                            work: 'New building',
+                            work: 'New construction',
                             proyect: 'Market hall'
                         },
                         list3: {
-                            city: 'Lucerna / Aubonne',
-                            county: 'Suiza',
+                            city: 'Lucern / Aubonne',
+                            county: 'Switzerland',
                             work: 'Rebuild',
                             proyect: 'Furniture assembly'
                         },
                         list4: {
-                            city: 'Friburgo',
-                            county: 'Germay',
+                            city: 'Freiburg',
+                            county: 'Germany',
                             work: 'Rebuild',
                             proyect: 'Furniture assembly'
                         }
@@ -1352,12 +1352,12 @@ export default defineI18nConfig(() => ({
                             city: 'Lisbon',
                             county: 'Portugal',
                             work: 'Rebuild',
-                            proyect: 'Lampenbereich'
+                            proyect: 'Lighting department'
                         },
                         list2: {
                             city: 'Florence',
                             county: 'Italy',
-                            work: 'New building',
+                            work: 'New construction',
                             proyect: 'Market hall'
                         }
                     },
@@ -1366,12 +1366,12 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Lisbon',
                             county: 'Portugal',
-                            work: 'New building',
+                            work: 'New construction',
                             proyect: 'Market hall'
                         },
                         list2: {
-                            city: 'Ginebra',
-                            county: 'Suiza',
+                            city: 'Geneva',
+                            county: 'Switzerland',
                             work: 'Rebuild',
                             proyect: 'Market hall'
                         }
@@ -1382,7 +1382,7 @@ export default defineI18nConfig(() => ({
                             city: 'Bilbao',
                             county: 'Spain',
                             work: 'Rebuild',
-                            proyect: 'Küchenabteilung'
+                            proyect: 'Kitchen department'
                         },
                         list2: {
                             city: 'Copenhagen',
@@ -1391,8 +1391,8 @@ export default defineI18nConfig(() => ({
                             proyect: 'Showroom'
                         },
                         list3: {
-                            city: 'Lucerna',
-                            county: 'Swiza',
+                            city: 'Lucern',
+                            county: 'Switzerland',
                             work: 'Rebuild',
                             proyect: 'Market hall'
                         },
@@ -1456,7 +1456,7 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Arhus',
                             county: 'Denmark',
-                            work: 'New building',
+                            work: 'New construction',
                             proyect: 'Market hall / Showroom'
                         },
                         list2: {
@@ -1486,13 +1486,13 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Haaselt',
                             county: 'Belgium',
-                            work: 'New building',
+                            work: 'New construction',
                             proyect: 'Market hall / Restaurant / offices'
                         },
                         list2: {
                             city: 'Mons',
                             county: 'Belgium',
-                            work: 'New building',
+                            work: 'New construction',
                             proyect: 'Market hall / Restaurant / offices'
                         },
                         list3: {
@@ -1503,34 +1503,34 @@ export default defineI18nConfig(() => ({
                         },
                         list4: {
                             city: 'Wuppertal',
-                            county: 'Germnay',
+                            county: 'Germany',
                             work: 'Rebuild',
                             proyect: 'Market hall / Showroom'
                         },
                         list5: {
                             city: 'Kaarst',
-                            county: 'Germnay',
+                            county: 'Germany',
                             work: 'Rebuild',
-                            proyect: 'Lampenbereich'
+                            proyect: 'Lighting department'
                         }
                     },
                     table14: {
                         year: '2017',
                         list: {
                             city: 'Osnabrück',
-                            county: 'Germay',
+                            county: 'Germany',
                             work: 'Rebuild',
-                            proyect: 'Market hall / Ceiling / Swedish Food Market'
+                            proyect: 'Market hall / Grid ceiling / Swedish Food Market'
                         },
                         list2: {
                             city: 'Kaarst',
-                            county: 'Germnay',
-                            work: 'New building',
-                            proyect: 'Market hall / Ceiling / Swedish Food Market'
+                            county: 'Germany',
+                            work: 'New construction',
+                            proyect: 'Market hall / Grid ceiling / Swedish Food Market'
                         },
                         list3: {
                             city: 'Hannover',
-                            county: 'Germnay',
+                            county: 'Germany',
                             work: 'Rebuild',
                             proyect: 'Restaurant'
                         }
@@ -1541,13 +1541,13 @@ export default defineI18nConfig(() => ({
                             city: 'Amsterdam',
                             county: 'Netherlands',
                             work: 'Rebuild',
-                            proyect: 'Market hall / Ceiling'
+                            proyect: 'Market hall / Grid ceiling'
                         },
                         list2: {
                             city: 'Amsterdam',
                             county: 'Netherlands',
                             work: 'Rebuild',
-                            proyect: 'Store entrance'
+                            proyect: 'Entrance hall'
                         }
                     },
                     table16: {
@@ -1556,13 +1556,13 @@ export default defineI18nConfig(() => ({
                             city: 'Bielefeld',
                             county: 'Germany',
                             work: 'Rebuild',
-                            proyect: 'Showroom / Beds and mattresses area'
+                            proyect: 'Lighting department'
                         },
                         list2: {
                             city: 'Kaarst',
                             county: 'Germany',
                             work: 'Rebuild',
-                            proyect: 'Showroom / Beds and mattresses area'
+                            proyect: 'Lighting department'
                         }
                     },
                     table17: {
@@ -1570,28 +1570,28 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Karlsruhe',
                             county: 'Germany',
-                            work: 'New building',
+                            work: 'New construction',
                             proyect: 'Market hall'
                         },
                         list2: {
                             city: 'Amsterdam',
                             county: 'Netherlands',
-                            work: 'New building',
-                            proyect: 'online shop office'
+                            work: 'New construction',
+                            proyect: 'Office for online trade'
                         }
                     },
                     table18: {
                         year: '2021',
                         list: {
                             city: 'Berlin',
-                            county: 'Germay',
-                            work: 'New building',
+                            county: 'Germany',
+                            work: 'Rebuild',
                             proyect: 'Workspace'
                         },
                         list2: {
                             city: 'Amsterdam',
                             county: 'Netherlands',
-                            work: 'New building',
+                            work: 'New construction',
                             proyect: 'Internal offices'
                         }
                     },
@@ -1600,35 +1600,35 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Amsterdam',
                             county: 'Netherlands',
-                            work: 'New building',
+                            work: 'Rebuild',
                             proyect: 'Kitchen / Dining area'
                         },
                         list2: {
                             city: 'Brno',
                             county: 'Czech Republic',
-                            work: 'New building',
+                            work: 'Rebuild',
                             proyect: 'Whole store'
                         }
                     },
                     table20: {
                         year: '2023',
                         list: {
-                            city: 'Wurzburg',
+                            city: 'Würzburg',
                             county: 'Germany',
-                            work: 'New building',
-                            proyect: 'Children area'
+                            work: 'Rebuild',
+                            proyect: 'Children’s area'
                         },
                         list2: {
-                            city: 'Hamburg',
+                            city: 'Hamburg - Moorflet',
                             county: 'Germany',
-                            work: 'New building',
-                            proyect: 'Moorflet - Kitchen/Dining area'
+                            work: 'Rebuild',
+                            proyect: 'Kitchen / Dining area'
                         },
                         list3: {
-                            city: 'Hamburg',
+                            city: 'Hamburg - Schnelsen',
                             county: 'Germany',
-                            work: 'New building',
-                            proyect: 'Schnelsen - Kitchen/Dining area'
+                            work: 'Rebuild',
+                            proyect: 'Kitchen / Dining area'
                         }
                     }
                 }
