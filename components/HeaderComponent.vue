@@ -29,7 +29,7 @@
         class="bg-white py-4 md:py-5 md:px-8 md:flex justify-between items-center"
     >
         <nuxt-link 
-            to="/"
+            :to="localePath('/', locale)"
             class="logo uppercase font-bold text-3xl tracking-widest text-center block w-52"
         >
             <nuxt-img 
