@@ -22,13 +22,13 @@
 </script>
 <template>
     <header
-        class="bg-white py-4 md:py-8 md:px-8 md:flex justify-between items-center"
+        class="bg-white py-4 md:py-5 md:px-8 md:flex justify-between items-center"
     >
         <nuxt-link 
             to="/"
-            class="logo uppercase font-bold text-3xl tracking-widest text-center block"
+            class="logo uppercase font-bold text-3xl tracking-widest text-center block w-52"
         >
-            Sambawood
+            <img class="w-full" src="logo.png" />
         </nuxt-link>
         <nav
             class="md:flex gap-4 items-center navbar mt-5 md:mt-0"

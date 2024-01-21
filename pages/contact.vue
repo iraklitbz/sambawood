@@ -44,7 +44,32 @@
                         <span
                             class="ml-2"
                         >
-                            Jemal Gorgiladze
+                            Jemal Gorgiladze (Jimmy)
+                        </span>
+                    </li>
+                    <li
+                        class="flex items-center"
+                    >
+                        <b>
+                            Tel:
+                        </b>
+                        <span
+                            class="ml-2"
+                        >
+                            <a class="text-blue-700" href="tel:+491721577536">+49 172 1577536</a>
+                        </span>
+                    </li>
+                    <li
+                        class="flex items-center"
+                    >
+                        <b>
+                            Email:
+                        </b>
+                        <span
+                            class="ml-2"
+                        >
+                            <a class="text-blue-700" href="mailto:jimmy.gorgiladze@sambawood.com">jimmy.gorgiladze@sambawood.com</a>
+                    
                         </span>
                     </li>
                     <li
@@ -63,7 +88,9 @@
                         19240 Jadraque (Guadalajara)
                     </li>
                     <li>
-                        Spain
+                        {{
+                            $t('contact.spain')
+                        }}
                     </li>
                     <li
                         class="mt-4 mb-2"
@@ -81,17 +108,34 @@
                         33602 Bielefeld
                     </li>
                     <li>
-                        Germany
+                        {{
+                                $t('contact.germany')
+                            }}
                     </li>
                 </ul>
                 <ul
                     class="mt-10"
                 >
-                    <li>
-                        {{ $t('contact.phone') }} :  <a class="text-blue-700" href="tel:+491721577536">0049 172 1577536</a> | <a class="text-blue-700" href="tel:+34639280243">+34 639 280 243</a>
+                    <li
+                            class="mt-4 mb-2"
+                        >
+                        <b>
+                            {{
+                                $t('contact.contactperson')
+                            }}
+                        </b>
                     </li>
                     <li>
-                        {{ $t('contact.email') }} : <a class="text-blue-700" href="mailto:info@sambawood.com">info@sambawood.com</a> {{ $t('contact.or') }}
+                        Mandy Etzelsdörfer
+                    </li>
+                    <li>
+                        {{ $t('contact.managment') }}
+                    </li>
+                    <li>
+                        Tel: <a class="text-blue-700" href="tel:+4916091221273">+49 160 91221273</a>
+                    </li>
+                    <li>
+                        Email: <a class="text-blue-700" href="mailto:info@sambawood.com">info@sambawood.com</a>
                     </li>
                 </ul>
             </div>

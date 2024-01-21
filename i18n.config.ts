@@ -41,8 +41,7 @@ export default defineI18nConfig(() => ({
                         list7: 'Trabajos gráficos',
                         list8 : 'Presentación de mercancía',
                         list9: 'Montaje de paredes',
-                        list10: 'Trabajos de pintura',
-                        list11: 'Colocación de suelos'
+                        list10: 'Trabajos de pintura'
                     },
                     boxThree: {
                         headline: 'Alta resistencia y flexibilidad.',
@@ -541,6 +540,10 @@ export default defineI18nConfig(() => ({
                 subject: 'Asunto',
                 message: 'Su mensaje',
                 send: 'Enviar',
+                spain: 'España',
+                germany: 'Alemania',
+                contactperson: 'Persona de contacto',
+                managment: 'Asistente de dirección'
             },
             footer: {
                 legal: 'Aviso legal',
@@ -551,7 +554,7 @@ export default defineI18nConfig(() => ({
             navbar: {
                 home: 'Home',
                 company: 'Firma',
-                service: 'Services',
+                service: 'Dienstleistungen',
                 more: 'und mehr',
                 references: 'Referenzen',
                 medium: 'Medien',
@@ -560,38 +563,37 @@ export default defineI18nConfig(() => ({
             home: {
                 hero: {
                      bigHeadline: 'Ladenbau',
-                     smallHeadline: 'Projekkoordination',
+                     smallHeadline: 'Projektkoordination',
                      subHeadline: 'und mehr'
                 },
                 sectionOne: {
                      headline: '„Service heißt, das ganze Geschäft mit den Augen des Kunden zu sehen“. – Axel Haitzer',
-                     text: 'So lautet unser Motto, denn wir richten uns nach Ihren Plänen und Wünschen, um Sie zufrieden zu stellen. Mit unserem Team haben Sie einen zuverlässigen und kompetenten Partner an Ihrer Seite, der durch langjährige Erfahrungen im internationalen Bereich handwerkliches Fachwissen und Expertise mitbringt. Seit über 16 Jahren sind wir im Bereich Projektmanagement und Ladenbau – insbesondere in Kooperation mit IKEA – tätig und führen sowohl große als auch kleine Projekte mit großer Leidenschaft aus.',
-                     text2: 'Das zeigen unsere umfangreiche Referenzliste und das Feedback unserer Kunden. Wir sind überzeugt, dass Ihre Projekte bei uns in guten Händen sind.',
-                     text3: 'Haben wir auch Sie überzeugt?' 
+                     text: 'Das ist unser Motto, denn wir orientieren uns an Ihren Plänen und Wünschen, um Sie zufrieden zu stellen. Mit unserem Team haben Sie einen zuverlässigen und kompetenten Partner an Ihrer Seite, der durch langjährige Erfahrung im internationalen Bereich handwerkliches Können und Expertise mitbringt. Seit mehr als 16 - 20 Jahren sind wir im Bereich Projektmanagement und Ladenbau - insbesondere in Zusammenarbeit mit IKEA, einem der größten Einrichtungshäuser der Welt - tätig und setzen sowohl große als auch kleine Projekte mit großer Leidenschaft um.',
+                     text2: 'Das zeigen unsere erfolgreich abgeschlossenen Projekte und das Feedback unserer Kunden. Wir sind überzeugt, dass Ihre Projekte bei uns in guten Händen sind!',
+                     text3: 'Haben wir Sie überzeugt?'
                  },
                  sectionTwo: {
                      boxOne: {
-                         headline: 'Ein Team  mit internationaler Erfahrung und umfangreichen Sprachkenntnissen',
-                         text: 'Unser Team verfügt über zahlreiche Erfahrungen durch ihre Tätigkeiten im internationalen Bereich. Sie zeichnet sich weiterhin durch die Beherrschung von mindestens drei verschiedenen Sprachen aus, sodass auch im Ausland eine reibungslose Kommunikation stattfinden kann.'
+                         headline: 'Ein Team mit internationaler Erfahrung und umfassenden Sprachkenntnissen',
+                         text: 'Unser Team verfügt über langjährige internationale Erfahrung. Es zeichnet sich zudem durch die Beherrschung von mindestens drei verschiedenen Sprachen aus, so dass auch im Ausland eine reibungslose Kommunikation stattfinden kann. Wir garantieren Ihnen einen unkomplizierten Austausch mit unserem Projektleiter vor Ort.'
                      },
                      boxTwo: {
                         headline: 'Unsere Leistungen auf einen Blick',
-                        text: 'Unser eingespieltes Team widmet sich unterschiedlichen Arbeitsbereichen, um aus Ideen qualitative Räume zu schaffen. Das sind einige unserer Tätigkeiten: ',
-                        list: 'Innnenraumgestaltung',
-                        list2: 'Ladenbau',
-                        list3: 'Renovierung und Sanierung',
-                        list4: 'Professionelle Montage und Demontage',
-                        list5: 'Beleuchtung',
-                        list6: 'Dekoration',
-                        list7: 'Grafische Arbeiten',
-                        list8: 'Warenpräsentation',
+                        text: 'Unser eingespieltes Team widmet sich verschiedenen Arbeitsbereichen, um aus Ideen Qualitätsräume zu schaffen. Dies sind einige unserer Tätigkeiten:',
+                        list: 'Beleuchtung',
+                        list2: 'Bodenarbeiten',
+                        list3: 'Dekoration',
+                        list4: 'Grafische Arbeiten',
+                        list5: 'Innnenraumgestaltung',
+                        list6: 'Ladenbau',
+                        list7: 'Malertätigkeiten',
+                        list8: 'Renovierung und Sanierung',
                         list9: 'Wandmontage',
-                        list10: 'Malertätigkeiten',
-                        list11: 'Bodenarbeiten'
+                        list10: 'Warenpräsentation'
                      },
                      boxThree: {
                          headline: 'Hohe Belastbarkeit und Flexibilität',
-                         text: 'Das sind zwei Eigenschaften, die uns auszeichnen, denn wir sind stets bemüht, unsere Kunden zufriedenzustellen, auch wenn die Bedingungen mal schwierig sind. Es ist oft nicht einfach, aber dennoch nicht unmöglich, ein Projekt in kritischen Situationen entsprechend den Plänen und Wünschen unserer Kunden rechtzeitig zu vollenden. Wir passen uns in jeglicher Hinsicht an die gegebenen Umstände an: Egal zu welcher Arbeitszeit, mit uns können Sie jederzeit rechnen. Auch sind wir – sofern nötig – durchaus bereit, Mehrarbeit zu leisten.'
+                         text: 'Diese beiden Eigenschaften zeichnen uns aus, denn wir sind stets bestrebt, unsere Kunden auch unter schwierigen Bedingungen zufrieden zu stellen. Es ist oft nicht einfach, aber nicht unmöglich, in kritischen Situationen ein Projekt nach den Plänen und Wünschen unserer Kunden termingerecht fertig zu stellen. Wir passen uns in jeder Hinsicht den Gegebenheiten an: Egal zu welcher Tageszeit, Sie können jederzeit auf uns zählen. Überstunden - wenn nötig - sind für uns eine Selbstverständlichkeit, um eine termingerechte Fertigstellung zu gewährleisten.'
                      }
                 },
              },
@@ -601,16 +603,16 @@ export default defineI18nConfig(() => ({
                     name: 'Jemal Gorgiladze',
                     ocupation: 'Geschäftsführer'
                 },
-                text: 'Der Sitz der Firma Sambawood ist in Spanien, das Büro sitzt jedoch in Deutschland. Sambawood basiert auf insgesamt 16 Jahren Erfahrung. Angefangen als deutsche Firma ist Sambawood nun hauptsächlich als Subunternehmen in unterschiedlichen IKEA-Projekten tätig. Weitere Tätigkeiten beziehen sich auf Privatbauten und Sanierungsarbeiten.',
-                text2: 'Durch die facettenreichen Tätigkeiten im Ladenbau bringt die Firma Expertise in zahlreichen Bereichen mit. Unsere Kompetenzen sind vielseitig und reichen von Bauarbeiten bis hin zu Näharbeiten und Möbelmontage.',
+                text: 'Die Firma Sambawood S.L. hat ihren Sitz in Spanien und ein Projektbüro in Bielefeld, Deutschland. Sambawood blickt auf insgesamt 20 Jahre Erfahrung zurück. Angefangen als Ein-Mann-Betrieb hat sich Sambawood zu einem zuverlässigen Unternehmen im Ladenbau entwickelt. Als Subunternehmer führen wir seit Jahrzehnten erfolgreich Projekte für eines der bekanntesten Möbelhäuser der Welt durch. Auch bei kleineren Projekten im privaten Bau- und Renovierungsbereich konnten wir zahlreiche Privatkunden von uns überzeugen.',
+                text2: 'Durch die vielfältigen Tätigkeiten im Ladenbau verfügen unsere Mitarbeiter über Know-how in vielen Bereichen. Unsere Kompetenzen sind breit gefächert und reichen von groben Arbeiten im Rohbau über feine Näharbeiten bis hin zur Montage von Möbeln.',
                 languages: 'Sprachen'
             },
             services: {
-                headline: 'Service',
+                headline: 'Dienstleistungen',
                 sectionOne: {
                     headline: 'Sambawood: eine Firma mit professioneller Vielseitigkeit',
-                    text: 'Unsere Firma setzt auf professionelle Beratungen für die Realisierung von Projekten in unterschiedlichen Bereichen. Wir kollaborieren mit unseren Kunden, um bestmögliche Lösungen zu finden. Hierfür setzen wir unsere Planungskompetenz und all unsere handwerklichen Erfahrungen ein. Wir begleiten unsere Kunden von der Planung bis hin zur Umsetzung und wir sind stets darum bemüht, Projekte und Pläne nach den Wünschen unserer Kunden zu richten.',
-                    text2: 'Auch bei schwersten Bedingungen führen wir unsere Arbeiten gewissenhaft und professionell aus, sodass wir uns durch eine hohe Flexibilität und Belastbarkeit auszeichnen.',
+                    text: 'Unser Unternehmen setzt auf professionelle Beratung bei der Realisierung von Projekten in unterschiedlichen Bereichen. Gemeinsam mit unseren Kunden suchen wir nach den bestmöglichen Lösungen. Dabei setzen wir unsere Planungskompetenz und unsere handwerkliche Erfahrung ein. Wir begleiten unsere Kunden von der Planung bis zur Ausführung und sind stets bestrebt, Projekte und Pläne auf die Wünsche unserer Kunden abzustimmen.',
+                    text2: 'Auch unter schwierigsten Bedingungen arbeiten wir gewissenhaft und professionell und zeichnen uns durch hohe Flexibilität und Belastbarkeit aus.',
                     headlineTwo: 'Beratung',
                     list: 'Individuelle Beratung bei der Planung',
                     list2: 'Koordination von Subunternehmern',
@@ -619,71 +621,84 @@ export default defineI18nConfig(() => ({
                 sectionTwo: {
                     boxOne: {
                         headline: 'Deckenarbeiten',
-                     list: 'Änderung und Anpassung bestehender Decken',
-                     list2: 'Einbau unterschiedlicher Deckensysteme'
+                        list: 'Änderung und Anpassung bestehender Decken',
+                        list2: 'Ein- Ausbau unterschiedlicher Deckensysteme'
                     },
                     boxTwo: {
                         headline: 'Markthallenbau',
-                     list: 'Montage und Demontage von Regalsystemen',
-                     list2: 'Aufstellung von Zwischenwänden',
-                     list3: 'Warenlegung'
+                        list: 'Montage und Demontage von Regalsystemen',
+                        list2: 'Aufstellung von Zwischenwänden',
+                        list3: 'Warenlegung'
                     },
                     boxThree: {
                         headline: 'Wandarbeiten',
-                     list: 'Anfertigung und Aufbau von Ausstellungswänden',
-                     list2: 'Einbau von Türen, Fenstern, etc.'
+                        list: 'Anfertigung und Aufbau von Ausstellungswänden',
+                        list2: 'Einbau von Türen, Fenstern, etc.',
+                        list3: 'Backsteinmauern',
+                        list4: 'Betonwände',
+                        list5: 'Glaswände',
+                        list6: 'Holzwände',
+                        list7: 'Faay Wände',
+                        list8: 'Rigipswände'
                     },
                     boxFour: {
                         headline: 'Malerarbeiten',
-                     list: 'Spachteln',
-                     list2: 'Grundieren',
-                     list3: 'Tapezieren',
-                     list4: 'Streichen',
-                     list5: 'Lackieren'
+                        list: 'Oberflächenvorbereitung',
+                        list2: 'Spachteln',
+                        list3: 'Grundieren',
+                        list4: 'Tapezieren',
+                        list5: 'Streichen',
+                        list6: 'Dekorative Wandverkleidung',
+                        list7: 'Lackieren'
                     },
                     boxFive: {
                         headline: 'Fliesenarbeiten',
-                     list: 'Entfernung alter Fliesen',
-                     list2: 'Vorbereitungsarbeiten für die Fliesenverlegung',
-                     list3: 'Verlegearbeiten'
+                        list: 'Entfernung alter Fliesen',
+                        list2: 'Vorbereitungsarbeiten für die Fliesenverlegung',
+                        list3: 'Verlegearbeiten',
+                        list4: 'Verfugen'
                     },
                     boxSix: {
                         headline: 'Bodenarbeiten',
-                     list: 'Ausgleich von unebenen Böden',
-                     list2: 'Entfernung alter Bodenbeläge',
-                     list3: 'Verlegen von Laminat, Parkett, Kunststoffbelägen und Fliesen'
+                        list: 'Ausgleich von unebenen Böden',
+                        list2: 'Entfernung alter Bodenbeläge',
+                        list3: 'Verlegen von Laminat, Parkett, Kunststoffbelägen und Fliesen'
                     },
                     boxSeven: {
                         headline: 'Küchenmontage',
-                     list: 'Änderungsarbeiten an bestehenden Küchenausstellungen',
-                     list2: 'Änderung von Möbeln und Arbeitsplatten',
-                     list3: 'Professionelle Möbelmontage',
-                     list4: 'Konzeptionelle Erstellung und Gestaltung von Küchenstudios'
+                        list: 'Änderungsarbeiten an bestehenden Küchenausstellungen',
+                        list2: 'Änderung von Möbeln und Arbeitsplatten',
+                        list3: 'Installation von Elektrogeräten',
+                        list4: 'Konzeptionelle Erstellung und Gestaltung von Küchenstudios'
                     },
                     boxEight: {
                         headline: 'Möbelmontage',
-                     list: 'Professionelle Möbelmontage',
-                     list2: 'Änderungsarbeiten an Möbeln'
+                        list: 'Professionelle Montage von Einzelstücken oder Festelementen',
+                        list2: 'Ein- und Anpassungsarbeiten von Einrichtungsteilen oder Möbeln'
                     },
                     boxNine: {
                         headline: 'Dekorationsarbeiten',
-                     list: 'Anbringen von Preisschildern und -auszeichnungen',
-                     list2: 'Anbringen von Beleuchtung',
-                     list3: 'Aufstellen von Werbetafeln'
+                        list: 'Anbringen von Preisschildern und -auszeichnungen',
+                        list2: 'Anbringen von Beleuchtung',
+                        list3: 'Aufstellen von Werbetafeln'
                     },
                     boxTen: {
-                        headline: 'Grafische Arbeiten',
-                        list: 'Anbringen von Werbe- und Informationsmaterialien'
+                        headline: 'Raumgestaltung',
+                        list: 'Gestaltung von Schaufenster',
+                        list2: 'Gestaltung von Verkaufsräumen',
+                        list3: 'Gestaltung von Ausstellungsräumen',
+                        list4: 'Gestaltung von Messeständen',
+                        list5: 'Anbringen von Beleuchtung'
                     },
                     boxEleven: {
                         headline: 'Warenpräsentation und Logistik',
-                     list: 'Warenlegung',
-                     list2: 'Ein- und Ausräumen von Verkaufsplätzen'
+                        list: 'Warenlegung',
+                        list2: 'Ein- und Ausräumen von Verkaufsplätzen'
                     },
                     boxTwelve: {
                         headline: 'Näharbeiten',
-                     list: 'Anfertigung von Gardinen und Textilien',
-                     list2: 'Anfertigung unterschiedlicher Dekoelemente'
+                        list: 'Änderungsarbeiten an Vorhängen und Gardinen',
+                        list2: 'Anfertigung Dekostoffen'
                     }
                 }
             },
@@ -701,7 +716,7 @@ export default defineI18nConfig(() => ({
             references: {
                 headline: 'Referenzen',
                 sectionOne: {
-                    text: 'Sambawood hat über die letzten Jahre an zahlreichen nationalen und internationalen IKEA-Projekten als Subunternehmer mitgewirkt, welche in der untenstehenden Tabelle aufgelistet sind. Neben großen und umfangreichen Projekten sind auch kleinere Projekte realisiert worden, die hier jedoch keine Erwähnung finden.',
+                    text: 'Sambawood hat in den letzten Jahren an zahlreichen nationalen und internationalen Projekten als Subunternehmer mitgewirkt. Die folgende Liste gibt Ihnen einen Überblick über unsere größten Projekte. Wir sind sicher, dass auch Sie schon unbewusst mit unserer Arbeit in Berührung gekommen sind. Gerne stellen wir Ihnen unsere Projekte in einem persönlichen Gespräch vor.',
                     table: {
                         year: '2004',
                         list: {
@@ -1078,7 +1093,7 @@ export default defineI18nConfig(() => ({
                 smallheadline: 'Wie können wir Ihnen helfen?',
                 manager: 'Geschäftsführer',
                 company: 'Sitz der Firma:',
-                office: 'Sitz des Büros',
+                office: 'Sitz des Projektbüros',
                 email: 'Email',
                 phone: 'Tel',
                 or: 'oder über das Kontaktformular',
@@ -1086,6 +1101,10 @@ export default defineI18nConfig(() => ({
                 subject: 'Betreff',
                 message: 'Ihre Nachricht',
                 send: 'Senden',
+                spain: 'Spanien',
+                germany: 'Deutschland',
+                contactperson: 'Ansprechpartner',
+                managment: 'Assistentin der Geschäftsführung'
             },
             footer: {
                 legal: 'Impressum',
@@ -1131,8 +1150,7 @@ export default defineI18nConfig(() => ({
                         list7: 'Graphic works',
                         list8: 'Merchandise presentation',
                         list9: 'Wall assembly',
-                        list10: 'Painting',
-                        list11: 'Flooring works'
+                        list10: 'Painting'
                      },
                      boxThree: {
                          headline: 'High load capacity and flexibility',
@@ -1631,6 +1649,10 @@ export default defineI18nConfig(() => ({
                 subject: 'Subject',
                 message: 'Your message',
                 send: 'Send',
+                spain: 'Spain',
+                germany: 'Germany',
+                contactperson: 'Contact person',
+                managment: 'Management Assistant'
             },
             footer: {
                 legal: 'Imprint',

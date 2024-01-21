@@ -139,7 +139,7 @@
             >
                 <nuxt-img 
                     class="w-full h-full object-cover object-center"
-                    src="planing3_ypnjsp.jpg"
+                    src="planing3_ypnjsp_zjcejb.webp"
                     alt="team"
                 />
             </figure>

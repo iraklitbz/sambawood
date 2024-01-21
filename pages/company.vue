@@ -38,7 +38,7 @@
         </h1>
         <nuxt-img 
             class="w-full h-full object-cover object-center opacity-60"
-            src="planing3_ypnjsp.jpg"
+            src="planing3_ypnjsp_zjcejb.webp"
             alt="company" />
     </section>
     <section
