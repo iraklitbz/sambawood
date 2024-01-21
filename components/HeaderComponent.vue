@@ -28,7 +28,10 @@
             to="/"
             class="logo uppercase font-bold text-3xl tracking-widest text-center block w-52"
         >
-            <img class="w-full" src="logo.png" />
+            <nuxt-img 
+            class="w-full h-full"
+            src="logo_l1qnab.png"
+            alt="logo" />
         </nuxt-link>
         <nav
             class="md:flex gap-4 items-center navbar mt-5 md:mt-0"
