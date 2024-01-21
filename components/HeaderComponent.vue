@@ -1,5 +1,6 @@
 <script setup>
     const { locale, locales, setLocale } = useI18n()
+    const switchLocalePath = useSwitchLocalePath()
     const localePath = useLocalePath()
     const nav = [
         { name: 'navbar.home', path: '/' },
@@ -19,6 +20,9 @@
             }
         })
     })
+    function handleLanguage (value) {
+        navigateTo(switchLocalePath(value))
+    }
 </script>
 <template>
     <header
@@ -54,7 +58,7 @@
                 >
                     <button
                         type="button"
-                        @click="() => setLocale(localeItem.value)"
+                        @click="() => handleLanguage(localeItem.value)"
                         class="p-1 rounded-md"
                         :class="{
                             'bg-black text-white font-bold': localeItem.value === locale,

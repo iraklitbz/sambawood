@@ -1,6 +1,10 @@
 <script setup>
     import { table } from '~/helper/table.ts';
-    const reversedTable = table.map(row => ({ ...row, list: row.list.reverse() }));
+    const { locale } = useI18n()
+    const reverseTable = table.reverse()
+    watch(locale, () => {
+        reverseTable.value = table.reverse()
+    })
 </script>
 <template>
     <div>
@@ -29,7 +33,7 @@
                 </p>
                     <div>
                         <div
-                            v-for="(row, index) in table.reverse()"
+                            v-for="(row, index) in reverseTable"
                             :key="index"
                             class="mt-10"
                         >

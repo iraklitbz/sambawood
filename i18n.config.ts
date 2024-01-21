@@ -891,7 +891,7 @@ export default defineI18nConfig(() => ({
                             proyect: 'Markthalle'
                         },
                         list2: {
-                            city: 'Lieja',
+                            city: 'Lüttich',
                             county: 'Belgien',
                             work: 'Umbau',
                             proyect: 'Markthalle'
@@ -912,7 +912,7 @@ export default defineI18nConfig(() => ({
                             proyect: 'Markthalle / Showroom'
                         },
                         list2: {
-                            city: 'Gante',
+                            city: 'Gant',
                             county: 'Belgien',
                             work: 'Umbau',
                             proyect: 'Markthalle'
