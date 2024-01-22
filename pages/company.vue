@@ -10,15 +10,18 @@
             social: [
                 {
                     name: 'facebook',
-                    link: 'https://www.facebook.com/profile.php?id=100057214969394'
+                    link: 'https://www.facebook.com/profile.php?id=100057214969394',
+                    color: 'text-facebook'
                 },
                 {
                     name: 'instagram',
-                    link: 'https://www.instagram.com/innovatioindesign/'
+                    link: 'https://www.instagram.com/innovatioindesign/',
+                    color: 'text-instagram'
                 },
                 {
                     name: 'gmail',
-                    link: 'mailto:info@sambawood.com'
+                    link: 'mailto:info@sambawood.com',
+                    color: 'text-google'
                 }
             ]
         }
@@ -86,12 +89,12 @@
                             <a
                                 :href="social.link"
                                 target="_blank"
-                                class="text-black"
                             >
                                 <nuxt-icon 
                                     :name="social.name"
                                     size="20px"
-                                    class="icon text-3xl dark:text-white"
+                                    class="icon text-3xl"
+                                    :class="`${social.color} text-opacity-80 hover:text-opacity-100 transition ease-in-out duration-300`"
                                 />
                             </a>
                         </li>

@@ -18,7 +18,11 @@ module.exports = {
           'hell-black': '#000',
           'dark-black': '#111',
           'black': '#111',
-          'orange': '#d8491d'
+          'orange': '#d8491d',
+          'facebook': '#3b5998',
+          'twitter': '#1da1f2',
+          'google': '#dd4b39',
+          'instagram': '#e1306c'
         }
       }
     },

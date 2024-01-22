@@ -1,3 +1,22 @@
+<script setup>
+    const social = [
+        {
+            name: 'facebook',
+            link: 'https://www.facebook.com/profile.php?id=100057214969394',
+            color: 'text-facebook'
+        },
+        {
+            name: 'instagram',
+            link: 'https://www.instagram.com/innovatioindesign/',
+            color: 'text-instagram'
+        },
+        {
+            name: 'gmail',
+            link: 'mailto:info@sambawood.com',
+            color: 'text-google'
+        }
+    ]
+</script>
 <template>
     <div>
         <section
@@ -72,6 +91,26 @@
                     
                         </span>
                     </li>
+                    <ul
+                        class="flex gap-3 mt-3 mb-10"
+                    >
+                        <li
+                            v-for="(item, index) in social"
+                            :key="index"
+                        >
+                            <a
+                                :href="item.link"
+                                target="_blank"
+                            >
+                                <nuxt-icon 
+                                    :name="item.name"
+                                    size="20px"
+                                    class="icon text-3xl"
+                                    :class="`${item.color} text-opacity-80 hover:text-opacity-100 transition ease-in-out duration-300`"
+                                />
+                            </a>
+                        </li>
+                    </ul>
                     <li
                         class="mt-4 mb-2"
                     >
