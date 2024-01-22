@@ -44,9 +44,18 @@
                 class="flex gap-4 h-10 md:h-auto overflow-x-auto w-full relative z-50"
             >
                 <li v-for="(item, index) in nav" :key="index" class="uppercase font-bold whitespace-nowrap md:whitespace-normal">
-                    <nuxt-link :to="localePath(item.path, locale)">
+                    <nuxt-link
+                        v-if="item.path !== '/references'"
+                        :to="localePath(item.path, locale)"
+                    >
                         {{ $t(item.name) }}
                     </nuxt-link>
+                    <a
+                        v-else
+                        :href="localePath(item.path, locale)"
+                    >
+                        {{ $t(item.name) }}
+                    </a>
                 </li>
             </ul>
             <ul

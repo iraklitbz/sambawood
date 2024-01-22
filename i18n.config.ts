@@ -568,7 +568,7 @@ export default defineI18nConfig(() => ({
                 },
                 sectionOne: {
                      headline: '„Service heißt, das ganze Geschäft mit den Augen des Kunden zu sehen“. – Axel Haitzer',
-                     text: 'Das ist unser Motto, denn wir orientieren uns an Ihren Plänen und Wünschen, um Sie zufrieden zu stellen. Mit unserem Team haben Sie einen zuverlässigen und kompetenten Partner an Ihrer Seite, der durch langjährige Erfahrung im internationalen Bereich handwerkliches Können und Expertise mitbringt. Seit mehr als 16 - 20 Jahren sind wir im Bereich Projektmanagement und Ladenbau - insbesondere in Zusammenarbeit mit IKEA, einem der größten Einrichtungshäuser der Welt - tätig und setzen sowohl große als auch kleine Projekte mit großer Leidenschaft um.',
+                     text: 'Das ist unser Motto, denn wir orientieren uns an Ihren Plänen und Wünschen, um Sie zufrieden zu stellen. Mit unserem Team haben Sie einen zuverlässigen und kompetenten Partner an Ihrer Seite, der durch langjährige Erfahrung im internationalen Bereich handwerkliches Können und Expertise mitbringt. Seit mehr als 20 Jahren sind wir im Bereich Projektmanagement und Ladenbau - insbesondere in Zusammenarbeit mit, einem der größten Einrichtungshäuser der Welt - tätig und setzen sowohl große als auch kleine Projekte mit großer Leidenschaft um.',
                      text2: 'Das zeigen unsere erfolgreich abgeschlossenen Projekte und das Feedback unserer Kunden. Wir sind überzeugt, dass Ihre Projekte bei uns in guten Händen sind!',
                      text3: 'Haben wir Sie überzeugt?'
                  },
@@ -603,7 +603,7 @@ export default defineI18nConfig(() => ({
                     name: 'Jemal Gorgiladze',
                     ocupation: 'Geschäftsführer'
                 },
-                text: 'Die Firma Sambawood S.L. hat ihren Sitz in Spanien und ein Projektbüro in Bielefeld, Deutschland. Sambawood blickt auf insgesamt 20 Jahre Erfahrung zurück. Angefangen als Ein-Mann-Betrieb hat sich Sambawood zu einem zuverlässigen Unternehmen im Ladenbau entwickelt. Als Subunternehmer führen wir seit Jahrzehnten erfolgreich Projekte für eines der bekanntesten Möbelhäuser der Welt durch. Auch bei kleineren Projekten im privaten Bau- und Renovierungsbereich konnten wir zahlreiche Privatkunden von uns überzeugen.',
+                text: 'Die Firma Sambawood S.L. hat ihren Sitz in Spanien und ein Projektbüro in Bielefeld, Deutschland. Sambawood S.L blickt auf insgesamt 20 Jahre Erfahrung zurück. Angefangen als Ein-Mann-Betrieb hat sich Sambawood zu einem zuverlässigen Unternehmen im Ladenbau entwickelt. Als Subunternehmer führen wir seit Jahrzehnten erfolgreich Projekte für eines der bekanntesten Möbelhäuser der Welt durch. Auch bei kleineren Projekten im privaten Bau- und Renovierungsbereich konnten wir zahlreiche Privatkunden von uns überzeugen.',
                 text2: 'Durch die vielfältigen Tätigkeiten im Ladenbau verfügen unsere Mitarbeiter über Know-how in vielen Bereichen. Unsere Kompetenzen sind breit gefächert und reichen von groben Arbeiten im Rohbau über feine Näharbeiten bis hin zur Montage von Möbeln.',
                 languages: 'Sprachen'
             },
@@ -716,7 +716,7 @@ export default defineI18nConfig(() => ({
             references: {
                 headline: 'Referenzen',
                 sectionOne: {
-                    text: 'Sambawood hat in den letzten Jahren an zahlreichen nationalen und internationalen Projekten als Subunternehmer mitgewirkt. Die folgende Liste gibt Ihnen einen Überblick über unsere größten Projekte. Wir sind sicher, dass auch Sie schon unbewusst mit unserer Arbeit in Berührung gekommen sind. Gerne stellen wir Ihnen unsere Projekte in einem persönlichen Gespräch vor.',
+                    text: 'Sambawood S.L hat in den letzten Jahren an zahlreichen nationalen und internationalen Projekten als Subunternehmer mitgewirkt. Die folgende Liste gibt Ihnen einen Überblick über unsere größten Projekte. Wir sind sicher, dass auch Sie schon unbewusst mit unserer Arbeit in Berührung gekommen sind. Gerne stellen wir Ihnen unsere Projekte in einem persönlichen Gespräch vor.',
                     table: {
                         year: '2004',
                         list: {
@@ -1117,43 +1117,43 @@ export default defineI18nConfig(() => ({
                 company: 'Company',
                 service: 'Services',
                 more: 'and more',
-                references: 'References',
+                references: 'Credentials',
                 medium: 'Media',
                 contact: 'Contact'
             },
             home: {
                 hero: {
-                     bigHeadline: 'Shopfitting',
+                     bigHeadline: 'Shop fitting',
                      smallHeadline: 'Project Coordination',
                      subHeadline: 'and more'
                 },
                 sectionOne: {
-                     headline: '„Service means to see the whole business through the eyes of the client.“ – Axel Haitzer',
-                     text: 'This is our moto because we comply with your plans and wishes in order to satisfy you. Choosing our team, you have a reliable and competent partner by your side with technical skills and expertise resulting from long-term experiences at an international level. We have been working in the fields of project management and shop fitting for more than 16 years, especially in cooperation with IKEA. We carry out big projects as well as small projects with great passion. Our extensive references and the feedback from our clients are a proof of this.',
-                     text2: 'We are convinced that your projects are in good hands if you choose us.',
+                     headline: '“Service means seeing the whole business through the eyes of the customer.” – Axel Haitzer',
+                     text: 'This is our motto because we focus on your plans and wishes to satisfy you. With our team you have a reliable and competent partner at your side who brings craftsmanship and expertise through many years of experience in the international sector. We have been working in the field of project management and shopfitting for more than 20 years - especially in collaboration with one of the largest furniture stores in the world - and implement both large and small projects with great passion.',
+                     text2: 'This is demonstrated by our successfully completed projects and the feedback from our customers. We are convinced that your projects are in good hands with us!',
                      text3: 'Have we also convinced you?' 
                  },
                  sectionTwo: {
                      boxOne: {
-                         headline: 'A team with international experience and a variety of language skills',
+                         headline: 'A team with international experience and extensive language skills',
                          text: 'Our team disposes of a comprehensive experience due to their international works. Furthermore, we have knowledge of at least three different languages so that a smooth communication can take place in foreign countries.'
                      },
                      boxTwo: {
                         headline: 'Our services at a glance',
-                        text: 'Our experienced team devotes itself to different working areas to transform ideas into qualitative spaces. These are some of our services:',
-                        list: 'Interior design',
-                        list2: 'Shop fitting',
-                        list3: 'Renovation and restructuring',
-                        list4: 'Professional assembly and dismantling',
-                        list5: 'Illumination',
-                        list6: 'Decoration',
-                        list7: 'Graphic works',
-                        list8: 'Merchandise presentation',
-                        list9: 'Wall assembly',
-                        list10: 'Painting'
+                        text: 'Our well-rehearsed team dedicates itself to various work areas to create quality spaces from ideas. These are some of our services:',
+                        list: 'Decoration',
+                        list2: 'Graphic works',
+                        list3: 'Illumination',
+                        list4: 'Interior design',
+                        list5: 'Merchandise presentation',
+                        list6: 'Painting',
+                        list7: 'Professional assembly and dismantling',
+                        list8: 'Renovation and restructuring',
+                        list9: 'Shop fitting',
+                        list10: 'Wall assembly'
                      },
                      boxThree: {
-                         headline: 'High load capacity and flexibility',
+                         headline: 'High resilience and flexibility',
                          text: 'These are two qualities that define us because we always strive for customer satisfaction, no matter how difficult the conditions are. It is not always easy but, nevertheless, it is not impossible to complete a project in time in critical situations according to the plans and wishes of our clients. We adapt to the given circumstances in any regard: No matter what time it is; you can always count on us. Furthermore, we are poised to do additional work if necessary.'
                      }
                 },
@@ -1164,18 +1164,18 @@ export default defineI18nConfig(() => ({
                     name: 'Jemal Gorgiladze',
                     ocupation: 'Managing director'
                 },
-                text: 'Sambawood is based in Spain, but the office is located in Germany. The company Sambawood is based on 16 years of experience. Starting as a German company, Sambawood is now mainly working as a subcontractor for various IKEA projects. Other activities relate to private buildings and renovation works.',
-                text2: 'Due to the multifaceted activities in shop fitting, the company brings expertise in numerous areas. Our skills are diverse and range from construction works to sewing and furniture assembly.',
+                text: 'The company Sambawood S.L is based in Spain and has a project office in Bielefeld, Germany. Sambawood S.L looks back on a total of 20 years of experience. Starting as a one-man business, Sambawood S.L has developed into a reliable shopfitting company. As a subcontractor, we have been successfully carrying out projects for one of the best-known furniture stores in the world for decades. We were also able to convince numerous private customers to work with us on smaller projects in the private construction and renovation sector.',
+                text2: 'Due to the diverse activities in shop fitting, our employees have know-how in many areas. Our skills are broad and range from rough work in shell construction to fine sewing work and assembling furniture.',
                 languages: 'Languages'
             },
             services: {
                 headline: 'Services',
                 sectionOne: {
                     headline: 'Sambawood: a company with professional versatility',
-                    text: 'Our company sets highest priority in professional consulting for the realisation of projects in different areas. We collaborate with our clients to find the best possible solutions. Therefore, we apply all our planning competences and manual experiences. We accompany our clients from the planning to the realisation and we are constantly seeking to implement projects and plans at our costumer’s option. Even in difficult conditions we carry out our works conscientiously and professionally.',
-                    text2: 'This is the reason why we are characterized by a high load capacity and flexibility.',
-                    headlineTwo: 'Consulting',
-                    list: 'Individual consulting in terms of planning',
+                    text: 'Our company relies on professional advice when implementing projects in different areas. Together with our customers, we look for the best possible solutions. We use our planning expertise and our craftsmanship experience. We accompany our customers from planning to execution and always strive to tailor projects and plans to our customers\' wishes.',
+                    text2: 'Even under the most difficult conditions, we work conscientiously and professionally and are characterized by high flexibility and resilience.',
+                    headlineTwo: 'Advice',
+                    list: 'Individual advice on planning',
                     list2: 'Coordination of subcontractors',
                     list3: 'Project leadership and management'
                 },
@@ -1183,60 +1183,72 @@ export default defineI18nConfig(() => ({
                     boxOne: {
                         headline: 'Ceiling works',
                       list: 'Modification and adaptation of existing ceilings',
-                      list2: 'Installation of different ceiling systems'
+                      list2: 'Installation and removal of different ceiling systems'
                     },
                     boxTwo: {
-                        headline: 'Indoor market construction',
-                      list: 'Assembly and dismantling of shelving systems',
-                      list2: 'Setting up partition walls',
-                      list3: 'Positioning merchandise'
+                        headline: 'Market hall construction',
+                        list: 'Assembly and dismantling of shelving systems.',
+                        list2: 'Installation of partition walls',
+                        list3: 'Laying of goods'
                     },
                     boxThree: {
-                        headline: 'Wall works',
-                      list: 'Setting up and manufacturing exhibition walls',
-                      list2: 'Installation of doors, windows, etc.'
+                        headline: 'Wall work',
+                        list: 'Production and construction of exhibition walls',
+                        list2: 'Installation of doors, windows, etc.',
+                        list3: 'Brick walls',
+                        list4: 'Concrete walls',
+                        list5: 'Glass walls',
+                        list6: 'Wooden walls',
+                        list7: 'Faay walls',
+                        list8: 'Drywalls'
                     },
                     boxFour: {
-                        headline: 'Painting works',
-                        list: 'Levelling',
-                        list2: 'Priming',
-                        list3: 'Wallpapering',
-                        list4: 'Painting',
-                        list5: 'Varnishing'
+                        headline: 'Painting work',
+                        list: 'Surface preparation',
+                        list2: 'Spackling',
+                        list3: 'Priming',
+                        list4: 'Wallpapering',
+                        list5: 'Painting',
+                        list6: 'Decorative wall cladding',
+                        list7: 'Varnishing'
                     },
                     boxFive: {
-                        headline: 'Tiling works',
-                      list: 'Removal of old tiles',
-                      list2: 'Preparation works for tiling',
-                      list3: 'Tiling'
+                        headline: 'Tile work',
+                        list: 'Removal of old tiles',
+                        list2: 'Preparatory work for tile installation',
+                        list3: 'Tile laying',
+                        list4: 'Grouting'
                     },
                     boxSix: {
-                        headline: 'Flooring works',
-                      list: 'Levelling of uneven floors',
-                      list2: 'Removal of old floors',
-                      list3: 'Laying laminate, parquet, vinyl flooring and tiles'
+                        headline: 'Ground work',
+                        list: 'Compensating uneven floors',
+                        list2: 'Removal of old floor coverings',
+                        list3: 'Laying laminate, parquet, plastic flooring and tiles'
                     },
                     boxSeven: {
-                        headline: 'Kitchen installations',
-                      list: 'Modification of existing kitchen exhibitions',
-                      list2: 'Modification of furniture and worktops',
-                      list3: 'Professional montage of furniture',
-                      list4: 'Conceptual construction and design of kitchen studios'
+                        headline: 'Kitchen assembly',
+                        list: 'Modification work to existing kitchen exhibitions',
+                        list2: 'Changeng of furniture and countertops',
+                        list3: 'Installation of electrical appliances',
+                        list4: 'Conceptual creation and design of kitchen studios'
                     },
                     boxEight: {
                         headline: 'Furniture assembly',
-                      list: 'Professional assembly of furniture',
-                      list2: 'Modification of furniture'
+                        list: 'Professional assembly of individual pieces or fixed elements',
+                        list2: 'Installation and adjustment work of furnishings or furniture'
                     },
                     boxNine: {
-                        headline: 'Decoration works',
-                      list: 'Application of price tags',
-                      list2: 'Illumination',
-                      list3: 'Setting up billboards'
+                        headline: 'Interior design',
+                        list: 'Store window design',
+                        list2: 'Retail space design',
+                        list3: 'Exhibition space design',
+                        list4: 'Design of showrooms and exhibition booth',
+                        list5: 'Installation of lighting'
                     },
                     boxTen: {
-                        headline: 'Graphic works',
-                        list: 'Application of advertising and information materials'
+                        headline: 'Presentation of goods and logistics',
+                        list: 'Laying of goods',
+                        list2: 'Setting up and clearing sales spaces '
                     },
                     boxEleven: {
                         headline: 'Presentation of merchandise and logistics',
@@ -1245,8 +1257,8 @@ export default defineI18nConfig(() => ({
                     },
                     boxTwelve: {
                         headline: 'Sewing works',
-                      list: 'Manufacturing curtains and textiles',
-                      list2: 'Manufacturing different decoration elements'
+                      list: 'Alterations to curtains and drapes',
+                      list2: 'Production of decorative fabrics'
                     }
                 }
             },
@@ -1262,15 +1274,15 @@ export default defineI18nConfig(() => ({
                 }
             },
             references: {
-                headline: 'References',
+                headline: 'Credentials',
                 sectionOne: {
-                    text: 'Over the past few years, Sambawood has participated as subcontractor in numerous national and international projects with IKEA which are listed  in the table below. Apart from big projects we also realised smaller projects which , however are not mentioned in the table.',
+                    text: 'Sambawood SL has worked as a subcontractor on numerous national and international projects in recent years. The following list gives you an overview of our largest projects. We are sure that you have already unconsciously come into contact with our work. We would be happy to present our projects to you in a personal conversation.',
                     table: {
                         year: '2004',
                         list: {
                             city: 'Bilbao',
                             county: 'Spain',
-                            work: 'New construction',
+                            work: 'New building',
                             proyect: 'Market hall'
                         }
                     },
@@ -1279,7 +1291,7 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Osnabrück',
                             county: 'Germany',
-                            work: 'New construction',
+                            work: 'New building',
                             proyect: 'Market hall'
                         }
                     },
@@ -1288,7 +1300,7 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Murcia',
                             county: 'Spain',
-                            work: 'New construction',
+                            work: 'New building',
                             proyect: 'Market hall'
                         }
                     },
@@ -1297,25 +1309,25 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Madrid',
                             county: 'Spain',
-                            work: 'New construction',
+                            work: 'New building',
                             proyect: 'Market hall / Grid ceiling'
                         },
                         list2: {
                             city: 'Malaga',
                             county: 'Spain',
-                            work: 'New construction',
+                            work: 'New building',
                             proyect: 'Market hall / Grid ceiling'
                         },
                         list3: {
                             city: 'Porto',
                             county: 'Portugal',
-                            work: 'New construction',
+                            work: 'New building',
                             proyect: 'Market hall'
                         },
                         list4: {
                             city: 'Barcelona',
                             county: 'Spain',
-                            work: 'New construction',
+                            work: 'New building',
                             proyect: 'Textile and carpet department'
                         }
                     },
@@ -1330,7 +1342,7 @@ export default defineI18nConfig(() => ({
                         list2: {
                             city: 'Parma',
                             county: 'Italy',
-                            work: 'New construction',
+                            work: 'New building',
                             proyect: 'Market hall'
                         },
                         list3: {
@@ -1357,7 +1369,7 @@ export default defineI18nConfig(() => ({
                         list2: {
                             city: 'Florence',
                             county: 'Italy',
-                            work: 'New construction',
+                            work: 'New building',
                             proyect: 'Market hall'
                         }
                     },
@@ -1366,7 +1378,7 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Lisbon',
                             county: 'Portugal',
-                            work: 'New construction',
+                            work: 'New building',
                             proyect: 'Market hall'
                         },
                         list2: {
@@ -1456,7 +1468,7 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Arhus',
                             county: 'Denmark',
-                            work: 'New construction',
+                            work: 'New building',
                             proyect: 'Market hall / Showroom'
                         },
                         list2: {
@@ -1486,13 +1498,13 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Haaselt',
                             county: 'Belgium',
-                            work: 'New construction',
+                            work: 'New building',
                             proyect: 'Market hall / Restaurant / offices'
                         },
                         list2: {
                             city: 'Mons',
                             county: 'Belgium',
-                            work: 'New construction',
+                            work: 'New building',
                             proyect: 'Market hall / Restaurant / offices'
                         },
                         list3: {
@@ -1525,7 +1537,7 @@ export default defineI18nConfig(() => ({
                         list2: {
                             city: 'Kaarst',
                             county: 'Germany',
-                            work: 'New construction',
+                            work: 'New building',
                             proyect: 'Market hall / Grid ceiling / Swedish Food Market'
                         },
                         list3: {
@@ -1570,13 +1582,13 @@ export default defineI18nConfig(() => ({
                         list: {
                             city: 'Karlsruhe',
                             county: 'Germany',
-                            work: 'New construction',
+                            work: 'New building',
                             proyect: 'Market hall'
                         },
                         list2: {
                             city: 'Amsterdam',
                             county: 'Netherlands',
-                            work: 'New construction',
+                            work: 'New building',
                             proyect: 'Office for online trade'
                         }
                     },
@@ -1591,7 +1603,7 @@ export default defineI18nConfig(() => ({
                         list2: {
                             city: 'Amsterdam',
                             county: 'Netherlands',
-                            work: 'New construction',
+                            work: 'New building',
                             proyect: 'Internal offices'
                         }
                     },
@@ -1640,8 +1652,8 @@ export default defineI18nConfig(() => ({
                 headline: 'Contact',
                 smallheadline: 'How can we help you?',
                 manager: 'Manager',
-                company: 'Company',
-                office: 'Office',
+                company: 'Head Office',
+                office: 'Project office',
                 email: 'Email',
                 phone: 'Phone',
                 or: 'or via the contact form',

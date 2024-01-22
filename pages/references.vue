@@ -1,10 +1,6 @@
 <script setup>
     import { table } from '~/helper/table.ts';
-    const { locale } = useI18n()
     const reverseTable = table.reverse()
-    watch(locale, () => {
-        reverseTable.value = table.reverse()
-    })
 </script>
 <template>
     <div>
@@ -31,7 +27,7 @@
                         $t('references.sectionOne.text')
                     }}
                 </p>
-                    <div>
+                    <ClientOnly>
                         <div
                             v-for="(row, index) in reverseTable"
                             :key="index"
@@ -80,7 +76,7 @@
                             </div>
                            
                         </div>
-                    </div>
+                    </ClientOnly>
             </section>
     </div>
 </template>
