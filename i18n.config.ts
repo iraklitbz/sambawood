@@ -74,18 +74,19 @@ export default defineI18nConfig(() => ({
                     boxOne: {
                         headline: 'Trabajos de techos',
                         list: 'Modificación y adaptación de paredes',
-                        list2: 'Instalación de sistemas de techo diferentes'
+                        list2: 'Instalación de sistemas de techo diferentes',
+                        list3: 'Instalación de iluminación'
                     },
                     boxTwo: {
                         headline: 'Construcción de mercado interior',
                         list: 'Montaje y desmontaje de sistemas de estanterías',
-                        list2: 'Colocación de tabiques',
-                        list3: 'Presentación de mercancía'
+                        list2: 'Colocación de tabiques'
                     },
                     boxThree: {
                         headline: 'Trabajos de pared',
-                        list: 'Fabricación y colocación de paredes expositivas',
-                        list2: 'Instalación de puertas, ventanas, etc.'
+                        list: 'Producción y construcción de paredes de exposición',
+                        list2: 'Instalación de puertas, ventanas, etc.',
+                        list3: 'Paredes de ladrillo'
                     },
                     boxFour: {
                         headline: 'Trabajos de pintura',
@@ -93,51 +94,63 @@ export default defineI18nConfig(() => ({
                         list2: 'Imprimar',
                         list3: 'Empapelar',
                         list4: 'Pintar',
-                        list5: 'Barnizar'
+                        list5: 'Barnizar',
+                        list6: 'Revestimiento decorativo de paredes',
+                        list7: 'Barnizado',
+                        list8: 'Lacado'
                     },
                     boxFive: {
                         headline: 'Alicatado',
                         list: 'Eliminación de viejos azulejos',
                         list2: 'Preparación de paredes para el alicatado',
-                        list3: 'Colocación de azulejos'
+                        list3: 'Colocación de azulejos',
+                        list4: 'Juntas',
+                        list5: 'Juntas',
+                        list6: 'Juntas',
+                        list7: 'Juntas'
                     },
                     boxSix: {
                         headline: 'Trabajos de terreno',
                         list: 'Nivelación de suelos irregulares',
                         list2: 'Retirada de pavimento',
-                        list3: 'Colocación de lámina, parquet, suelo vinílico y azulejo'
+                        list3: 'Colocación de lámina, parquet, suelo vinílico y azulejo',
+                        list4: 'Colocación de lámina'
                     },
                     boxSeven: {
                         headline: 'Monataje de cocina',
                         list: 'Modificación de exposiciones de cocinas existentes',
                         list2: 'Adaptación de muebles y encimeras',
-                        list3: 'Montaje profesional de muebles',
-                        list4: 'Diseño conceptual de estudios de cocina'
+                        list3: 'Montaje profesional de muebles'
                     },
                     boxEight: {
                         headline: 'Montaje de muebles',
                         list: 'Montaje profesional de muebles',
-                        list2: 'Modificación de muebles'
+                        list2: 'Modificación de muebles',
+                        list3: 'Instalación de electrodomésticos',
+                        list4: 'Creación y diseño de estudios de cocina'
                     },
                     boxNine: {
                         headline: 'Trabajos decorativos',
                         list: 'Colocación de etiquetas de precio',
-                        list2: 'Instalación de iluminación',
-                        list3: 'Colocación de paneles publicitarios'
+                        list2: 'Instalación de iluminación'
                     },
                     boxTen: {
                         headline: 'Trabajos gráficos',
-                        list: 'Colocación de materiales publicitarios e informativos'
+                        list: 'Colocación de materiales publicitarios e informativos',
+                        list2: 'Colocación de iluminación',
+                        list3: 'Colocación de paneles publicitarios',
+                        list4: 'Colocación de iluminación',
+                        list5: 'Colocación de iluminación'
                     },
                     boxEleven: {
                         headline: 'Presentación de mercancía y logística',
-                       list: 'Llenar y vaciar áreas de venta',
-                       list2: 'Colocación de mercancía'
+                        list: 'Llenar y vaciar áreas de venta',
+                        list2: 'Colocación de mercancía'
                     },
                     boxTwelve: {
                         headline: 'Trabajos de costura',
-                       list: 'Fabricación de cortinas y textiles',
-                       list2: 'Fabricación de diferentes elementos decorativos'
+                        list: 'Fabricación de cortinas y textiles',
+                        list2: 'Fabricación de diferentes elementos decorativos'
                     }
                 }
             },
@@ -603,7 +616,7 @@ export default defineI18nConfig(() => ({
                     name: 'Jemal Gorgiladze',
                     ocupation: 'Geschäftsführer'
                 },
-                text: 'Die Firma Sambawood S.L. hat ihren Sitz in Spanien und ein Projektbüro in Bielefeld, Deutschland. Sambawood S.L blickt auf insgesamt 20 Jahre Erfahrung zurück. Angefangen als Ein-Mann-Betrieb hat sich Sambawood zu einem zuverlässigen Unternehmen im Ladenbau entwickelt. Als Subunternehmer führen wir seit Jahrzehnten erfolgreich Projekte für eines der bekanntesten Möbelhäuser der Welt durch. Auch bei kleineren Projekten im privaten Bau- und Renovierungsbereich konnten wir zahlreiche Privatkunden von uns überzeugen.',
+                text: 'Die Firma Sambawood S.L. hat ihren Sitz in Spanien und ein Projektbüro in Bielefeld, Deutschland. Sambawood S.L. blickt auf insgesamt 20 Jahre Erfahrung zurück. Angefangen als Ein-Mann-Betrieb hat sich Sambawood zu einem zuverlässigen Unternehmen im Ladenbau entwickelt. Als Subunternehmer führen wir seit Jahrzehnten erfolgreich Projekte für eines der bekanntesten Möbelhäuser der Welt durch. Auch bei kleineren Projekten im privaten Bau- und Renovierungsbereich konnten wir zahlreiche Privatkunden von uns überzeugen.',
                 text2: 'Durch die vielfältigen Tätigkeiten im Ladenbau verfügen unsere Mitarbeiter über Know-how in vielen Bereichen. Unsere Kompetenzen sind breit gefächert und reichen von groben Arbeiten im Rohbau über feine Näharbeiten bis hin zur Montage von Möbeln.',
                 languages: 'Sprachen'
             },
@@ -620,17 +633,23 @@ export default defineI18nConfig(() => ({
                 },
                 sectionTwo: {
                     boxOne: {
+                        headline: 'Beratung',
+                        list: 'Individuelle Beratung bei der Planung',
+                        list2: 'Koordination von Subunternehmern',
+                        list3: 'Projektleitung und -management'
+                    },
+                    boxTwo: {
                         headline: 'Deckenarbeiten',
                         list: 'Änderung und Anpassung bestehender Decken',
                         list2: 'Ein- Ausbau unterschiedlicher Deckensysteme'
                     },
-                    boxTwo: {
+                    boxThree: {
                         headline: 'Markthallenbau',
                         list: 'Montage und Demontage von Regalsystemen',
                         list2: 'Aufstellung von Zwischenwänden',
                         list3: 'Warenlegung'
                     },
-                    boxThree: {
+                    boxFour: {
                         headline: 'Wandarbeiten',
                         list: 'Anfertigung und Aufbau von Ausstellungswänden',
                         list2: 'Einbau von Türen, Fenstern, etc.',
@@ -641,7 +660,7 @@ export default defineI18nConfig(() => ({
                         list7: 'Faay Wände',
                         list8: 'Rigipswände'
                     },
-                    boxFour: {
+                    boxFive: {
                         headline: 'Malerarbeiten',
                         list: 'Oberflächenvorbereitung',
                         list2: 'Spachteln',
@@ -651,36 +670,30 @@ export default defineI18nConfig(() => ({
                         list6: 'Dekorative Wandverkleidung',
                         list7: 'Lackieren'
                     },
-                    boxFive: {
+                    boxSix: {
                         headline: 'Fliesenarbeiten',
                         list: 'Entfernung alter Fliesen',
                         list2: 'Vorbereitungsarbeiten für die Fliesenverlegung',
                         list3: 'Verlegearbeiten',
                         list4: 'Verfugen'
                     },
-                    boxSix: {
+                    boxSeven: {
                         headline: 'Bodenarbeiten',
                         list: 'Ausgleich von unebenen Böden',
                         list2: 'Entfernung alter Bodenbeläge',
                         list3: 'Verlegen von Laminat, Parkett, Kunststoffbelägen und Fliesen'
                     },
-                    boxSeven: {
+                    boxEight: {
                         headline: 'Küchenmontage',
                         list: 'Änderungsarbeiten an bestehenden Küchenausstellungen',
                         list2: 'Änderung von Möbeln und Arbeitsplatten',
                         list3: 'Installation von Elektrogeräten',
                         list4: 'Konzeptionelle Erstellung und Gestaltung von Küchenstudios'
                     },
-                    boxEight: {
+                    boxNine: {
                         headline: 'Möbelmontage',
                         list: 'Professionelle Montage von Einzelstücken oder Festelementen',
-                        list2: 'Ein- und Anpassungsarbeiten von Einrichtungsteilen oder Möbeln'
-                    },
-                    boxNine: {
-                        headline: 'Dekorationsarbeiten',
-                        list: 'Anbringen von Preisschildern und -auszeichnungen',
-                        list2: 'Anbringen von Beleuchtung',
-                        list3: 'Aufstellen von Werbetafeln'
+                        list2: '•	Ein- und Anpassungsarbeiten von Einrichtungsteilen oder Möbeln'
                     },
                     boxTen: {
                         headline: 'Raumgestaltung',
@@ -716,7 +729,7 @@ export default defineI18nConfig(() => ({
             references: {
                 headline: 'Referenzen',
                 sectionOne: {
-                    text: 'Sambawood S.L hat in den letzten Jahren an zahlreichen nationalen und internationalen Projekten als Subunternehmer mitgewirkt. Die folgende Liste gibt Ihnen einen Überblick über unsere größten Projekte. Wir sind sicher, dass auch Sie schon unbewusst mit unserer Arbeit in Berührung gekommen sind. Gerne stellen wir Ihnen unsere Projekte in einem persönlichen Gespräch vor.',
+                    text: 'Sambawood S.L. hat in den letzten Jahren an zahlreichen nationalen und internationalen Projekten als Subunternehmer mitgewirkt. Die folgende Liste gibt Ihnen einen Überblick über unsere größten Projekte. Wir sind sicher, dass auch Sie schon unbewusst mit unserer Arbeit in Berührung gekommen sind. Gerne stellen wir Ihnen unsere Projekte in einem persönlichen Gespräch vor.',
                     table: {
                         year: '2004',
                         list: {
@@ -1164,7 +1177,7 @@ export default defineI18nConfig(() => ({
                     name: 'Jemal Gorgiladze',
                     ocupation: 'Managing director'
                 },
-                text: 'The company Sambawood S.L is based in Spain and has a project office in Bielefeld, Germany. Sambawood S.L looks back on a total of 20 years of experience. Starting as a one-man business, Sambawood S.L has developed into a reliable shopfitting company. As a subcontractor, we have been successfully carrying out projects for one of the best-known furniture stores in the world for decades. We were also able to convince numerous private customers to work with us on smaller projects in the private construction and renovation sector.',
+                text: 'The company Sambawood S.L. is based in Spain and has a project office in Bielefeld, Germany. Sambawood S.L. looks back on a total of 20 years of experience. Starting as a one-man business, Sambawood S.L. has developed into a reliable shopfitting company. As a subcontractor, we have been successfully carrying out projects for one of the best-known furniture stores in the world for decades. We were also able to convince numerous private customers to work with us on smaller projects in the private construction and renovation sector.',
                 text2: 'Due to the diverse activities in shop fitting, our employees have know-how in many areas. Our skills are broad and range from rough work in shell construction to fine sewing work and assembling furniture.',
                 languages: 'Languages'
             },
@@ -1181,17 +1194,23 @@ export default defineI18nConfig(() => ({
                 },
                 sectionTwo: {
                     boxOne: {
-                        headline: 'Ceiling works',
-                      list: 'Modification and adaptation of existing ceilings',
-                      list2: 'Installation and removal of different ceiling systems'
+                        headline: 'Advice',
+                        list: 'Individual advice on planning',
+                        list2: 'Coordination of subcontractors',
+                        list3: 'Project leadership and management'
                     },
                     boxTwo: {
+                        headline: 'Ceiling work',
+                        list: 'Modification and adaptation of existing ceilings',
+                        list2: 'Installation and removal of different ceiling systems'
+                    },
+                    boxThree: {
                         headline: 'Market hall construction',
                         list: 'Assembly and dismantling of shelving systems.',
                         list2: 'Installation of partition walls',
                         list3: 'Laying of goods'
                     },
-                    boxThree: {
+                    boxFour: {
                         headline: 'Wall work',
                         list: 'Production and construction of exhibition walls',
                         list2: 'Installation of doors, windows, etc.',
@@ -1202,7 +1221,7 @@ export default defineI18nConfig(() => ({
                         list7: 'Faay walls',
                         list8: 'Drywalls'
                     },
-                    boxFour: {
+                    boxFive: {
                         headline: 'Painting work',
                         list: 'Surface preparation',
                         list2: 'Spackling',
@@ -1212,32 +1231,32 @@ export default defineI18nConfig(() => ({
                         list6: 'Decorative wall cladding',
                         list7: 'Varnishing'
                     },
-                    boxFive: {
+                    boxSix: {
                         headline: 'Tile work',
                         list: 'Removal of old tiles',
                         list2: 'Preparatory work for tile installation',
                         list3: 'Tile laying',
                         list4: 'Grouting'
                     },
-                    boxSix: {
+                    boxSeven: {
                         headline: 'Ground work',
                         list: 'Compensating uneven floors',
                         list2: 'Removal of old floor coverings',
                         list3: 'Laying laminate, parquet, plastic flooring and tiles'
                     },
-                    boxSeven: {
+                    boxEight: {
                         headline: 'Kitchen assembly',
                         list: 'Modification work to existing kitchen exhibitions',
                         list2: 'Changeng of furniture and countertops',
                         list3: 'Installation of electrical appliances',
                         list4: 'Conceptual creation and design of kitchen studios'
                     },
-                    boxEight: {
+                    boxNine: {
                         headline: 'Furniture assembly',
                         list: 'Professional assembly of individual pieces or fixed elements',
                         list2: 'Installation and adjustment work of furnishings or furniture'
                     },
-                    boxNine: {
+                    boxTen: {
                         headline: 'Interior design',
                         list: 'Store window design',
                         list2: 'Retail space design',
@@ -1245,20 +1264,15 @@ export default defineI18nConfig(() => ({
                         list4: 'Design of showrooms and exhibition booth',
                         list5: 'Installation of lighting'
                     },
-                    boxTen: {
+                    boxEleven: {
                         headline: 'Presentation of goods and logistics',
                         list: 'Laying of goods',
-                        list2: 'Setting up and clearing sales spaces '
-                    },
-                    boxEleven: {
-                        headline: 'Presentation of merchandise and logistics',
-                      list: 'Positioning merchandise',
-                      list2: 'Filling and emptying sales areas'
+                        list2: 'Setting up and clearing sales spaces'
                     },
                     boxTwelve: {
                         headline: 'Sewing works',
-                      list: 'Alterations to curtains and drapes',
-                      list2: 'Production of decorative fabrics'
+                        list: 'Alterations to curtains and drapes',
+                        list2: 'Production of decorative fabrics'
                     }
                 }
             },

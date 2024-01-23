@@ -19,8 +19,7 @@
                 'home.sectionTwo.boxTwo.list7',
                 'home.sectionTwo.boxTwo.list8',
                 'home.sectionTwo.boxTwo.list9',
-                'home.sectionTwo.boxTwo.list10',
-                'home.sectionTwo.boxTwo.list11'
+                'home.sectionTwo.boxTwo.list10'
             ]
         },
         { 

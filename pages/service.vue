@@ -10,7 +10,8 @@
             image: '1_ucyr4i.jpg',
             list: [
                 'services.sectionTwo.boxOne.list',
-                'services.sectionTwo.boxOne.list2'
+                'services.sectionTwo.boxOne.list2',
+                'services.sectionTwo.boxOne.list3'
             ]
         },
         {  
@@ -18,8 +19,7 @@
             image: '2_jriqxj.jpg',
             list: [
                 'services.sectionTwo.boxTwo.list',
-                'services.sectionTwo.boxTwo.list2',
-                'services.sectionTwo.boxTwo.list3'
+                'services.sectionTwo.boxTwo.list2'
             ]
         },
         {  
@@ -27,7 +27,8 @@
             image: '3_tmnkej.jpg',
             list: [
                 'services.sectionTwo.boxThree.list',
-                'services.sectionTwo.boxThree.list2'
+                'services.sectionTwo.boxThree.list2',
+                'services.sectionTwo.boxThree.list3'
             ]
         },
         {  
@@ -38,7 +39,10 @@
                 'services.sectionTwo.boxFour.list2',
                 'services.sectionTwo.boxFour.list3',
                 'services.sectionTwo.boxFour.list4',
-                'services.sectionTwo.boxFour.list5'
+                'services.sectionTwo.boxFour.list5',
+                'services.sectionTwo.boxFour.list6',
+                'services.sectionTwo.boxFour.list7',
+                'services.sectionTwo.boxFour.list8'
             ]
         },
         {  
@@ -47,7 +51,11 @@
             list: [
                 'services.sectionTwo.boxFive.list',
                 'services.sectionTwo.boxFive.list2',
-                'services.sectionTwo.boxFive.list3'
+                'services.sectionTwo.boxFive.list3',
+                'services.sectionTwo.boxFive.list4',
+                'services.sectionTwo.boxFive.list5',
+                'services.sectionTwo.boxFive.list6',
+                'services.sectionTwo.boxFive.list7'
             ]
         },
         {  
@@ -56,7 +64,8 @@
             list: [
                 'services.sectionTwo.boxSix.list',
                 'services.sectionTwo.boxSix.list2',
-                'services.sectionTwo.boxSix.list3'
+                'services.sectionTwo.boxSix.list3',
+                'services.sectionTwo.boxSix.list4'
             ]
         },
         {  
@@ -65,8 +74,7 @@
             list: [
                 'services.sectionTwo.boxSeven.list',
                 'services.sectionTwo.boxSeven.list2',
-                'services.sectionTwo.boxSeven.list3',
-                'services.sectionTwo.boxSeven.list4'
+                'services.sectionTwo.boxSeven.list3'
             ]
         },
         {  
@@ -74,7 +82,9 @@
             image: '8_rmggom.jpg',
             list: [
                 'services.sectionTwo.boxEight.list',
-                'services.sectionTwo.boxEight.list2'
+                'services.sectionTwo.boxEight.list2',
+                'services.sectionTwo.boxEight.list3',
+                'services.sectionTwo.boxEight.list4'
             ]
         },
         {  
@@ -82,15 +92,18 @@
             image: '9_ayukf9.jpg',
             list: [
                 'services.sectionTwo.boxNine.list',
-                'services.sectionTwo.boxNine.list2',
-                'services.sectionTwo.boxNine.list3'
+                'services.sectionTwo.boxNine.list2'
             ]
         },
         {  
             headline: 'services.sectionTwo.boxTen.headline',
             image: '10_x5umxf.jpg',
             list: [
-                'services.sectionTwo.boxTen.list'
+                'services.sectionTwo.boxTen.list',
+                'services.sectionTwo.boxTen.list2',
+                'services.sectionTwo.boxTen.list3',
+                'services.sectionTwo.boxTen.list4',
+                'services.sectionTwo.boxTen.list5'
             ]
         },
         {  

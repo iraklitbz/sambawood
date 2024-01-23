@@ -16,7 +16,7 @@
             <li
                 class="text-white/50"
             >
-                Sambawood 2020
+                Sambawood 2024
             </li>
             <li
                 v-for="(menu, index) in footerMenus"
