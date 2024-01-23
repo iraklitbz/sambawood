@@ -10,8 +10,7 @@
             image: '1_ucyr4i.jpg',
             list: [
                 'services.sectionTwo.boxOne.list',
-                'services.sectionTwo.boxOne.list2',
-                'services.sectionTwo.boxOne.list3'
+                'services.sectionTwo.boxOne.list2'
             ]
         },
         {  
@@ -19,7 +18,8 @@
             image: '2_jriqxj.jpg',
             list: [
                 'services.sectionTwo.boxTwo.list',
-                'services.sectionTwo.boxTwo.list2'
+                'services.sectionTwo.boxTwo.list2',
+                'services.sectionTwo.boxTwo.list3'
             ]
         },
         {  
@@ -28,7 +28,12 @@
             list: [
                 'services.sectionTwo.boxThree.list',
                 'services.sectionTwo.boxThree.list2',
-                'services.sectionTwo.boxThree.list3'
+                'services.sectionTwo.boxThree.list3',
+                'services.sectionTwo.boxThree.list4',
+                'services.sectionTwo.boxThree.list5',
+                'services.sectionTwo.boxThree.list6',
+                'services.sectionTwo.boxThree.list7',
+                'services.sectionTwo.boxThree.list8'
             ]
         },
         {  
@@ -41,8 +46,7 @@
                 'services.sectionTwo.boxFour.list4',
                 'services.sectionTwo.boxFour.list5',
                 'services.sectionTwo.boxFour.list6',
-                'services.sectionTwo.boxFour.list7',
-                'services.sectionTwo.boxFour.list8'
+                'services.sectionTwo.boxFour.list7'
             ]
         },
         {  
@@ -52,10 +56,7 @@
                 'services.sectionTwo.boxFive.list',
                 'services.sectionTwo.boxFive.list2',
                 'services.sectionTwo.boxFive.list3',
-                'services.sectionTwo.boxFive.list4',
-                'services.sectionTwo.boxFive.list5',
-                'services.sectionTwo.boxFive.list6',
-                'services.sectionTwo.boxFive.list7'
+                'services.sectionTwo.boxFive.list4'
             ]
         },
         {  
@@ -64,8 +65,7 @@
             list: [
                 'services.sectionTwo.boxSix.list',
                 'services.sectionTwo.boxSix.list2',
-                'services.sectionTwo.boxSix.list3',
-                'services.sectionTwo.boxSix.list4'
+                'services.sectionTwo.boxSix.list3'
             ]
         },
         {  
@@ -74,7 +74,8 @@
             list: [
                 'services.sectionTwo.boxSeven.list',
                 'services.sectionTwo.boxSeven.list2',
-                'services.sectionTwo.boxSeven.list3'
+                'services.sectionTwo.boxSeven.list3',
+                'services.sectionTwo.boxSeven.list4'
             ]
         },
         {  
@@ -82,9 +83,7 @@
             image: '8_rmggom.jpg',
             list: [
                 'services.sectionTwo.boxEight.list',
-                'services.sectionTwo.boxEight.list2',
-                'services.sectionTwo.boxEight.list3',
-                'services.sectionTwo.boxEight.list4'
+                'services.sectionTwo.boxEight.list2'
             ]
         },
         {  
@@ -92,7 +91,10 @@
             image: '9_ayukf9.jpg',
             list: [
                 'services.sectionTwo.boxNine.list',
-                'services.sectionTwo.boxNine.list2'
+                'services.sectionTwo.boxNine.list2',
+                'services.sectionTwo.boxNine.list3',
+                'services.sectionTwo.boxNine.list4',
+                'services.sectionTwo.boxNine.list5'
             ]
         },
         {  
@@ -100,10 +102,7 @@
             image: '10_x5umxf.jpg',
             list: [
                 'services.sectionTwo.boxTen.list',
-                'services.sectionTwo.boxTen.list2',
-                'services.sectionTwo.boxTen.list3',
-                'services.sectionTwo.boxTen.list4',
-                'services.sectionTwo.boxTen.list5'
+                'services.sectionTwo.boxTen.list2'
             ]
         },
         {  
@@ -232,7 +231,7 @@
                         <li
                             v-for="(element, index) in service.list"
                             :key="index"
-                            class="py-1 px-2 rounded-md"
+                            class="py-1 px-2 rounded-md break-words"
                             :class="index % 2 === 0 ? 'bg-black/5' : ''"
                         >
                             {{

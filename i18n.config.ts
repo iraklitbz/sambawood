@@ -137,10 +137,7 @@ export default defineI18nConfig(() => ({
                     boxTen: {
                         headline: 'Trabajos gráficos',
                         list: 'Colocación de materiales publicitarios e informativos',
-                        list2: 'Colocación de iluminación',
-                        list3: 'Colocación de paneles publicitarios',
-                        list4: 'Colocación de iluminación',
-                        list5: 'Colocación de iluminación'
+                        list2: 'Colocación de iluminación'
                     },
                     boxEleven: {
                         headline: 'Presentación de mercancía y logística',
@@ -633,23 +630,17 @@ export default defineI18nConfig(() => ({
                 },
                 sectionTwo: {
                     boxOne: {
-                        headline: 'Beratung',
-                        list: 'Individuelle Beratung bei der Planung',
-                        list2: 'Koordination von Subunternehmern',
-                        list3: 'Projektleitung und -management'
-                    },
-                    boxTwo: {
                         headline: 'Deckenarbeiten',
                         list: 'Änderung und Anpassung bestehender Decken',
                         list2: 'Ein- Ausbau unterschiedlicher Deckensysteme'
                     },
-                    boxThree: {
+                    boxTwo: {
                         headline: 'Markthallenbau',
                         list: 'Montage und Demontage von Regalsystemen',
                         list2: 'Aufstellung von Zwischenwänden',
                         list3: 'Warenlegung'
                     },
-                    boxFour: {
+                    boxThree: {
                         headline: 'Wandarbeiten',
                         list: 'Anfertigung und Aufbau von Ausstellungswänden',
                         list2: 'Einbau von Türen, Fenstern, etc.',
@@ -660,7 +651,7 @@ export default defineI18nConfig(() => ({
                         list7: 'Faay Wände',
                         list8: 'Rigipswände'
                     },
-                    boxFive: {
+                    boxFour: {
                         headline: 'Malerarbeiten',
                         list: 'Oberflächenvorbereitung',
                         list2: 'Spachteln',
@@ -670,38 +661,43 @@ export default defineI18nConfig(() => ({
                         list6: 'Dekorative Wandverkleidung',
                         list7: 'Lackieren'
                     },
-                    boxSix: {
+                    boxFive: {
                         headline: 'Fliesenarbeiten',
                         list: 'Entfernung alter Fliesen',
                         list2: 'Vorbereitungsarbeiten für die Fliesenverlegung',
                         list3: 'Verlegearbeiten',
                         list4: 'Verfugen'
                     },
-                    boxSeven: {
+                    boxSix: {
                         headline: 'Bodenarbeiten',
                         list: 'Ausgleich von unebenen Böden',
                         list2: 'Entfernung alter Bodenbeläge',
                         list3: 'Verlegen von Laminat, Parkett, Kunststoffbelägen und Fliesen'
                     },
-                    boxEight: {
+                    boxSeven: {
                         headline: 'Küchenmontage',
                         list: 'Änderungsarbeiten an bestehenden Küchenausstellungen',
                         list2: 'Änderung von Möbeln und Arbeitsplatten',
                         list3: 'Installation von Elektrogeräten',
                         list4: 'Konzeptionelle Erstellung und Gestaltung von Küchenstudios'
                     },
-                    boxNine: {
+                    boxEight: {
                         headline: 'Möbelmontage',
                         list: 'Professionelle Montage von Einzelstücken oder Festelementen',
                         list2: '•	Ein- und Anpassungsarbeiten von Einrichtungsteilen oder Möbeln'
                     },
-                    boxTen: {
+                    boxNine: {
                         headline: 'Raumgestaltung',
                         list: 'Gestaltung von Schaufenster',
                         list2: 'Gestaltung von Verkaufsräumen',
                         list3: 'Gestaltung von Ausstellungsräumen',
                         list4: 'Gestaltung von Messeständen',
-                        list5: 'Anbringen von Beleuchtung'
+                        list5: 'Anbringen von Beleuchtung',
+                    },
+                    boxTen: {
+                        headline: 'Marketing / Kommunikation',
+                        list: 'Anbringen von Werbe- und Informationsmaterialien',
+                        list2: 'Anbringen von Preisschildern und -auszeichnungen'
                     },
                     boxEleven: {
                         headline: 'Warenpräsentation und Logistik',
@@ -1194,23 +1190,17 @@ export default defineI18nConfig(() => ({
                 },
                 sectionTwo: {
                     boxOne: {
-                        headline: 'Advice',
-                        list: 'Individual advice on planning',
-                        list2: 'Coordination of subcontractors',
-                        list3: 'Project leadership and management'
-                    },
-                    boxTwo: {
                         headline: 'Ceiling work',
                         list: 'Modification and adaptation of existing ceilings',
                         list2: 'Installation and removal of different ceiling systems'
                     },
-                    boxThree: {
+                    boxTwo: {
                         headline: 'Market hall construction',
                         list: 'Assembly and dismantling of shelving systems.',
                         list2: 'Installation of partition walls',
                         list3: 'Laying of goods'
                     },
-                    boxFour: {
+                    boxThree: {
                         headline: 'Wall work',
                         list: 'Production and construction of exhibition walls',
                         list2: 'Installation of doors, windows, etc.',
@@ -1221,7 +1211,7 @@ export default defineI18nConfig(() => ({
                         list7: 'Faay walls',
                         list8: 'Drywalls'
                     },
-                    boxFive: {
+                    boxFour: {
                         headline: 'Painting work',
                         list: 'Surface preparation',
                         list2: 'Spackling',
@@ -1231,38 +1221,43 @@ export default defineI18nConfig(() => ({
                         list6: 'Decorative wall cladding',
                         list7: 'Varnishing'
                     },
-                    boxSix: {
+                    boxFive: {
                         headline: 'Tile work',
                         list: 'Removal of old tiles',
                         list2: 'Preparatory work for tile installation',
                         list3: 'Tile laying',
                         list4: 'Grouting'
                     },
-                    boxSeven: {
+                    boxSix: {
                         headline: 'Ground work',
                         list: 'Compensating uneven floors',
                         list2: 'Removal of old floor coverings',
                         list3: 'Laying laminate, parquet, plastic flooring and tiles'
                     },
-                    boxEight: {
+                    boxSeven: {
                         headline: 'Kitchen assembly',
                         list: 'Modification work to existing kitchen exhibitions',
                         list2: 'Changeng of furniture and countertops',
                         list3: 'Installation of electrical appliances',
                         list4: 'Conceptual creation and design of kitchen studios'
                     },
-                    boxNine: {
+                    boxEight: {
                         headline: 'Furniture assembly',
                         list: 'Professional assembly of individual pieces or fixed elements',
                         list2: 'Installation and adjustment work of furnishings or furniture'
                     },
-                    boxTen: {
+                    boxNine: {
                         headline: 'Interior design',
-                        list: 'Store window design',
+                        list: 'store window design',
                         list2: 'Retail space design',
                         list3: 'Exhibition space design',
                         list4: 'Design of showrooms and exhibition booth',
                         list5: 'Installation of lighting'
+                    },
+                    boxTen: {
+                        headline: 'Marketing/Communication',
+                        list: 'Placing advertising and information materials',
+                        list2: 'Attaching price tags and labels'
                     },
                     boxEleven: {
                         headline: 'Presentation of goods and logistics',
