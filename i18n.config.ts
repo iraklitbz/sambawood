@@ -55,7 +55,7 @@ export default defineI18nConfig(() => ({
                     name: 'Jemal Gorgiladze',
                     ocupation: 'Director general'
                 },
-                text: 'La empresa Sambawood S.L. tiene su sede en España y cuenta con una oficina de proyectos en Bielefeld, Alemania. Con una trayectoria de mas de 20 años, Sambawood ha evolucionado desde sus inicios como un pequeño negocio unipersonal hasta convertirse en una empresa confiable especializada en diseño y construcción de espacios comerciales. En calidad de subcontratista, hemos llevado a cabo con éxito proyectos durante décadas para uno de los establecimientos de mobiliario y articulos del hogar más reconocidos a nivel mundial.',
+                text: 'La empresa Sambawood S.L. tiene su sede en España y cuenta con una oficina de proyectos en Bielefeld, Alemania. Con una trayectoria de mas de 20 años, Sambawood S.L. ha evolucionado desde sus inicios como un pequeño negocio unipersonal hasta convertirse en una empresa confiable especializada en diseño y construcción de espacios comerciales. En calidad de subcontratista, hemos llevado a cabo con éxito proyectos durante décadas para uno de los establecimientos de mobiliario y articulos del hogar más reconocidos a nivel mundial.',
                 text2: 'Además, hemos logrado ganarnos la confianza de numerosos clientes privados en proyectos más pequeños de construcción y renovación. Nuestro compromiso y experiencia respaldan nuestra reputación en ambos ámbitos. Las diversas actividades en el diseño y construcción de espacios comerciales han dotado a nuestros equipo de conocimientos especializados en diversas áreas. Nuestras competencias abarcan desde tareas fundamentales en la construcción hasta trabajos meticulosos de costura, llegando hasta la instalación de mobiliario. La versatilidad de nuestras habilidades nos permite abordar proyectos de manera integral y garantizar resultados de alta calidad en cada fase del proceso.',
                 languages: 'Idiomas'
             },
@@ -167,7 +167,7 @@ export default defineI18nConfig(() => ({
             references: {
                 headline: 'Referencias',
                 sectionOne: {
-                    text: 'Sambawood ha participado como subcontratista en numerosos proyectos nacionales e internacionales en los últimos años. La siguiente lista le proporciona una visión general de nuestros proyectos más grandes. Estamos seguros de que también usted ha estado en contacto con nuestro trabajo de manera inconsciente. Estaremos encantados de presentarle nuestros proyectos en una reunión personal.',
+                    text: 'Sambawood S.L. ha participado como subcontratista en numerosos proyectos nacionales e internacionales en los últimos años. La siguiente lista le proporciona una visión general de nuestros proyectos más grandes. Estamos seguros de que también usted ha estado en contacto con nuestro trabajo de manera inconsciente. Estaremos encantados de presentarle nuestros proyectos en una reunión personal.',
                     table: {
                         year: '2004',
                         list: {
