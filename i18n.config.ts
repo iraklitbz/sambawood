@@ -15,37 +15,37 @@ export default defineI18nConfig(() => ({
             home: {
                hero: {
                     bigHeadline: 'Montaje de tiendas',
-                    smallHeadline: 'coordinación de proyectos',
+                    smallHeadline: 'Coordinación de proyectos',
                     subHeadline: 'y más'
                },
                sectionOne: {
                     headline: '“El servicio significa ver todo el negocio a través de los ojos del cliente.” – Axel Haitzer',
-                    text: 'Este es nuestro lema porque siempre nos orientamos por sus planes y deseos para asegurar su satisfacción. Con nuestro equipo tiene un socio fiable y competente que trae conocimientos artesanales por su larga experiencia a nivel internacional. Durante más de 16 años realizamos negocios en el ámbito de gestión de proyectos y construcción retail, especialmente en cooperación con IKEA, y gestionamos tanto grandes proyectos como prequeños proyectos con una gran pasión. Nuestra amplia lista de referencia y el feedback de nuestros clientes lo demuestran.',
+                    text: 'Este es nuestro lema ya que refleja nuestro enfoque centrado en el cliente y su satisfacción. Eligiendo nuestro equipo, cuenta con un socio confiable y competente que aporta conocimientos artesanales Y técnicos,respaldados por una extensa experiencia a nivel internacional. Con más de 20 años de experiencia, nos hemos dedicado al ámbito de gestión de proyectos y construcción retail, destacando nuestra colaboración especializada con una de las mas grandes y reconocidas cadenas internacional de mobiliario y artículos para el hogar.Gestionamos con pasión proyectos de diversas escalas, desde grandes hasta pequeños. La validez de nuestra dedicación se refleja en nuestra extensa lista de referencias y el positivo feedback de nuestros clientes.',
                     text2: 'Estamos convencidos de que sus proyectos estarán en buenas manos, si eligen nuestra empresa.',
                     text3: '¿También le hemos convencido a usted?' 
                 },
                 sectionTwo: {
                     boxOne: {
-                        headline: 'Un equipo de montadores con experiencia internacional y una variedad de conocimientos lingüísticas',
-                        text: 'Nuestro equipo tiene una larga experiencia a causa de sus trabajos a nivel mundial. Además, se caracteriza por el dominio de al menos tres lenguas diferentes así que también podemos realizar una comunicación fluida en el extranjero.'
+                        headline: 'Un equipo con experiencia internacional y amplios conocimientos lingüísticos',
+                        text: 'Nuestro equipo cuenta con una amplia experiencia internacional. Además, se destaca por dominar al menos tres idiomas diferentes, lo cual nos permite una comunicación fluida incluso en el extranjero.'
                     },
                     boxTwo: {
                         headline: 'Nuestros servicios de un vistazo',
-                        text: 'Nuestro equipo experimentado se dedica a diferentes ámbitos de trabajo para transformar ideas en espacios de calidad. Estas son algunas de nuestras actividades profesionales: ',
-                        list:  'Diseño de interiores',
-                        list2: 'Construcción retail',
-                        list3: 'Renovación y saneamiento',
-                        list4: 'Montaje y desmontaje profesional',
-                        list5: 'Iluminación',
-                        list6: 'Decoración',
-                        list7: 'Trabajos gráficos',
-                        list8 : 'Presentación de mercancía',
-                        list9: 'Montaje de paredes',
-                        list10: 'Trabajos de pintura'
+                        text: 'Nuestro equipo altamente capacitado se especializa en diversas áreas laborales para materializar ideas en entornos de alta calidad. A continuación, presentamos algunas de nuestras actividades profesionales:',
+                        list:  'Construcción retail',
+                        list2: 'Diseño de interiores',
+                        list3: 'Decoración',
+                        list4: 'Iluminación',
+                        list5: 'Montaje de paredes',
+                        list6: 'Presentación de mercancías',
+                        list7: 'Renovación y saneamiento',
+                        list8 : 'Trabajos gráficos',
+                        list9: 'Trabajos de pintura',
+                        list10: 'Trabajos de suelo'
                     },
                     boxThree: {
                         headline: 'Alta resistencia y flexibilidad.',
-                        text: 'Estas son dos características que nos distinguen de otras empresas porque siempre nos esforzamos por la satisfacción de nuestros clientes, si bien las condiciones son difíciles. Muchas veces no es fácil. Sin embargo, no es imposible terminar a tiempo un proyecto de acuerdo con los planes y deseos de nuestros clientes en situaciones críticas. Nos adaptamos a las condiciones determinadas en todos los respectos: Puede contar con nosotros a cualquier hora. Además, estamos dispuestos a realizar trabajo adicional, si es necesario. '
+                        text: 'Estas son dos características distintivas que nos destacan entre otras empresas, ya que dedicamos un constante esfuerzo a garantizar la satisfacción de nuestros clientes, incluso en condiciones desafiantes. A menudo, la tarea no es sencilla, pero no por ello imposible. En situaciones críticas, demostramos la capacidad de completar proyectos según los planes y deseos de nuestros clientes, adaptándonos a las condiciones variables en todos los aspectos. Estamos disponibles en todo momento y dispuestos a realizar trabajo y horas adicionales si es necesario. Puede confiar en nuestra dedicación y flexibilidad para lograr resultados excepcionales.'
                     }
                },
             },
@@ -55,99 +55,101 @@ export default defineI18nConfig(() => ({
                     name: 'Jemal Gorgiladze',
                     ocupation: 'Director general'
                 },
-                text: 'Sambawood tiene su sede en España, pero la oficina se encuentra en Alemania. La empresa se basa en 16 años de experiencia. Comenzó como una empresa alemana. Ahora trabaja principalmente como subcontratista para varios proyectos de IKEA. También nos dedicamos al saneamiento y a la renovación de edificios privados.',
-                text2: 'Debido a las actividades multifacéticas en la construcción retail, la compañía aporta experiencia en numerosas áreas. Nuestras habilidades son diversas y van desde trabajos de construcción hasta costura y montaje de muebles.',
+                text: 'La empresa Sambawood S.L. tiene su sede en España y cuenta con una oficina de proyectos en Bielefeld, Alemania. Con una trayectoria de mas de 20 años, Sambawood ha evolucionado desde sus inicios como un pequeño negocio unipersonal hasta convertirse en una empresa confiable especializada en diseño y construcción de espacios comerciales. En calidad de subcontratista, hemos llevado a cabo con éxito proyectos durante décadas para uno de los establecimientos de mobiliario y articulos del hogar más reconocidos a nivel mundial.',
+                text2: 'Además, hemos logrado ganarnos la confianza de numerosos clientes privados en proyectos más pequeños de construcción y renovación. Nuestro compromiso y experiencia respaldan nuestra reputación en ambos ámbitos. Las diversas actividades en el diseño y construcción de espacios comerciales han dotado a nuestros equipo de conocimientos especializados en diversas áreas. Nuestras competencias abarcan desde tareas fundamentales en la construcción hasta trabajos meticulosos de costura, llegando hasta la instalación de mobiliario. La versatilidad de nuestras habilidades nos permite abordar proyectos de manera integral y garantizar resultados de alta calidad en cada fase del proceso.',
                 languages: 'Idiomas'
             },
             services: {
                 headline: 'Servicios',
                 sectionOne: {
                     headline: 'Sambawood: una empresa con una variedad profesional',
-                    text: 'Nuestra empresa promueve un asesoramiento profesional para la realización de proyectos en diferentes ámbitos. Colaboramos con nuestros clientes para encontrar las mejores soluciones posibles. Para ello, utilizamos nuestras competencias de planificación y todas nuestras experiencias manuales para asegurar la satisfacción de nuestros clientes.',
-                    text2: 'Acompañamos a nuestros clientes desde la planificación hasta la realización y siempre nos esforzamos para realizar los proyectos y planes según las necesidades de nuestros clientes. Siempre ejercemos nuestros trabajos de manera profesional y diligente, incluso si las condiciones son duras. Por ello, nos caracterizamos por una alta flexibilidad y resistencia.',
+                    text: 'Nuestra empresa se distingue por ofrecer asesoramiento profesional en la ejecución de proyectos en diversos ámbitos. Colaboramos estrechamente con nuestros clientes para identificar y implementar las soluciones más óptimas. Utilizamos nuestras habilidades de planificación y toda nuestra experiencia práctica para garantizar la satisfacción de nuestros clientes.',
+                    text2: 'Desde la fase inicial de planificación hasta la ejecución final, acompañamos a nuestros clientes, asegurándonos de adaptar cada proyecto y plan a sus necesidades específicas. Mantenemos un enfoque profesional y diligente en todas nuestras actividades, incluso en condiciones adversas. Esta dedicación se traduce en una destacada flexibilidad y resistencia que nos caracterizan como profesionales comprometidos con la excelencia.',
                     headlineTwo: 'Asesoramiento',
-                    list: 'Asesoramiento individual en la planificación',
-                    list2: 'Coordinación de subcontratistas',
-                    list3: 'Liderazgo y gestión de proyectos'
+                    list: 'Brindamos asesoramiento personalizado en la fase de planificación.',
+                    list2: 'Coordinamos eficientemente a los subcontratistas para garantizar la ejecución fluida del proyecto.',
+                    list3: 'Ofrecemos liderazgo y gestión integral de proyectos para asegurar resultados exitosos.'
                 },
                 sectionTwo: {
                     boxOne: {
                         headline: 'Trabajos de techos',
-                        list: 'Modificación y adaptación de paredes',
-                        list2: 'Instalación de sistemas de techo diferentes',
-                        list3: 'Instalación de iluminación'
+                        list: 'Modificación y adaptación techos existentes',
+                        list2: 'Implementación especializada de diversos sistemas de techado'
                     },
                     boxTwo: {
                         headline: 'Construcción de mercado interior',
                         list: 'Montaje y desmontaje de sistemas de estanterías',
-                        list2: 'Colocación de tabiques'
+                        list2: 'Instalación de tabiques divisorios',
+                        list3: 'Colocación y presentaciónde mercancías'
                     },
                     boxThree: {
-                        headline: 'Trabajos de pared',
-                        list: 'Producción y construcción de paredes de exposición',
-                        list2: 'Instalación de puertas, ventanas, etc.',
-                        list3: 'Paredes de ladrillo'
+                        headline: 'Trabajos de paredes',
+                        list: 'Fabricación y montaje de paredes de exposición',
+                        list2: 'Construcción de paredes de ladrillo',
+                        list3: 'Construcción de paredes de hormigón',
+                        list4: 'Construcción de paredes de madera',
+                        list5: 'Construcción de paredes de sistema Faay',
+                        list6: 'Construcción de paredes de pladur',
+                        list7: 'Instalación de puertas, ventanas, etc.',
+                        list8: 'Instalación de paredes de vidrio'
                     },
                     boxFour: {
                         headline: 'Trabajos de pintura',
-                        list: 'Lucir',
-                        list2: 'Imprimar',
-                        list3: 'Empapelar',
-                        list4: 'Pintar',
-                        list5: 'Barnizar',
-                        list6: 'Revestimiento decorativo de paredes',
-                        list7: 'Barnizado',
-                        list8: 'Lacado'
+                        list: 'Preparación de Superficies',
+                        list2: 'Enmasillado',
+                        list3: 'Imprimación',
+                        list4: 'Empapelado',
+                        list5: 'Pintura',
+                        list6: 'Revestimiento Decorativo de Paredes',
+                        list7: 'Lacado'
                     },
                     boxFive: {
                         headline: 'Alicatado',
-                        list: 'Eliminación de viejos azulejos',
-                        list2: 'Preparación de paredes para el alicatado',
-                        list3: 'Colocación de azulejos',
-                        list4: 'Juntas',
-                        list5: 'Juntas',
-                        list6: 'Juntas',
-                        list7: 'Juntas'
+                        list: 'Retirada de Azulejos Antiguos',
+                        list2: 'Preparación de Superficies',
+                        list3: 'Instalación de Azulejos',
+                        list4: 'Lechadeo'
                     },
                     boxSix: {
-                        headline: 'Trabajos de terreno',
-                        list: 'Nivelación de suelos irregulares',
-                        list2: 'Retirada de pavimento',
-                        list3: 'Colocación de lámina, parquet, suelo vinílico y azulejo',
-                        list4: 'Colocación de lámina'
+                        headline: 'Trabajos de suelos',
+                        list: 'Nivelación de Superficies Irregulares',
+                        list2: 'Retirada de Revestimientos Antiguos de Suelo',
+                        list3: 'Instalación de Laminado, Parquet, Revestimientos de Vinilo y Azulejos'
                     },
                     boxSeven: {
                         headline: 'Monataje de cocina',
-                        list: 'Modificación de exposiciones de cocinas existentes',
-                        list2: 'Adaptación de muebles y encimeras',
-                        list3: 'Montaje profesional de muebles'
+                        list: 'Trabajos de modificación en exhibiciones de cocina existentes ',
+                        list2: 'Modificación de muebles y encimeras ',
+                        list3: 'Instalación de electrodomésticos ',
+                        list4: 'Diseño conceptual y creación de estudios de cocina'
                     },
                     boxEight: {
                         headline: 'Montaje de muebles',
-                        list: 'Montaje profesional de muebles',
-                        list2: 'Modificación de muebles',
-                        list3: 'Instalación de electrodomésticos',
-                        list4: 'Creación y diseño de estudios de cocina'
+                        list: 'Montaje profesional de piezas individuales móviles o elementos fijos',
+                        list2: 'Trabajos de ensamblaje y ajuste de piezas de mobiliario o muebles'
                     },
                     boxNine: {
-                        headline: 'Trabajos decorativos',
-                        list: 'Colocación de etiquetas de precio',
-                        list2: 'Instalación de iluminación'
+                        headline: 'Diseño de espacios',
+                        list: 'Diseño de escaparates',
+                        list2: 'Diseño de espacios de venta',
+                        list3: 'Diseño de salas de exposiciones',
+                        list4: 'Diseño de stands de ferias',
+                        list5: 'Instalación de iluminación'
                     },
                     boxTen: {
-                        headline: 'Trabajos gráficos',
-                        list: 'Colocación de materiales publicitarios e informativos',
-                        list2: 'Colocación de iluminación'
+                        headline: 'Marketing y comunicación',
+                        list: 'Colocación de material publicitario e informativo',
+                        list2: 'Colocación de etiquetas de precios y de señalización'
                     },
                     boxEleven: {
-                        headline: 'Presentación de mercancía y logística',
-                        list: 'Llenar y vaciar áreas de venta',
-                        list2: 'Colocación de mercancía'
+                        headline: 'Presentación de mercancias y logística',
+                        list: 'Colocación de productos e mercancias',
+                        list2: 'Abastecimiento y desabastecimiento de puntos de venta'
                     },
                     boxTwelve: {
                         headline: 'Trabajos de costura',
-                        list: 'Fabricación de cortinas y textiles',
-                        list2: 'Fabricación de diferentes elementos decorativos'
+                        list: 'Modificaciones en cortinas y cortinajes',
+                        list2: 'Confección de tejidos decorativos'
                     }
                 }
             },
@@ -165,7 +167,7 @@ export default defineI18nConfig(() => ({
             references: {
                 headline: 'Referencias',
                 sectionOne: {
-                    text: 'Durante les últimas años , Sambawood ha participado como subcontratista en numerosos proyectos nacionales e internacionales de IKEA que aparecen en la siguiente tabla. Además de los grandes proyectos , también se han implementado proyectos pequeños, pero, no obstante , no se mencionan aquí.',
+                    text: 'Sambawood ha participado como subcontratista en numerosos proyectos nacionales e internacionales en los últimos años. La siguiente lista le proporciona una visión general de nuestros proyectos más grandes. Estamos seguros de que también usted ha estado en contacto con nuestro trabajo de manera inconsciente. Estaremos encantados de presentarle nuestros proyectos en una reunión personal.',
                     table: {
                         year: '2004',
                         list: {
