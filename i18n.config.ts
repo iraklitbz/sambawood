@@ -1287,7 +1287,7 @@ export default defineI18nConfig(() => ({
             references: {
                 headline: 'Credentials',
                 sectionOne: {
-                    text: 'Sambawood SL has worked as a subcontractor on numerous national and international projects in recent years. The following list gives you an overview of our largest projects. We are sure that you have already unconsciously come into contact with our work. We would be happy to present our projects to you in a personal conversation.',
+                    text: 'Sambawood S.L. has worked as a subcontractor on numerous national and international projects in recent years. The following list gives you an overview of our largest projects. We are sure that you have already unconsciously come into contact with our work. We would be happy to present our projects to you in a personal conversation.',
                     table: {
                         year: '2004',
                         list: {
