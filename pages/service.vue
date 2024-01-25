@@ -117,7 +117,7 @@
             headline: 'services.sectionTwo.boxTwelve.headline',
             image: '12_jekome.jpg',
             list: [
-                'services.sectionTwo.boxTen.list',
+                'services.sectionTwo.boxTwelve.list',
                 'services.sectionTwo.boxTwelve.list2'
             ]
         }
