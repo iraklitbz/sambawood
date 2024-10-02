@@ -20,14 +20,61 @@
         >
             <div>
                 <h2
-                    class="text-2xl font-bold text-center mb-5 text-black"
+                    class="text-2xl font-bold text-center mb-10 text-black"
                 >
                     {{
                         $t('more.sectionOne.headline')
                     }}
                 </h2>
+            </div>
+            <div
+                class="mb-10"
+            >
+                <div class="aspect-w-16 aspect-h-9">
+                    <iframe
+                        width="560"
+                        height="315"
+                        src="https://www.youtube.com/embed/4pbJlpyp5ng?enablejsapi=1&version=3&playerapiid=ytplayer"
+                        title="Video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen
+                    ></iframe>
+                </div>
+            </div>
+            <div
+                class="mb-10"
+            >
+                <div class="aspect-w-16 aspect-h-9">
+                    <iframe
+                        width="560"
+                        height="315"
+                        src="https://www.youtube.com/embed/E6Obo5W17bY?enablejsapi=1&version=3&playerapiid=ytplayer"
+                        title="Video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen
+                    ></iframe>
+                </div>
+            </div>
+            <div
+                class="mb-10"
+            >
+                <div class="aspect-w-16 aspect-h-9">
+                    <iframe
+                        width="560"
+                        height="315"
+                        src="https://www.youtube.com/embed/TFMIukClWmU?enablejsapi=1&version=3&playerapiid=ytplayer"
+                        title="Video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen
+                    ></iframe>
+                </div>
+            </div>
+            <div>
                 <p
-                    class="mb-10 text-gray-600"
+                    class="mt-40 mb-10 text-gray-600"
                 >
                     {{
                         $t('more.sectionOne.text')
