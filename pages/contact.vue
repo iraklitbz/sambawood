@@ -29,7 +29,7 @@
                 $t('contact.headline')
             }}
         </h1>
-        <nuxt-img 
+        <nuxt-img
             class="w-full h-full object-cover object-center opacity-60"
             src="contact_bim7gy.jpg"
             alt="company" />
@@ -75,7 +75,7 @@
                         <span
                             class="ml-2"
                         >
-                            <a class="text-blue-700" href="tel:+491721577536">+49 172 1577536</a>
+                           <a class="text-blue-700" href="tel:+34650269071">+34 650 269 071</a>
                         </span>
                     </li>
                     <li
@@ -88,7 +88,7 @@
                             class="ml-2"
                         >
                             <a class="text-blue-700" href="mailto:jimmy.gorgiladze@sambawood.com">jimmy.gorgiladze@sambawood.com</a>
-                    
+
                         </span>
                     </li>
                     <ul
@@ -102,7 +102,7 @@
                                 :href="item.link"
                                 target="_blank"
                             >
-                                <nuxt-icon 
+                                <nuxt-icon
                                     :name="item.name"
                                     size="20px"
                                     class="icon text-3xl"
@@ -131,26 +131,6 @@
                             $t('contact.spain')
                         }}
                     </li>
-                    <li
-                        class="mt-4 mb-2"
-                    >
-                        <b>
-                            {{
-                                $t('contact.office')
-                            }}
-                        </b>
-                    </li>
-                    <li>
-                        Herforderstraße 109
-                    </li>
-                    <li>
-                        33602 Bielefeld
-                    </li>
-                    <li>
-                        {{
-                                $t('contact.germany')
-                            }}
-                    </li>
                 </ul>
                 <ul
                     class="mt-10"
@@ -171,7 +151,7 @@
                         {{ $t('contact.managment') }}
                     </li>
                     <li>
-                        Tel: <a class="text-blue-700" href="tel:+4916091221273">+49 160 91221273</a>
+                        Tel: <a class="text-blue-700" href="tel:+34650269071">+34 650 269 071</a>
                     </li>
                     <li>
                         Email: <a class="text-blue-700" href="mailto:info@sambawood.com">info@sambawood.com</a>
@@ -179,7 +159,7 @@
                 </ul>
             </div>
             <div>
-                
+
             </div>
         </div>
     </section>

@@ -31,8 +31,8 @@
                             Jemal Gorgiladze
                         </span>
                     </li>
-                    
-                    
+
+
                 </ul>
                 <ul
                     class="mt-10"
@@ -45,7 +45,7 @@
                         </b>
                     </li>
                     <li>
-                        {{ $t('contact.phone') }} : <a class="text-blue-700" href="tel:+491721577536">0049 172 1577536</a> | <a class="text-blue-700" href="tel:+34639280243">+34 639 280 243</a>
+                        {{ $t('contact.phone') }} :  <a class="text-blue-700" href="tel:+34650269071">+34 650 269 071</a>
                     </li>
                     <li>
                         {{ $t('contact.email') }} : <a class="text-blue-700" href="mailto:info@sambawood.com">info@sambawood.com</a> {{ $t('contact.or') }}
@@ -62,7 +62,7 @@
                         </b>
                     </li>
                     <li>
-                        Inscripción en el Registro Mercantil 
+                        Inscripción en el Registro Mercantil
                     </li>
                     <li>
                         Tribunal de registro: Registro Mercantil de Guadalajara
@@ -85,27 +85,7 @@
                         ESB19311422
                     </li>
                 </ul>
-                <ul
-                    class="mt-10"
-                >
-                    <li
-                        class="mt-4 mb-2"
-                    >
-                        <b>
-                            Responsabilidad para el contenido: 
-                        </b>
-                    </li>
-                    <li>
-                        Jemal Gorgiladze
-                    </li>
-                    <li>
-                        Herforderstraße 109
-                    </li>
-                    <li>
-                        33602 Bielefeld 
-                    </li>
-                </ul>
-                
+
             </div>
     </section>
     </div>

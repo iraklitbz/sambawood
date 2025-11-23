@@ -20,9 +20,8 @@ export default defineNuxtConfig({
         'nuxt-icons',
         '@nuxtjs/tailwindcss',
         '@nuxtjs/fontaine',
-        '@nuxt/image-edge',
-        '@nuxtjs/i18n',
         '@nuxt/image',
+        '@nuxtjs/i18n',
         ['@nuxtjs/google-fonts', {
             families: {
               'Roboto Mono': [100, 300, 700],
@@ -68,10 +67,13 @@ export default defineNuxtConfig({
           label: 'DE'
         }
       ],
-      vueI18n: './i18n.config.ts',
-      defaultLocale: 'en'
+      defaultLocale: 'en',
+      vueI18n: './i18n.config'
     },
     nitro: {
       compressPublicAssets: true
+    },
+    vite: {
+      assetsInclude: ['**/*.txt', '**/*.md']
     }
 })
