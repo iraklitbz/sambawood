@@ -1,5 +1,4 @@
 <script setup>
-const { locale } = useI18n()
 </script>
 <template>
     <div>
@@ -8,9 +7,7 @@ const { locale } = useI18n()
         >
             <HeaderComponent />
         </div>
-        <slot 
-            :key="locale"
-        />
+        <slot />
         <FooterComponent />
     </div>
   </template>

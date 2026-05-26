@@ -4,7 +4,13 @@
       "Bash(pnpm install:*)",
       "Bash(timeout 15 pnpm dev:*)",
       "Bash(pnpm dev)",
-      "Bash(pkill:*)"
+      "Bash(pkill:*)",
+      "Bash(pnpm build:*)",
+      "Bash(curl -s http://localhost:3000)",
+      "Bash(curl -s http://localhost:3000/en)",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_take_screenshot",
+      "mcp__playwright__browser_click"
     ],
     "deny": [],
     "ask": []

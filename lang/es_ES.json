@@ -3,16 +3,22 @@
       "home": "Inicio",
       "company": "Empresa",
       "service": "Servicios",
-      "more": "y más",
+      "more": "Portafolio",
       "references": "Referencias",
       "medium": "Media",
       "contact": "Contacto"
     },
     "home": {
       "hero": {
-        "bigHeadline": "Montaje de tiendas",
-        "smallHeadline": "coordinación de proyectos",
-        "subHeadline": "y más"
+        "bigHeadline": "Construcción Retail",
+        "smallHeadline": "Coordinación de Proyectos",
+        "subHeadline": "Especialistas Internacionales"
+      },
+      "stats": {
+        "years": "Años de Experiencia",
+        "countries": "Países",
+        "projects": "Proyectos IKEA",
+        "languages": "Idiomas"
       },
       "SecciónOne": {
         "headline": "“El servicio significa ver todo el negocio a través de los ojos del cliente.” – Axel Haitzer",

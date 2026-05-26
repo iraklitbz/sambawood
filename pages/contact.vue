@@ -132,31 +132,6 @@
                         }}
                     </li>
                 </ul>
-                <ul
-                    class="mt-10"
-                >
-                    <li
-                            class="mt-4 mb-2"
-                        >
-                        <b>
-                            {{
-                                $t('contact.contactperson')
-                            }}
-                        </b>
-                    </li>
-                    <li>
-                        Mandy Etzelsdörfer
-                    </li>
-                    <li>
-                        {{ $t('contact.managment') }}
-                    </li>
-                    <li>
-                        Tel: <a class="text-blue-700" href="tel:+34650269071">+34 650 269 071</a>
-                    </li>
-                    <li>
-                        Email: <a class="text-blue-700" href="mailto:info@sambawood.com">info@sambawood.com</a>
-                    </li>
-                </ul>
             </div>
             <div>
 

@@ -1,24 +1,30 @@
 {
-    "navbar": {
-      "home": "Home",
-      "company": "Company",
-      "service": "Services",
-      "more": "and more",
-      "references": "References",
-      "medium": "Media",
-      "contact": "Contact"
+    “navbar”: {
+      “home”: “Home”,
+      “company”: “Company”,
+      “service”: “Services”,
+      “more”: “Portfolio”,
+      “references”: “References”,
+      “medium”: “Media”,
+      “contact”: “Contact”
     },
-    "home": {
-      "hero": {
-        "bigHeadline": "Shopfitting",
-        "smallHeadline": "Project Coordination",
-        "subHeadline": "and more"
+    “home”: {
+      “hero”: {
+        “bigHeadline”: “Retail Fit-Out”,
+        “smallHeadline”: “Project Coordination”,
+        “subHeadline”: “International Specialists”
       },
-      "sectionOne": {
-        "headline": "„Service means to see the whole business through the eyes of the client.“ – Axel Haitzer",
-        "text": "This is our moto because we comply with your plans and wishes in order to satisfy you. Choosing our team, you have a reliable and competent partner by your side with technical skills and expertise resulting from long-term experiences at an international level. We have been working in the fields of project management and shop fitting for more than 16 years, especially in cooperation with IKEA. We carry out big projects as well as small projects with great passion. Our extensive references and the feedback from our clients are a proof of this.",
-        "text2": "We are convinced that your projects are in good hands if you choose us.",
-        "text3": "Have we also convinced you?"
+      “stats”: {
+        “years”: “Years Experience”,
+        “countries”: “Countries”,
+        “projects”: “IKEA Projects”,
+        “languages”: “Languages”
+      },
+      “sectionOne”: {
+        “headline”: “„Service means to see the whole business through the eyes of the client.” – Axel Haitzer”,
+        “text”: “With over 20 years of experience, Sambawood delivers professional shopfitting and project coordination across Europe. As a trusted subcontractor for IKEA, we have completed projects in more than 10 countries — from new store builds to full market hall renovations.”,
+        “text2”: “Our international team brings hands-on expertise across every phase of a project: from planning and coordination to final installation. Whether large-scale or compact, we execute with precision and reliability.”,
+        “text3”: “Ready to discuss your next project?”
       },
       "sectionTwo": {
         "boxOne": {

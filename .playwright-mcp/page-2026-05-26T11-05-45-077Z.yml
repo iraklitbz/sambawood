@@ -1,0 +1,124 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - banner [ref=e6]:
+      - link "logo" [ref=e7] [cursor=pointer]:
+        - /url: /
+        - img "logo" [ref=e8]
+      - navigation [ref=e9]:
+        - list [ref=e10]:
+          - listitem [ref=e11]:
+            - link "Home" [ref=e12] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e13]:
+            - link "Company" [ref=e14] [cursor=pointer]:
+              - /url: /company
+          - listitem [ref=e15]:
+            - link "Services" [ref=e16] [cursor=pointer]:
+              - /url: /service
+          - listitem [ref=e17]:
+            - link "Portfolio" [ref=e18] [cursor=pointer]:
+              - /url: /more
+          - listitem [ref=e19]:
+            - link "Credentials" [ref=e20] [cursor=pointer]:
+              - /url: /references
+          - listitem [ref=e21]:
+            - link "Contact" [ref=e22] [cursor=pointer]:
+              - /url: /contact
+        - list [ref=e23]:
+          - listitem [ref=e24]:
+            - button "ES" [ref=e25] [cursor=pointer]
+          - listitem [ref=e26]:
+            - button "EN" [ref=e27] [cursor=pointer]
+          - listitem [ref=e28]:
+            - button "DE" [ref=e29] [cursor=pointer]
+    - generic [ref=e30]:
+      - generic [ref=e31]:
+        - heading "Credentials" [level=1] [ref=e32]
+        - img "company" [ref=e33]
+      - generic [ref=e34]:
+        - paragraph [ref=e35]: Sambawood S.L. has worked as a subcontractor on numerous national and international projects in recent years. The following list gives you an overview of our largest projects. We are sure that you have already unconsciously come into contact with our work. We would be happy to present our projects to you in a personal conversation.
+        - heading "2023" [level=2] [ref=e37] [cursor=pointer]:
+          - generic [ref=e38]: "2023"
+          - img [ref=e39]
+        - heading "2022" [level=2] [ref=e42] [cursor=pointer]:
+          - generic [ref=e43]: "2022"
+          - img [ref=e44]
+        - heading "2021" [level=2] [ref=e47] [cursor=pointer]:
+          - generic [ref=e48]: "2021"
+          - img [ref=e49]
+        - heading "2020" [level=2] [ref=e52] [cursor=pointer]:
+          - generic [ref=e53]: "2020"
+          - img [ref=e54]
+        - heading "2019" [level=2] [ref=e57] [cursor=pointer]:
+          - generic [ref=e58]: "2019"
+          - img [ref=e59]
+        - heading "2018" [level=2] [ref=e62] [cursor=pointer]:
+          - generic [ref=e63]: "2018"
+          - img [ref=e64]
+        - heading "2017" [level=2] [ref=e67] [cursor=pointer]:
+          - generic [ref=e68]: "2017"
+          - img [ref=e69]
+        - heading "2016" [level=2] [ref=e72] [cursor=pointer]:
+          - generic [ref=e73]: "2016"
+          - img [ref=e74]
+        - heading "2015" [level=2] [ref=e77] [cursor=pointer]:
+          - generic [ref=e78]: "2015"
+          - img [ref=e79]
+        - heading "2014" [level=2] [ref=e82] [cursor=pointer]:
+          - generic [ref=e83]: "2014"
+          - img [ref=e84]
+        - heading "2013" [level=2] [ref=e87] [cursor=pointer]:
+          - generic [ref=e88]: "2013"
+          - img [ref=e89]
+        - heading "2012" [level=2] [ref=e92] [cursor=pointer]:
+          - generic [ref=e93]: "2012"
+          - img [ref=e94]
+        - heading "2011" [level=2] [ref=e97] [cursor=pointer]:
+          - generic [ref=e98]: "2011"
+          - img [ref=e99]
+        - heading "2010" [level=2] [ref=e102] [cursor=pointer]:
+          - generic [ref=e103]: "2010"
+          - img [ref=e104]
+        - heading "2009" [level=2] [ref=e107] [cursor=pointer]:
+          - generic [ref=e108]: "2009"
+          - img [ref=e109]
+        - heading "2008" [level=2] [ref=e112] [cursor=pointer]:
+          - generic [ref=e113]: "2008"
+          - img [ref=e114]
+        - heading "2007" [level=2] [ref=e117] [cursor=pointer]:
+          - generic [ref=e118]: "2007"
+          - img [ref=e119]
+        - heading "2006" [level=2] [ref=e122] [cursor=pointer]:
+          - generic [ref=e123]: "2006"
+          - img [ref=e124]
+        - heading "2005" [level=2] [ref=e127] [cursor=pointer]:
+          - generic [ref=e128]: "2005"
+          - img [ref=e129]
+        - heading "2004" [level=2] [ref=e132] [cursor=pointer]:
+          - generic [ref=e133]: "2004"
+          - img [ref=e134]
+    - contentinfo [ref=e136]:
+      - list [ref=e137]:
+        - listitem [ref=e138]: Sambawood 2024
+        - listitem [ref=e139]:
+          - link "Imprint" [ref=e140] [cursor=pointer]:
+            - /url: /imprint
+        - listitem [ref=e141]:
+          - link "Privicy policy" [ref=e142] [cursor=pointer]:
+            - /url: /privacy-policy
+  - generic:
+    - img
+  - generic:
+    - generic:
+      - generic:
+        - button "Go to parent" [disabled]
+        - button "Open in editor"
+        - button "Close"
+  - generic [ref=e143]:
+    - button "Toggle Nuxt DevTools" [ref=e144] [cursor=pointer]:
+      - img [ref=e145]
+    - generic "Page load time" [ref=e148]:
+      - generic [ref=e149]: "17"
+      - generic [ref=e150]: ms
+    - button "Toggle Component Inspector" [ref=e152] [cursor=pointer]:
+      - img [ref=e153]

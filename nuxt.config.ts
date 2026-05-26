@@ -68,7 +68,9 @@ export default defineNuxtConfig({
         }
       ],
       defaultLocale: 'en',
-      vueI18n: './i18n.config'
+      bundle: {
+        optimizeTranslationDirective: false
+      }
     },
     nitro: {
       compressPublicAssets: true

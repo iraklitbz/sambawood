@@ -34,6 +34,28 @@
         <section>
             <HeroComponent />
         </section>
+        <section class="bg-black text-white py-10">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+                    <div>
+                        <div class="text-4xl font-bold">20+</div>
+                        <div class="text-sm uppercase tracking-widest mt-2 text-gray-400">{{ $t('home.stats.years') }}</div>
+                    </div>
+                    <div>
+                        <div class="text-4xl font-bold">10+</div>
+                        <div class="text-sm uppercase tracking-widest mt-2 text-gray-400">{{ $t('home.stats.countries') }}</div>
+                    </div>
+                    <div>
+                        <div class="text-4xl font-bold">50+</div>
+                        <div class="text-sm uppercase tracking-widest mt-2 text-gray-400">{{ $t('home.stats.projects') }}</div>
+                    </div>
+                    <div>
+                        <div class="text-4xl font-bold">3+</div>
+                        <div class="text-sm uppercase tracking-widest mt-2 text-gray-400">{{ $t('home.stats.languages') }}</div>
+                    </div>
+                </div>
+            </div>
+        </section>
         <section
             class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20"
         >

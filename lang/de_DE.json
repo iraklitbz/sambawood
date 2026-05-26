@@ -1,24 +1,30 @@
 {
-    "navbar": {
-      "home": "Home",
-      "company": "Firma",
-      "service": "Services",
-      "more": "und mehr",
-      "references": "Referenzen",
-      "medium": "Medien",
-      "contact": "Kontakt"
+    “navbar”: {
+      “home”: “Home”,
+      “company”: “Firma”,
+      “service”: “Services”,
+      “more”: “Portfolio”,
+      “references”: “Referenzen”,
+      “medium”: “Medien”,
+      “contact”: “Kontakt”
     },
-    "home": {
-      "hero": {
-        "bigHeadline": "Ladenbau",
-        "smallHeadline": "Projekkoordination",
-        "subHeadline": "und mehr"
+    “home”: {
+      “hero”: {
+        “bigHeadline”: “Ladenbau”,
+        “smallHeadline”: “Projektkoordination”,
+        “subHeadline”: “Internationale Spezialisten”
       },
-      "sectionOne": {
-        "headline": "„Service heißt, das ganze Geschäft mit den Augen des Kunden zu sehen“. – Axel Haitzer",
-        "text": "So lautet unser Motto, denn wir richten uns nach Ihren Plänen und Wünschen, um Sie zufrieden zu stellen. Mit unserem Team haben Sie einen zuverlässigen und kompetenten Partner an Ihrer Seite, der durch langjährige Erfahrungen im internationalen Bereich handwerkliches Fachwissen und Expertise mitbringt. Seit über 16 Jahren sind wir im Bereich Projektmanagement und Ladenbau – insbesondere in Kooperation mit IKEA – tätig und führen sowohl große als auch kleine Projekte mit großer Leidenschaft aus.",
-        "text2": "Das zeigen unsere umfangreiche Referenzliste und das Feedback unserer Kunden. Wir sind überzeugt, dass Ihre Projekte bei uns in guten Händen sind.",
-        "text3": "Haben wir auch Sie überzeugt?"
+      “stats”: {
+        “years”: “Jahre Erfahrung”,
+        “countries”: “Länder”,
+        “projects”: “IKEA-Projekte”,
+        “languages”: “Sprachen”
+      },
+      “sectionOne”: {
+        “headline”: “„Service heißt, das ganze Geschäft mit den Augen des Kunden zu sehen”. – Axel Haitzer”,
+        “text”: “Mit über 20 Jahren Erfahrung realisiert Sambawood professionelle Ladenbauprojekte und Projektkoordinationen europaweit. Als bewährter Subunternehmer für IKEA haben wir Projekte in mehr als 10 Ländern abgeschlossen – von Neubauten bis zu umfassenden Markthallen-Umbauten.”,
+        “text2”: “Unser internationales Team bringt Expertise in allen Projektphasen mit – von der Planung und Koordination bis zur finalen Montage. Ob Groß- oder Kleinprojekt: Wir arbeiten präzise und zuverlässig.”,
+        “text3”: “Bereit, Ihr nächstes Projekt zu besprechen?”
       },
       "sectionTwo": {
         "boxOne": {
