@@ -1,0 +1,103 @@
+- generic [ref=e4]:
+  - banner [ref=e6]:
+    - link "logo" [ref=e7] [cursor=pointer]:
+      - /url: /
+      - img "logo" [ref=e8]
+    - navigation [ref=e9]:
+      - list [ref=e10]:
+        - listitem [ref=e11]:
+          - link "Home" [ref=e12] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=e13]:
+          - link "Company" [ref=e14] [cursor=pointer]:
+            - /url: /company
+        - listitem [ref=e15]:
+          - link "Services" [ref=e16] [cursor=pointer]:
+            - /url: /service
+        - listitem [ref=e17]:
+          - link "Portfolio" [ref=e18] [cursor=pointer]:
+            - /url: /more
+        - listitem [ref=e19]:
+          - link "Credentials" [ref=e20] [cursor=pointer]:
+            - /url: /references
+        - listitem [ref=e21]:
+          - link "Contact" [ref=e22] [cursor=pointer]:
+            - /url: /contact
+      - list [ref=e23]:
+        - listitem [ref=e24]:
+          - button "ES" [ref=e25] [cursor=pointer]
+        - listitem [ref=e26]:
+          - button "EN" [ref=e27] [cursor=pointer]
+        - listitem [ref=e28]:
+          - button "DE" [ref=e29] [cursor=pointer]
+  - generic [ref=e30]:
+    - generic [ref=e32]:
+      - img "Sambawood" [ref=e34]
+      - generic [ref=e36]:
+        - heading "Retail Fit-Out" [level=1] [ref=e37]
+        - heading "Project Coordination" [level=5] [ref=e38]
+        - heading "International Specialists" [level=2] [ref=e39]
+      - generic [ref=e40]:
+        - button [ref=e41] [cursor=pointer]
+        - button [ref=e42] [cursor=pointer]
+    - generic [ref=e45]:
+      - generic [ref=e46]:
+        - generic [ref=e47]: 20+
+        - generic [ref=e48]: Years Experience
+      - generic [ref=e49]:
+        - generic [ref=e50]: 10+
+        - generic [ref=e51]: Countries
+      - generic [ref=e52]:
+        - generic [ref=e53]: 50+
+        - generic [ref=e54]: IKEA Projects
+      - generic [ref=e55]:
+        - generic [ref=e56]: 3+
+        - generic [ref=e57]: Languages
+    - generic [ref=e58]:
+      - generic [ref=e59]:
+        - figure [ref=e60]:
+          - img "team" [ref=e61]
+        - generic [ref=e62]:
+          - heading "”Service means seeing the whole business through the eyes of the customer.” – Axel Haitzer" [level=2] [ref=e63]
+          - paragraph [ref=e64]: With over 20 years of experience, Sambawood delivers professional shopfitting and project coordination across Europe. As a trusted subcontractor for IKEA, we have completed projects in more than 10 countries — from new store builds to full market hall renovations.
+          - paragraph [ref=e65]: "Our international team brings hands-on expertise across every phase of a project: from planning and coordination to final installation. Whether large-scale or compact, we execute with precision and reliability."
+          - paragraph [ref=e66]: Ready to discuss your next project?
+      - generic [ref=e67]:
+        - generic [ref=e68]:
+          - figure [ref=e69]:
+            - img "wood" [ref=e70]
+          - generic [ref=e71]:
+            - heading "A team with international experience and extensive language skills" [level=2] [ref=e72]
+            - paragraph [ref=e73]: Our team disposes of a comprehensive experience due to their international works. Furthermore, we have knowledge of at least three different languages so that a smooth communication can take place in foreign countries.
+        - generic [ref=e74]:
+          - figure [ref=e75]:
+            - img "wood" [ref=e76]
+          - generic [ref=e77]:
+            - heading "Our services at a glance" [level=2] [ref=e78]
+            - paragraph [ref=e79]: "Our well-rehearsed team dedicates itself to various work areas to create quality spaces from ideas. These are some of our services:"
+            - list [ref=e80]:
+              - listitem [ref=e81]: Decoration
+              - listitem [ref=e82]: Graphic works
+              - listitem [ref=e83]: Illumination
+              - listitem [ref=e84]: Interior design
+              - listitem [ref=e85]: Merchandise presentation
+              - listitem [ref=e86]: Painting
+              - listitem [ref=e87]: Professional assembly and dismantling
+              - listitem [ref=e88]: Renovation and restructuring
+              - listitem [ref=e89]: Shop fitting
+              - listitem [ref=e90]: Wall assembly
+        - generic [ref=e91]:
+          - figure [ref=e92]:
+            - img "wood" [ref=e93]
+          - generic [ref=e94]:
+            - heading "High resilience and flexibility" [level=2] [ref=e95]
+            - paragraph [ref=e96]: "These are two qualities that define us because we always strive for customer satisfaction, no matter how difficult the conditions are. It is not always easy but, nevertheless, it is not impossible to complete a project in time in critical situations according to the plans and wishes of our clients. We adapt to the given circumstances in any regard: No matter what time it is; you can always count on us. Furthermore, we are poised to do additional work if necessary."
+  - contentinfo [ref=e97]:
+    - list [ref=e98]:
+      - listitem [ref=e99]: Sambawood 2024
+      - listitem [ref=e100]:
+        - link "Imprint" [ref=e101] [cursor=pointer]:
+          - /url: /imprint
+      - listitem [ref=e102]:
+        - link "Privicy policy" [ref=e103] [cursor=pointer]:
+          - /url: /privacy-policy

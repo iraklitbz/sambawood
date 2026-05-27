@@ -10,7 +10,14 @@
       "Bash(curl -s http://localhost:3000/en)",
       "mcp__playwright__browser_navigate",
       "mcp__playwright__browser_take_screenshot",
-      "mcp__playwright__browser_click"
+      "mcp__playwright__browser_click",
+      "Bash(pnpm run *)",
+      "Bash(node .output/server/index.mjs)",
+      "Bash(echo \"EXIT: $?\")",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(json.dumps\\(d.get\\('home', {}\\).get\\('hero', {}\\), indent=2\\)\\)\")",
+      "Bash(python3 *)",
+      "mcp__playwright__browser_evaluate",
+      "mcp__playwright__browser_resize"
     ],
     "deny": [],
     "ask": []

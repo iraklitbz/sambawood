@@ -26,24 +26,24 @@
 </script>
 <template>
     <header
-        class="bg-white py-4 md:py-5 md:px-8 md:flex justify-between items-center"
+        class="bg-white py-4 lg:flex justify-between items-center"
     >
-        <nuxt-link 
+        <nuxt-link
             :to="localePath('/', locale)"
-            class="logo uppercase font-bold text-3xl tracking-widest text-center block w-52"
+            class="logo uppercase font-bold text-3xl tracking-widest text-center block w-40 shrink-0"
         >
-            <nuxt-img 
+            <nuxt-img
             class="w-full h-full"
             src="logo_l1qnab.png"
             alt="logo" />
         </nuxt-link>
         <nav
-            class="md:flex gap-4 items-center navbar mt-5 md:mt-0"
+            class="lg:flex gap-3 items-center navbar mt-4 lg:mt-0"
         >
             <ul
-                class="flex gap-4 h-10 md:h-auto overflow-x-auto w-full relative z-50"
+                class="flex gap-3 h-10 lg:h-auto overflow-x-auto lg:overflow-visible w-full relative z-50"
             >
-                <li v-for="(item, index) in nav" :key="index" class="uppercase font-bold whitespace-nowrap md:whitespace-normal">
+                <li v-for="(item, index) in nav" :key="index" class="uppercase font-bold whitespace-nowrap text-sm">
                     <nuxt-link
                         v-if="item.path !== '/references'"
                         :to="localePath(item.path, locale)"
@@ -59,7 +59,7 @@
                 </li>
             </ul>
             <ul
-                class="flex items-center justify-center md:justify-end gap-2 ml-7 mt-5 md:mt-0"
+                class="flex items-center justify-center lg:justify-end gap-2 ml-4 mt-4 lg:mt-0"
             >
                 <li
                     v-for="(localeItem, index) in availableLocales"
