@@ -406,7 +406,7 @@ export default defineI18nConfig(() => ({
                         },
                         list3: {
                             city: 'Haarlem',
-                            county: 'Holanda',
+                            county: 'Netherlands',
                             work: 'Reforma',
                             proyect: 'Market hall'
                         },
@@ -448,13 +448,13 @@ export default defineI18nConfig(() => ({
                         year: '2018',
                         list: {
                             city: 'Amsterdam',
-                            county: 'Holanda',
+                            county: 'Netherlands',
                             work: 'Reforma',
                             proyect: 'Market hall / Grid ceiling'
                         },
                         list2: {
                             city: 'Amsterdam',
-                            county: 'Holanda',
+                            county: 'Netherlands',
                             work: 'Reforma',
                             proyect: 'Pasillo principal'
                         }
@@ -484,7 +484,7 @@ export default defineI18nConfig(() => ({
                         },
                         list2: {
                             city: 'Amsterdam',
-                            county: 'Holanda',
+                            county: 'Netherlands',
                             work: 'Nueva construcción',
                             proyect: 'Oficinas de tienda online'
                         }
@@ -499,7 +499,7 @@ export default defineI18nConfig(() => ({
                         },
                         list2: {
                             city: 'Amsterdam',
-                            county: 'Holanda',
+                            county: 'Netherlands',
                             work: 'Nueva construcción',
                             proyect: 'Oficinas internas'
                         }
@@ -508,7 +508,7 @@ export default defineI18nConfig(() => ({
                         year: '2022',
                         list: {
                             city: 'Amsterdam',
-                            county: 'Holanda',
+                            county: 'Netherlands',
                             work: 'Reforma',
                             proyect: 'Cocina / Comedor'
                         },
