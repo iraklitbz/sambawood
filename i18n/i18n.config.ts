@@ -172,6 +172,7 @@ export default defineI18nConfig(() => ({
             },
             references: {
                 headline: 'Referencias',
+                filter: { all: 'Todos' },
                 sectionOne: {
                     text: 'Sambawood S.L. ha participado como subcontratista en numerosos proyectos nacionales e internacionales en los últimos años. La siguiente lista le proporciona una visión general de nuestros proyectos más grandes. Estamos seguros de que también usted ha estado en contacto con nuestro trabajo de manera inconsciente. Estaremos encantados de presentarle nuestros proyectos en una reunión personal.',
                     table: {
@@ -522,22 +523,187 @@ export default defineI18nConfig(() => ({
                     table20: {
                         year: '2023',
                         list: {
-                            city: 'Würzburg',
+                            city: 'Lübeck',
                             county: 'Alemania',
-                            work: 'Reforma',
-                            proyect: 'Departamiento de niños'
+                            work: 'Remodelación',
+                            proyect: 'Showroom - Área Infantil'
                         },
                         list2: {
-                            city: 'Hamburg - Moorflet',
+                            city: 'Oldenburg',
                             county: 'Alemania',
-                            work: 'Reforma',
-                            proyect: 'Cocina / Comedor'
+                            work: 'Remodelación',
+                            proyect: 'Markthalle - Cocina y Servicio'
                         },
                         list3: {
-                            city: 'Hamburg - Schnelsen',
+                            city: 'Köln Butzweiler Hof',
                             county: 'Alemania',
-                            work: 'Reforma',
-                            proyect: 'Cocina / Comedor'
+                            work: 'Remodelación',
+                            proyect: 'Markthalle - Cocina y Servicio'
+                        },
+                        list4: {
+                            city: 'Kaiserslautern',
+                            county: 'Alemania',
+                            work: 'Remodelación',
+                            proyect: 'Showroom - Área Infantil'
+                        },
+                        list5: {
+                            city: 'Hannover',
+                            county: 'Alemania',
+                            work: 'Remodelación',
+                            proyect: 'Showroom - Cocinas y Áreas de Comedor'
+                        },
+                        list6: {
+                            city: 'Hamburg Moorflat',
+                            county: 'Alemania',
+                            work: 'Remodelación',
+                            proyect: 'Markthalle - Badezimmerabteilung'
+                        }
+                    },
+                    table21: {
+                        year: '2024',
+                        list: {
+                            city: 'Hannover',
+                            county: 'Alemania',
+                            work: 'Remodelación',
+                            proyect: 'Showroom - Área de Trabajo'
+                        },
+                        list2: {
+                            city: 'Magdeburg',
+                            county: 'Alemania',
+                            work: 'Remodelación',
+                            proyect: 'Showroom - Almacenamiento'
+                        },
+                        list3: {
+                            city: 'Kaarst',
+                            county: 'Alemania',
+                            work: 'Remodelación',
+                            proyect: 'Markthalle - Cocina y Servicio'
+                        },
+                        list4: {
+                            city: 'Kaarst',
+                            county: 'Alemania',
+                            work: 'Remodelación',
+                            proyect: 'Markthalle - Departamento Textil'
+                        },
+                        list5: {
+                            city: 'Köln Godorf',
+                            county: 'Alemania',
+                            work: 'Remodelación',
+                            proyect: 'Showroom - First Five'
+                        },
+                        list6: {
+                            city: 'Hamburg Schnelsen',
+                            county: 'Alemania',
+                            work: 'Remodelación',
+                            proyect: 'Showroom - Área Infantil & Betten'
+                        },
+                        list7: {
+                            city: 'Osnabrück',
+                            county: 'Alemania',
+                            work: 'Remodelación',
+                            proyect: 'Mercado de Navidad'
+                        },
+                        list8: {
+                            city: 'Bielefeld',
+                            county: 'Alemania',
+                            work: 'Remodelación',
+                            proyect: 'Mercado de Navidad'
+                        }
+                    },
+                    table22: {
+                        year: '2025',
+                        list: {
+                            city: 'Saarbrücken',
+                            county: 'Alemania',
+                            work: 'Remodelación',
+                            proyect: 'Showroom - Cocinas y Áreas de Comedor'
+                        },
+                        list2: {
+                            city: 'Walau',
+                            county: 'Alemania',
+                            work: 'Remodelación',
+                            proyect: 'Markthalle - Cocina y Servicio'
+                        },
+                        list3: {
+                            city: 'Kaarst',
+                            county: 'Alemania',
+                            work: 'Remodelación',
+                            proyect: 'Showroom - Área Infantil'
+                        },
+                        list4: {
+                            city: 'Amersfoort',
+                            county: 'Nederland',
+                            work: 'Remodelación',
+                            proyect: 'Showroom - Cocinas y Áreas de Comedor'
+                        },
+                        list5: {
+                            city: 'Wetzlar',
+                            county: 'Alemania',
+                            work: 'Remodelación',
+                            proyect: 'Markthalle - Departamento Textil'
+                        },
+                        list6: {
+                            city: 'Kaiserslautern',
+                            county: 'Alemania',
+                            work: 'Remodelación',
+                            proyect: 'Showroom - Almacenamiento'
+                        },
+                        list7: {
+                            city: 'Hamburg Schnelsen',
+                            county: 'Alemania',
+                            work: 'Remodelación',
+                            proyect: 'Markthalle - Cocina y Servicio'
+                        },
+                        list8: {
+                            city: 'Hannover',
+                            county: 'Alemania',
+                            work: 'Remodelación',
+                            proyect: 'Markthalle - diverse Abteilungen'
+                        },
+                        list9: {
+                            city: 'Innsbruck',
+                            county: 'Austria',
+                            work: 'Remodelación',
+                            proyect: 'Markthalle - Cocina y Servicio'
+                        },
+                        list10: {
+                            city: 'Osnabrück',
+                            county: 'Alemania',
+                            work: 'Remodelación',
+                            proyect: 'Showroom - Área Infantil'
+                        }
+                    },
+                    table23: {
+                        year: '2026',
+                        list: {
+                            city: 'Bielefeld',
+                            county: 'Alemania',
+                            work: 'Remodelación',
+                            proyect: 'Showroom - Trabajos Diversos'
+                        },
+                        list2: {
+                            city: 'Bielefeld',
+                            county: 'Alemania',
+                            work: 'Remodelación',
+                            proyect: 'Showroom - Trabajos Diversos'
+                        },
+                        list3: {
+                            city: 'Bielefeld',
+                            county: 'Alemania',
+                            work: 'Remodelación',
+                            proyect: 'Markthalle - Trabajos Diversos'
+                        },
+                        list4: {
+                            city: 'Hamburg Moorflat',
+                            county: 'Alemania',
+                            work: 'Remodelación',
+                            proyect: 'Restaurante de Clientes / Suelo de PVC'
+                        },
+                        list5: {
+                            city: 'Bielefeld',
+                            county: 'Alemania',
+                            work: 'Remodelación',
+                            proyect: 'Showroom - Trabajos Diversos'
                         }
                     }
                 }
@@ -738,6 +904,7 @@ export default defineI18nConfig(() => ({
             },
             references: {
                 headline: 'Referenzen',
+                filter: { all: 'Alle' },
                 sectionOne: {
                     text: 'Sambawood S.L. hat in den letzten Jahren an zahlreichen nationalen und internationalen Projekten als Subunternehmer mitgewirkt. Die folgende Liste gibt Ihnen einen Überblick über unsere größten Projekte. Wir sind sicher, dass auch Sie schon unbewusst mit unserer Arbeit in Berührung gekommen sind. Gerne stellen wir Ihnen unsere Projekte in einem persönlichen Gespräch vor.',
                     table: {
@@ -1088,22 +1255,187 @@ export default defineI18nConfig(() => ({
                     table20: {
                         year: '2023',
                         list: {
-                            city: 'Würzburg',
+                            city: 'Lübeck',
                             county: 'Deutschland',
                             work: 'Umbau',
-                            proyect: 'Kinderbereich'
+                            proyect: 'Showroom - Kinderbereich'
                         },
                         list2: {
-                            city: 'Hamburg - Moorflet',
+                            city: 'Oldenburg',
                             county: 'Deutschland',
                             work: 'Umbau',
-                            proyect: 'Küche/Essbereich'
+                            proyect: 'Markthalle - Kochen & Servieren'
                         },
                         list3: {
-                            city: 'Hamburg - Schnelsen',
+                            city: 'Köln Butzweiler Hof',
                             county: 'Deutschland',
                             work: 'Umbau',
-                            proyect: 'Küche/Essbereich'
+                            proyect: 'Markthalle - Kochen & Servieren'
+                        },
+                        list4: {
+                            city: 'Kaiserslautern',
+                            county: 'Deutschland',
+                            work: 'Umbau',
+                            proyect: 'Showroom - Kinderbereich'
+                        },
+                        list5: {
+                            city: 'Hannover',
+                            county: 'Deutschland',
+                            work: 'Umbau',
+                            proyect: 'Showroom - Küchen & Essbereiche'
+                        },
+                        list6: {
+                            city: 'Hamburg Moorflat',
+                            county: 'Deutschland',
+                            work: 'Umbau',
+                            proyect: 'Markthalle - Badezimmerabteilung'
+                        }
+                    },
+                    table21: {
+                        year: '2024',
+                        list: {
+                            city: 'Hannover',
+                            county: 'Deutschland',
+                            work: 'Umbau',
+                            proyect: 'Showroom - Arbeitsbereich'
+                        },
+                        list2: {
+                            city: 'Magdeburg',
+                            county: 'Deutschland',
+                            work: 'Umbau',
+                            proyect: 'Showroom - Aufbewahrung'
+                        },
+                        list3: {
+                            city: 'Kaarst',
+                            county: 'Deutschland',
+                            work: 'Umbau',
+                            proyect: 'Markthalle - Kochen & Servieren'
+                        },
+                        list4: {
+                            city: 'Kaarst',
+                            county: 'Deutschland',
+                            work: 'Umbau',
+                            proyect: 'Markthalle - Textilabteilung'
+                        },
+                        list5: {
+                            city: 'Köln Godorf',
+                            county: 'Deutschland',
+                            work: 'Umbau',
+                            proyect: 'Showroom - First Five'
+                        },
+                        list6: {
+                            city: 'Hamburg Schnelsen',
+                            county: 'Deutschland',
+                            work: 'Umbau',
+                            proyect: 'Showroom - Kinderbereich & Betten'
+                        },
+                        list7: {
+                            city: 'Osnabrück',
+                            county: 'Deutschland',
+                            work: 'Umbau',
+                            proyect: 'Weihnachtsmarkt'
+                        },
+                        list8: {
+                            city: 'Bielefeld',
+                            county: 'Deutschland',
+                            work: 'Umbau',
+                            proyect: 'Weihnachtsmarkt'
+                        }
+                    },
+                    table22: {
+                        year: '2025',
+                        list: {
+                            city: 'Saarbrücken',
+                            county: 'Deutschland',
+                            work: 'Umbau',
+                            proyect: 'Showroom - Küchen & Essbereiche'
+                        },
+                        list2: {
+                            city: 'Walau',
+                            county: 'Deutschland',
+                            work: 'Umbau',
+                            proyect: 'Markthalle - Kochen & Servieren'
+                        },
+                        list3: {
+                            city: 'Kaarst',
+                            county: 'Deutschland',
+                            work: 'Umbau',
+                            proyect: 'Showroom - Kinderbereich'
+                        },
+                        list4: {
+                            city: 'Amersfoort',
+                            county: 'Nederland',
+                            work: 'Umbau',
+                            proyect: 'Showroom - Küchen & Essbereiche'
+                        },
+                        list5: {
+                            city: 'Wetzlar',
+                            county: 'Deutschland',
+                            work: 'Umbau',
+                            proyect: 'Markthalle - Textilabteilung'
+                        },
+                        list6: {
+                            city: 'Kaiserslautern',
+                            county: 'Deutschland',
+                            work: 'Umbau',
+                            proyect: 'Showroom - Aufbewahrung'
+                        },
+                        list7: {
+                            city: 'Hamburg Schnelsen',
+                            county: 'Deutschland',
+                            work: 'Umbau',
+                            proyect: 'Markthalle - Kochen & Servieren'
+                        },
+                        list8: {
+                            city: 'Hannover',
+                            county: 'Deutschland',
+                            work: 'Umbau',
+                            proyect: 'Markthalle - diverse Abteilungen'
+                        },
+                        list9: {
+                            city: 'Innsbruck',
+                            county: 'Österreich',
+                            work: 'Umbau',
+                            proyect: 'Markthalle - Kochen & Servieren'
+                        },
+                        list10: {
+                            city: 'Osnabrück',
+                            county: 'Deutschland',
+                            work: 'Umbau',
+                            proyect: 'Showroom - Kinderbereich'
+                        }
+                    },
+                    table23: {
+                        year: '2026',
+                        list: {
+                            city: 'Bielefeld',
+                            county: 'Deutschland',
+                            work: 'Umbau',
+                            proyect: 'Showroom - diverse Arbeiten'
+                        },
+                        list2: {
+                            city: 'Bielefeld',
+                            county: 'Deutschland',
+                            work: 'Umbau',
+                            proyect: 'Showroom - diverse Arbeiten'
+                        },
+                        list3: {
+                            city: 'Bielefeld',
+                            county: 'Deutschland',
+                            work: 'Umbau',
+                            proyect: 'Markthalle - diverse Arbeiten'
+                        },
+                        list4: {
+                            city: 'Hamburg Moorflat',
+                            county: 'Deutschland',
+                            work: 'Umbau',
+                            proyect: 'Kundenrestaurant / PVC-Boden'
+                        },
+                        list5: {
+                            city: 'Bielefeld',
+                            county: 'Deutschland',
+                            work: 'Umbau',
+                            proyect: 'Showroom - diverse Arbeiten'
                         }
                     }
                 }
@@ -1304,6 +1636,7 @@ export default defineI18nConfig(() => ({
             },
             references: {
                 headline: 'Credentials',
+                filter: { all: 'All' },
                 sectionOne: {
                     text: 'Sambawood S.L. has worked as a subcontractor on numerous national and international projects in recent years. The following list gives you an overview of our largest projects. We are sure that you have already unconsciously come into contact with our work. We would be happy to present our projects to you in a personal conversation.',
                     table: {
@@ -1654,22 +1987,187 @@ export default defineI18nConfig(() => ({
                     table20: {
                         year: '2023',
                         list: {
-                            city: 'Würzburg',
+                            city: 'Lübeck',
                             county: 'Germany',
-                            work: 'Rebuild',
-                            proyect: 'Children’s area'
+                            work: 'Renovation',
+                            proyect: "Showroom - Children's Area"
                         },
                         list2: {
-                            city: 'Hamburg - Moorflet',
+                            city: 'Oldenburg',
                             county: 'Germany',
-                            work: 'Rebuild',
-                            proyect: 'Kitchen / Dining area'
+                            work: 'Renovation',
+                            proyect: 'Markthalle - Cooking & Serving'
                         },
                         list3: {
-                            city: 'Hamburg - Schnelsen',
+                            city: 'Köln Butzweiler Hof',
                             county: 'Germany',
-                            work: 'Rebuild',
-                            proyect: 'Kitchen / Dining area'
+                            work: 'Renovation',
+                            proyect: 'Markthalle - Cooking & Serving'
+                        },
+                        list4: {
+                            city: 'Kaiserslautern',
+                            county: 'Germany',
+                            work: 'Renovation',
+                            proyect: "Showroom - Children's Area"
+                        },
+                        list5: {
+                            city: 'Hannover',
+                            county: 'Germany',
+                            work: 'Renovation',
+                            proyect: 'Showroom - Kitchens & Dining Areas'
+                        },
+                        list6: {
+                            city: 'Hamburg Moorflat',
+                            county: 'Germany',
+                            work: 'Renovation',
+                            proyect: 'Markthalle - Badezimmerabteilung'
+                        }
+                    },
+                    table21: {
+                        year: '2024',
+                        list: {
+                            city: 'Hannover',
+                            county: 'Germany',
+                            work: 'Renovation',
+                            proyect: 'Showroom - Workspace'
+                        },
+                        list2: {
+                            city: 'Magdeburg',
+                            county: 'Germany',
+                            work: 'Renovation',
+                            proyect: 'Showroom - Storage'
+                        },
+                        list3: {
+                            city: 'Kaarst',
+                            county: 'Germany',
+                            work: 'Renovation',
+                            proyect: 'Markthalle - Cooking & Serving'
+                        },
+                        list4: {
+                            city: 'Kaarst',
+                            county: 'Germany',
+                            work: 'Renovation',
+                            proyect: 'Markthalle - Textile Department'
+                        },
+                        list5: {
+                            city: 'Köln Godorf',
+                            county: 'Germany',
+                            work: 'Renovation',
+                            proyect: 'Showroom - First Five'
+                        },
+                        list6: {
+                            city: 'Hamburg Schnelsen',
+                            county: 'Germany',
+                            work: 'Renovation',
+                            proyect: "Showroom - Children's Area & Betten"
+                        },
+                        list7: {
+                            city: 'Osnabrück',
+                            county: 'Germany',
+                            work: 'Renovation',
+                            proyect: 'Christmas Market'
+                        },
+                        list8: {
+                            city: 'Bielefeld',
+                            county: 'Germany',
+                            work: 'Renovation',
+                            proyect: 'Christmas Market'
+                        }
+                    },
+                    table22: {
+                        year: '2025',
+                        list: {
+                            city: 'Saarbrücken',
+                            county: 'Germany',
+                            work: 'Renovation',
+                            proyect: 'Showroom - Kitchens & Dining Areas'
+                        },
+                        list2: {
+                            city: 'Walau',
+                            county: 'Germany',
+                            work: 'Renovation',
+                            proyect: 'Markthalle - Cooking & Serving'
+                        },
+                        list3: {
+                            city: 'Kaarst',
+                            county: 'Germany',
+                            work: 'Renovation',
+                            proyect: "Showroom - Children's Area"
+                        },
+                        list4: {
+                            city: 'Amersfoort',
+                            county: 'Nederland',
+                            work: 'Renovation',
+                            proyect: 'Showroom - Kitchens & Dining Areas'
+                        },
+                        list5: {
+                            city: 'Wetzlar',
+                            county: 'Germany',
+                            work: 'Renovation',
+                            proyect: 'Markthalle - Textile Department'
+                        },
+                        list6: {
+                            city: 'Kaiserslautern',
+                            county: 'Germany',
+                            work: 'Renovation',
+                            proyect: 'Showroom - Storage'
+                        },
+                        list7: {
+                            city: 'Hamburg Schnelsen',
+                            county: 'Germany',
+                            work: 'Renovation',
+                            proyect: 'Markthalle - Cooking & Serving'
+                        },
+                        list8: {
+                            city: 'Hannover',
+                            county: 'Germany',
+                            work: 'Renovation',
+                            proyect: 'Markthalle - diverse Abteilungen'
+                        },
+                        list9: {
+                            city: 'Innsbruck',
+                            county: 'Austria',
+                            work: 'Renovation',
+                            proyect: 'Markthalle - Cooking & Serving'
+                        },
+                        list10: {
+                            city: 'Osnabrück',
+                            county: 'Germany',
+                            work: 'Renovation',
+                            proyect: "Showroom - Children's Area"
+                        }
+                    },
+                    table23: {
+                        year: '2026',
+                        list: {
+                            city: 'Bielefeld',
+                            county: 'Germany',
+                            work: 'Renovation',
+                            proyect: 'Showroom - Various Works'
+                        },
+                        list2: {
+                            city: 'Bielefeld',
+                            county: 'Germany',
+                            work: 'Renovation',
+                            proyect: 'Showroom - Various Works'
+                        },
+                        list3: {
+                            city: 'Bielefeld',
+                            county: 'Germany',
+                            work: 'Renovation',
+                            proyect: 'Markthalle - Various Works'
+                        },
+                        list4: {
+                            city: 'Hamburg Moorflat',
+                            county: 'Germany',
+                            work: 'Renovation',
+                            proyect: 'Customer Restaurant / PVC Flooring'
+                        },
+                        list5: {
+                            city: 'Bielefeld',
+                            county: 'Germany',
+                            work: 'Renovation',
+                            proyect: 'Showroom - Various Works'
                         }
                     }
                 }

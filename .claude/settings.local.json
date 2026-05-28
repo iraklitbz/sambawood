@@ -17,7 +17,14 @@
       "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(json.dumps\\(d.get\\('home', {}\\).get\\('hero', {}\\), indent=2\\)\\)\")",
       "Bash(python3 *)",
       "mcp__playwright__browser_evaluate",
-      "mcp__playwright__browser_resize"
+      "mcp__playwright__browser_resize",
+      "Bash(pip3 install *)",
+      "Bash(xargs ls)",
+      "Bash(xxd /Users/iraklitbz/Desktop/apps/webs/sambawood/lang/en_EN.json)",
+      "Bash(xxd /Users/iraklitbz/Desktop/apps/webs/sambawood/lang/es_ES.json)",
+      "Bash(xxd)",
+      "mcp__playwright__browser_tabs",
+      "mcp__playwright__browser_snapshot"
     ],
     "deny": [],
     "ask": []

@@ -433,6 +433,200 @@ export const table = [
                 country: 'references.sectionOne.table20.list3.county',
                 work: 'references.sectionOne.table20.list3.work',
                 proyect: 'references.sectionOne.table20.list3.proyect'
+            },
+            {
+                year: 'references.sectionOne.table20.year',
+                city: 'references.sectionOne.table20.list4.city',
+                country: 'references.sectionOne.table20.list4.county',
+                work: 'references.sectionOne.table20.list4.work',
+                proyect: 'references.sectionOne.table20.list4.proyect'
+            },
+            {
+                year: 'references.sectionOne.table20.year',
+                city: 'references.sectionOne.table20.list5.city',
+                country: 'references.sectionOne.table20.list5.county',
+                work: 'references.sectionOne.table20.list5.work',
+                proyect: 'references.sectionOne.table20.list5.proyect'
+            },
+            {
+                year: 'references.sectionOne.table20.year',
+                city: 'references.sectionOne.table20.list6.city',
+                country: 'references.sectionOne.table20.list6.county',
+                work: 'references.sectionOne.table20.list6.work',
+                proyect: 'references.sectionOne.table20.list6.proyect'
+            }
+        ]
+    },
+    {
+        list: [
+            {
+                year: 'references.sectionOne.table21.year',
+                city: 'references.sectionOne.table21.list.city',
+                country: 'references.sectionOne.table21.list.county',
+                work: 'references.sectionOne.table21.list.work',
+                proyect: 'references.sectionOne.table21.list.proyect'
+            },
+            {
+                year: 'references.sectionOne.table21.year',
+                city: 'references.sectionOne.table21.list2.city',
+                country: 'references.sectionOne.table21.list2.county',
+                work: 'references.sectionOne.table21.list2.work',
+                proyect: 'references.sectionOne.table21.list2.proyect'
+            },
+            {
+                year: 'references.sectionOne.table21.year',
+                city: 'references.sectionOne.table21.list3.city',
+                country: 'references.sectionOne.table21.list3.county',
+                work: 'references.sectionOne.table21.list3.work',
+                proyect: 'references.sectionOne.table21.list3.proyect'
+            },
+            {
+                year: 'references.sectionOne.table21.year',
+                city: 'references.sectionOne.table21.list4.city',
+                country: 'references.sectionOne.table21.list4.county',
+                work: 'references.sectionOne.table21.list4.work',
+                proyect: 'references.sectionOne.table21.list4.proyect'
+            },
+            {
+                year: 'references.sectionOne.table21.year',
+                city: 'references.sectionOne.table21.list5.city',
+                country: 'references.sectionOne.table21.list5.county',
+                work: 'references.sectionOne.table21.list5.work',
+                proyect: 'references.sectionOne.table21.list5.proyect'
+            },
+            {
+                year: 'references.sectionOne.table21.year',
+                city: 'references.sectionOne.table21.list6.city',
+                country: 'references.sectionOne.table21.list6.county',
+                work: 'references.sectionOne.table21.list6.work',
+                proyect: 'references.sectionOne.table21.list6.proyect'
+            },
+            {
+                year: 'references.sectionOne.table21.year',
+                city: 'references.sectionOne.table21.list7.city',
+                country: 'references.sectionOne.table21.list7.county',
+                work: 'references.sectionOne.table21.list7.work',
+                proyect: 'references.sectionOne.table21.list7.proyect'
+            },
+            {
+                year: 'references.sectionOne.table21.year',
+                city: 'references.sectionOne.table21.list8.city',
+                country: 'references.sectionOne.table21.list8.county',
+                work: 'references.sectionOne.table21.list8.work',
+                proyect: 'references.sectionOne.table21.list8.proyect'
+            }
+        ]
+    },
+    {
+        list: [
+            {
+                year: 'references.sectionOne.table22.year',
+                city: 'references.sectionOne.table22.list.city',
+                country: 'references.sectionOne.table22.list.county',
+                work: 'references.sectionOne.table22.list.work',
+                proyect: 'references.sectionOne.table22.list.proyect'
+            },
+            {
+                year: 'references.sectionOne.table22.year',
+                city: 'references.sectionOne.table22.list2.city',
+                country: 'references.sectionOne.table22.list2.county',
+                work: 'references.sectionOne.table22.list2.work',
+                proyect: 'references.sectionOne.table22.list2.proyect'
+            },
+            {
+                year: 'references.sectionOne.table22.year',
+                city: 'references.sectionOne.table22.list3.city',
+                country: 'references.sectionOne.table22.list3.county',
+                work: 'references.sectionOne.table22.list3.work',
+                proyect: 'references.sectionOne.table22.list3.proyect'
+            },
+            {
+                year: 'references.sectionOne.table22.year',
+                city: 'references.sectionOne.table22.list4.city',
+                country: 'references.sectionOne.table22.list4.county',
+                work: 'references.sectionOne.table22.list4.work',
+                proyect: 'references.sectionOne.table22.list4.proyect'
+            },
+            {
+                year: 'references.sectionOne.table22.year',
+                city: 'references.sectionOne.table22.list5.city',
+                country: 'references.sectionOne.table22.list5.county',
+                work: 'references.sectionOne.table22.list5.work',
+                proyect: 'references.sectionOne.table22.list5.proyect'
+            },
+            {
+                year: 'references.sectionOne.table22.year',
+                city: 'references.sectionOne.table22.list6.city',
+                country: 'references.sectionOne.table22.list6.county',
+                work: 'references.sectionOne.table22.list6.work',
+                proyect: 'references.sectionOne.table22.list6.proyect'
+            },
+            {
+                year: 'references.sectionOne.table22.year',
+                city: 'references.sectionOne.table22.list7.city',
+                country: 'references.sectionOne.table22.list7.county',
+                work: 'references.sectionOne.table22.list7.work',
+                proyect: 'references.sectionOne.table22.list7.proyect'
+            },
+            {
+                year: 'references.sectionOne.table22.year',
+                city: 'references.sectionOne.table22.list8.city',
+                country: 'references.sectionOne.table22.list8.county',
+                work: 'references.sectionOne.table22.list8.work',
+                proyect: 'references.sectionOne.table22.list8.proyect'
+            },
+            {
+                year: 'references.sectionOne.table22.year',
+                city: 'references.sectionOne.table22.list9.city',
+                country: 'references.sectionOne.table22.list9.county',
+                work: 'references.sectionOne.table22.list9.work',
+                proyect: 'references.sectionOne.table22.list9.proyect'
+            },
+            {
+                year: 'references.sectionOne.table22.year',
+                city: 'references.sectionOne.table22.list10.city',
+                country: 'references.sectionOne.table22.list10.county',
+                work: 'references.sectionOne.table22.list10.work',
+                proyect: 'references.sectionOne.table22.list10.proyect'
+            }
+        ]
+    },
+    {
+        list: [
+            {
+                year: 'references.sectionOne.table23.year',
+                city: 'references.sectionOne.table23.list.city',
+                country: 'references.sectionOne.table23.list.county',
+                work: 'references.sectionOne.table23.list.work',
+                proyect: 'references.sectionOne.table23.list.proyect'
+            },
+            {
+                year: 'references.sectionOne.table23.year',
+                city: 'references.sectionOne.table23.list2.city',
+                country: 'references.sectionOne.table23.list2.county',
+                work: 'references.sectionOne.table23.list2.work',
+                proyect: 'references.sectionOne.table23.list2.proyect'
+            },
+            {
+                year: 'references.sectionOne.table23.year',
+                city: 'references.sectionOne.table23.list3.city',
+                country: 'references.sectionOne.table23.list3.county',
+                work: 'references.sectionOne.table23.list3.work',
+                proyect: 'references.sectionOne.table23.list3.proyect'
+            },
+            {
+                year: 'references.sectionOne.table23.year',
+                city: 'references.sectionOne.table23.list4.city',
+                country: 'references.sectionOne.table23.list4.county',
+                work: 'references.sectionOne.table23.list4.work',
+                proyect: 'references.sectionOne.table23.list4.proyect'
+            },
+            {
+                year: 'references.sectionOne.table23.year',
+                city: 'references.sectionOne.table23.list5.city',
+                country: 'references.sectionOne.table23.list5.county',
+                work: 'references.sectionOne.table23.list5.work',
+                proyect: 'references.sectionOne.table23.list5.proyect'
             }
         ]
     }
