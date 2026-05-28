@@ -1,8 +1,8 @@
 <script setup>
     const team = [
-        { 
+        {
             name: 'company.director.name',
-            image: 'jimmy_obuujj.jpg',
+            image: 'https://res.cloudinary.com/dxlpytfvs/image/upload/v1779972860/WhatsApp_Image_2026-05-28_at_14.49.33_rhnci5.jpg',
             ocupation: 'company.director.ocupation',
             lang: [
                 'ge', 'de', 'es', 'en', 'ru'
@@ -48,7 +48,7 @@
         class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20"
     >
         <div
-            class="grid grid-cols-[100%] md:grid-cols-[40%,60%] gap-10"
+            class="grid grid-cols-1 md:grid-cols-[40%_1fr] gap-10"
         >
             <div>
                 <div
@@ -58,7 +58,7 @@
                     <figure
                         class="overflow-hidden shadow-xl rounded-3xl mb-5"
                     >
-                        <nuxt-img 
+                        <img
                             class="w-full h-full object-cover object-center"
                             :src="member.image"
                             alt="team"
@@ -103,7 +103,7 @@
             </div>
             <div>
                 <p
-                    class="mt-5 text-gray-600"
+                    class="mt-5 md:mt-0 text-gray-600"
                 >
                     {{
                         $t('company.text')
