@@ -19,10 +19,14 @@ export default defineI18nConfig(() => ({
                     subHeadline: 'Especialistas Internacionales'
                },
                stats: {
-                    years: 'Años de Experiencia',
-                    countries: 'Países',
-                    projects: 'Proyectos IKEA',
-                    languages: 'Idiomas'
+                    years_number: 'Más de 20',
+                    years: 'años de experiencia',
+                    countries_number: 'Más de 10',
+                    countries: 'países',
+                    projects_number: 'Más de 50',
+                    projects: 'grandes proyectos',
+                    languages_number: 'Más de 3',
+                    languages: 'idiomas'
                },
                sectionOne: {
                     headline: '“El servicio significa ver todo el negocio a través de los ojos del cliente.” – Axel Haitzer',
@@ -751,9 +755,13 @@ export default defineI18nConfig(() => ({
                      subHeadline: 'Internationale Spezialisten'
                 },
                 stats: {
+                     years_number: '20+',
                      years: 'Jahre Erfahrung',
+                     countries_number: '10+',
                      countries: 'Länder',
-                     projects: 'IKEA-Projekte',
+                     projects_number: '50+',
+                     projects: 'Großprojekte',
+                     languages_number: '3+',
                      languages: 'Sprachen'
                 },
                 sectionOne: {
@@ -1483,9 +1491,13 @@ export default defineI18nConfig(() => ({
                      subHeadline: 'International Specialists'
                 },
                 stats: {
+                     years_number: '20+',
                      years: 'Years Experience',
+                     countries_number: '10+',
                      countries: 'Countries',
-                     projects: 'IKEA Projects',
+                     projects_number: '50+',
+                     projects: 'Large-Scale Projects',
+                     languages_number: '3+',
                      languages: 'Languages'
                 },
                 sectionOne: {
