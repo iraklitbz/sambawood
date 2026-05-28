@@ -30,12 +30,16 @@
     >
         <nuxt-link
             :to="localePath('/', locale)"
-            class="logo uppercase font-bold text-3xl tracking-widest text-center block w-40 shrink-0"
+            class="shrink-0 overflow-hidden relative block"
+            style="width:160px; height:24px;"
+            aria-label="Sambawood"
         >
-            <nuxt-img
-            class="w-full h-full"
-            src="logo_l1qnab.png"
-            alt="logo" />
+            <img
+                src="~/assets/logo.svg"
+                alt="Sambawood"
+                class="absolute"
+                style="width:160px; top:-14px;"
+            />
         </nuxt-link>
         <nav
             class="lg:flex gap-3 items-center navbar mt-4 lg:mt-0"
