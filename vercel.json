@@ -1,8 +1,4 @@
 {
   "framework": "nuxtjs",
   "buildCommand": "pnpm build",
-  "installCommand": "pnpm install",
-  "engines": {
-    "node": "22.x"
-  }
-}
+  "installCommand": "pnpm install"}
