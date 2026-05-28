@@ -15,10 +15,14 @@
         "subHeadline": "Especialistas Internacionales"
       },
       "stats": {
-        "years": "Años de Experiencia",
-        "countries": "Países",
-        "projects": "Proyectos IKEA",
-        "languages": "Idiomas"
+        "years_number": "Más de 20",
+        "years": "años de experiencia",
+        "countries_number": "Más de 10",
+        "countries": "países",
+        "projects_number": "Más de 50",
+        "projects": "grandes proyectos",
+        "languages_number": "Más de 3",
+        "languages": "idiomas"
       },
       "SecciónOne": {
         "headline": "“El servicio significa ver todo el negocio a través de los ojos del cliente.” – Axel Haitzer",
