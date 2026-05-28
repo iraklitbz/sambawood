@@ -38,7 +38,7 @@
                 src="~/assets/logo.svg"
                 alt="Sambawood"
                 class="absolute"
-                style="width:160px; top:-14px;"
+                style="width:160px; top:-14px; filter:brightness(0);"
             />
         </nuxt-link>
         <nav
