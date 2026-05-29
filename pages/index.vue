@@ -36,22 +36,22 @@
         </section>
         <section class="bg-black text-white py-10">
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                <div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+                <div class="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-8 text-center">
                     <div>
-                        <div class="text-4xl font-bold">{{ $t('home.stats.years_number') }}</div>
-                        <div class="text-sm uppercase tracking-widest mt-2 text-gray-400">{{ $t('home.stats.years') }}</div>
+                        <div class="text-2xl md:text-4xl font-bold">{{ $t('home.stats.years_number') }}</div>
+                        <div class="text-xs md:text-sm uppercase tracking-widest mt-2 text-gray-400">{{ $t('home.stats.years') }}</div>
                     </div>
                     <div>
-                        <div class="text-4xl font-bold">{{ $t('home.stats.countries_number') }}</div>
-                        <div class="text-sm uppercase tracking-widest mt-2 text-gray-400">{{ $t('home.stats.countries') }}</div>
+                        <div class="text-2xl md:text-4xl font-bold">{{ $t('home.stats.countries_number') }}</div>
+                        <div class="text-xs md:text-sm uppercase tracking-widest mt-2 text-gray-400">{{ $t('home.stats.countries') }}</div>
                     </div>
                     <div>
-                        <div class="text-4xl font-bold">{{ $t('home.stats.projects_number') }}</div>
-                        <div class="text-sm uppercase tracking-widest mt-2 text-gray-400">{{ $t('home.stats.projects') }}</div>
+                        <div class="text-2xl md:text-4xl font-bold">{{ $t('home.stats.projects_number') }}</div>
+                        <div class="text-xs md:text-sm uppercase tracking-widest mt-2 text-gray-400">{{ $t('home.stats.projects') }}</div>
                     </div>
                     <div>
-                        <div class="text-4xl font-bold">{{ $t('home.stats.languages_number') }}</div>
-                        <div class="text-sm uppercase tracking-widest mt-2 text-gray-400">{{ $t('home.stats.languages') }}</div>
+                        <div class="text-2xl md:text-4xl font-bold">{{ $t('home.stats.languages_number') }}</div>
+                        <div class="text-xs md:text-sm uppercase tracking-widest mt-2 text-gray-400">{{ $t('home.stats.languages') }}</div>
                     </div>
                 </div>
             </div>

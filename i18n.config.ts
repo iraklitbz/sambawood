@@ -14,9 +14,9 @@ export default defineI18nConfig(() => ({
             },
             home: {
                hero: {
-                    bigHeadline: 'Construcción Retail',
-                    smallHeadline: 'Coordinación de Proyectos',
-                    subHeadline: 'Especialistas Internacionales'
+                    bigHeadline: 'Construcción Comercial y Coordinación de Proyectos',
+                    smallHeadline: '',
+                    subHeadline: ''
                },
                stats: {
                     years: 'Años de Experiencia',
@@ -580,9 +580,9 @@ export default defineI18nConfig(() => ({
             },
             home: {
                 hero: {
-                     bigHeadline: 'Ladenbau',
-                     smallHeadline: 'Projektkoordination',
-                     subHeadline: 'Internationale Spezialisten'
+                     bigHeadline: 'Internationaler Ladenbau & Projektkoordination',
+                     smallHeadline: '',
+                     subHeadline: ''
                 },
                 stats: {
                      years: 'Jahre Erfahrung',
@@ -1146,9 +1146,9 @@ export default defineI18nConfig(() => ({
             },
             home: {
                 hero: {
-                     bigHeadline: 'Retail Fit-Out',
-                     smallHeadline: 'Project Coordination',
-                     subHeadline: 'International Specialists'
+                     bigHeadline: 'Retail Fit-Out & Project Coordination',
+                     smallHeadline: '',
+                     subHeadline: ''
                 },
                 stats: {
                      years: 'Years Experience',

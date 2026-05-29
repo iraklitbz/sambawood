@@ -71,19 +71,13 @@ onUnmounted(() => {
 
         <!-- Slide 2: Imagen de fondo con frases -->
         <div
-            class="absolute inset-0 flex flex-col items-center justify-center bg-[url('https://res.cloudinary.com/dmb4l3zfo/image/upload/v1686914083/sambawood/hero_n6iaqb.jpg')] bg-no-repeat bg-center bg-cover transition-opacity duration-1000"
+            class="absolute inset-0 bg-[url('https://res.cloudinary.com/dxlpytfvs/image/upload/v1780037227/IMG_1258_komp_qbzjga.jpg')] bg-no-repeat bg-center bg-cover transition-opacity duration-1000"
             :class="currentSlide === 1 ? 'opacity-100 z-10' : 'opacity-0 z-0'"
         >
-            <div>
-                <h1 class="text-3xl md:text-6xl font-bold uppercase bg-black p-2 text-center text-white">
+            <div class="absolute bottom-16 md:bottom-10 left-1/2 -translate-x-1/2 md:translate-x-0 md:left-6 max-w-[350px] text-center md:text-left">
+                <p class="text-xl md:text-2xl font-bold uppercase text-white leading-tight">
                     {{ $t('home.hero.bigHeadline') }}
-                </h1>
-                <h5 class="text-3xl md:text-6xl uppercase font-bold text-center bg-black/70 p-2 text-white">
-                    {{ $t('home.hero.smallHeadline') }}
-                </h5>
-                <h2 class="text-3xl md:text-6xl font-bold uppercase bg-black/40 p-2 text-center text-white">
-                    {{ $t('home.hero.subHeadline') }}
-                </h2>
+                </p>
             </div>
         </div>
 
