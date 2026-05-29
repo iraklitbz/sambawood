@@ -18,7 +18,7 @@ onMounted(() => {
 
     timer = setInterval(() => {
         currentSlide.value = (currentSlide.value + 1) % total
-    }, 4500)
+    }, 7000)
 })
 
 watch(currentSlide, (val) => {
