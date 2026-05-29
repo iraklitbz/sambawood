@@ -14,11 +14,6 @@
                     color: 'text-facebook'
                 },
                 {
-                    name: 'instagram',
-                    link: 'https://www.instagram.com/innovatioindesign/',
-                    color: 'text-instagram'
-                },
-                {
                     name: 'gmail',
                     link: 'mailto:info@sambawood.com',
                     color: 'text-google'
