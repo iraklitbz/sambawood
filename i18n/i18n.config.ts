@@ -405,13 +405,13 @@ export default defineI18nConfig(() => ({
                         },
                         list2: {
                             city: 'Mons',
-                            county: 'Belgica',
+                            county: 'Bélgica',
                             work: 'Nueva construcción',
                             proyect: 'Market hall / Restaurante / oficinas'
                         },
                         list3: {
                             city: 'Haarlem',
-                            county: 'Netherlands',
+                            county: 'Países Bajos',
                             work: 'Reforma',
                             proyect: 'Market hall'
                         },
@@ -453,13 +453,13 @@ export default defineI18nConfig(() => ({
                         year: '2018',
                         list: {
                             city: 'Amsterdam',
-                            county: 'Netherlands',
+                            county: 'Países Bajos',
                             work: 'Reforma',
                             proyect: 'Market hall / Grid ceiling'
                         },
                         list2: {
                             city: 'Amsterdam',
-                            county: 'Netherlands',
+                            county: 'Países Bajos',
                             work: 'Reforma',
                             proyect: 'Pasillo principal'
                         }
@@ -489,7 +489,7 @@ export default defineI18nConfig(() => ({
                         },
                         list2: {
                             city: 'Amsterdam',
-                            county: 'Netherlands',
+                            county: 'Países Bajos',
                             work: 'Nueva construcción',
                             proyect: 'Oficinas de tienda online'
                         }
@@ -504,7 +504,7 @@ export default defineI18nConfig(() => ({
                         },
                         list2: {
                             city: 'Amsterdam',
-                            county: 'Netherlands',
+                            county: 'Países Bajos',
                             work: 'Nueva construcción',
                             proyect: 'Oficinas internas'
                         }
@@ -513,7 +513,7 @@ export default defineI18nConfig(() => ({
                         year: '2022',
                         list: {
                             city: 'Amsterdam',
-                            county: 'Netherlands',
+                            county: 'Países Bajos',
                             work: 'Reforma',
                             proyect: 'Cocina / Comedor'
                         },
@@ -636,7 +636,7 @@ export default defineI18nConfig(() => ({
                         },
                         list4: {
                             city: 'Amersfoort',
-                            county: 'Netherlands',
+                            county: 'Países Bajos',
                             work: 'Remodelación',
                             proyect: 'Showroom - Cocinas y Áreas de Comedor'
                         },
@@ -1372,7 +1372,7 @@ export default defineI18nConfig(() => ({
                         },
                         list4: {
                             city: 'Amersfoort',
-                            county: 'Netherlands',
+                            county: 'Niederlande',
                             work: 'Umbau',
                             proyect: 'Showroom - Küchen & Essbereiche'
                         },

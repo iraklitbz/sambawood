@@ -46,7 +46,19 @@
       "Bash(git commit *)",
       "Bash(git push *)",
       "Bash(git reset *)",
-      "Bash(git *)"
+      "Bash(git *)",
+      "Bash(chmod +x /private/tmp/claude-501/-Users-iraklitbz-Desktop-apps-webs-sambawood/f8b1d9f2-5003-412e-a108-0b1d804328a7/scratchpad/analyze.sh)",
+      "Bash(/private/tmp/claude-501/-Users-iraklitbz-Desktop-apps-webs-sambawood/f8b1d9f2-5003-412e-a108-0b1d804328a7/scratchpad/analyze.sh)",
+      "Bash(sort -t: -k2)",
+      "Bash(awk -F\"county: '\" '{print $2}')",
+      "Bash(awk 'NR>=571 && NR<=1136 && /county:/' /Users/iraklitbz/Desktop/apps/webs/sambawood/i18n.config.ts)",
+      "Bash(awk 'NR>=5 && NR<=570 && /county:/' /Users/iraklitbz/Desktop/apps/webs/sambawood/i18n.config.ts)",
+      "Bash(awk 'NR>=1137 && NR<=1702 && /county:/' /Users/iraklitbz/Desktop/apps/webs/sambawood/i18n.config.ts)",
+      "Bash(grep -n \"^\\\\tes: {\\\\|^\\\\tde: {\\\\|^\\\\ten: {\\\\|es: {$\\\\|de: {$\\\\|en: {$\" /Users/iraklitbz/Desktop/apps/webs/sambawood/i18n.config.ts)",
+      "Bash(awk 'NR>=5 && NR<=570 && /county:/' i18n.config.ts)",
+      "Bash(awk 'NR>=5 && NR<=740 && /county:/' i18n/i18n.config.ts)",
+      "Bash(awk 'NR>=741 && NR<=1476 && /county:/' i18n/i18n.config.ts)",
+      "Bash(awk 'NR>=1477 && /county:/' i18n/i18n.config.ts)"
     ],
     "deny": [],
     "ask": []
