@@ -2,6 +2,12 @@ export default defineNuxtConfig({
   app: {
     pageTransition: { name: 'page', mode: 'out-in' },
     head: {
+      meta: [
+        {
+          name: 'google-site-verification',
+          content: 'AeefQrInSc2pMYD-MMsVHs2I819hdz9RwBEw8nXliFA'
+        }
+      ],
       script: [
         {
           src: 'https://www.googletagmanager.com/gtag/js?id=G-8KXY4K9G02',
